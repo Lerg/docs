@@ -4,7 +4,7 @@
 > __Type__              [Table][api.type.Table]
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, Service
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -13,20 +13,20 @@ Represents a Bluetooth GATT Service.
 
 ## Properties
 
-#### [object.id][plugin.bluetooth.type.Service.id]
+#### [object.id](/plugin.bluetooth.type.Service.id.md)
 
-#### [object.uuid][plugin.bluetooth.type.Service.uuid]
+#### [object.uuid](/plugin.bluetooth.type.Service.uuid.md)
 
-#### [object.isPrimary][plugin.bluetooth.type.Service.isPrimary]
+#### [object.isPrimary](/plugin.bluetooth.type.Service.isPrimary.md)
 
 ## Functions
 
-#### [object.addCharacteristic()][plugin.bluetooth.type.Service.addCharacteristic]
+#### [object.addCharacteristic()](/plugin.bluetooth.type.Service.addCharacteristic.md)
 
-#### [object.addService()][plugin.bluetooth.type.Service.addService]
+#### [object.addService()](/plugin.bluetooth.type.Service.addService.md)
 
-#### [object.getCharacteristic()][plugin.bluetooth.type.Service.getCharacteristic]
+#### [object.getCharacteristic()](/plugin.bluetooth.type.Service.getCharacteristic.md)
 
-#### [object.getCharacteristics()][plugin.bluetooth.type.Service.getCharacteristics]
+#### [object.getCharacteristics()](/plugin.bluetooth.type.Service.getCharacteristics.md)
 
-#### [object.getIncludedServices()][plugin.bluetooth.type.Service.getIncludedServices]
+#### [object.getIncludedServices()](/plugin.bluetooth.type.Service.getIncludedServices.md)

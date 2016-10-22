@@ -5,7 +5,7 @@
 > __Return value__      none
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, connect
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -23,7 +23,7 @@ _[Table][api.type.Table]._ Contains parameters for the call &mdash; see the next
 The `params` table includes parameters for the call.
 
 ##### device ~^(required)^~
-_[Device][plugin.bluetooth.type.Device]._
+_[Device](/plugin.bluetooth.type.Device.md)._
 
 ##### autoConnect ~^(optional)^~
 _[Boolean][api.type.Boolean]._ default is `false`.

@@ -5,7 +5,7 @@
 > __Return value__      none
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, Server, cancelConnection
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -15,4 +15,4 @@
 	object:cancelConnection( device )
 
 ##### device ~^(required)^~
-_[Device][plugin.bluetooth.type.Device]._
+_[Device](/plugin.bluetooth.type.Device.md)._

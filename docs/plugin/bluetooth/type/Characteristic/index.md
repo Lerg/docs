@@ -4,7 +4,7 @@
 > __Type__              [Table][api.type.Table]
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, Characteristic
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -13,40 +13,40 @@ Represents a Bluetooth GATT Characteristic.
 
 ## Properties
 
-#### [object.id][plugin.bluetooth.type.Characteristic.id]
+#### [object.id](/plugin.bluetooth.type.Characteristic.id.md)
 
-#### [object.uuid][plugin.bluetooth.type.Characteristic.uuid]
+#### [object.uuid](/plugin.bluetooth.type.Characteristic.uuid.md)
 
-#### [object.permissions][plugin.bluetooth.type.Characteristic.permissions]
+#### [object.permissions](/plugin.bluetooth.type.Characteristic.permissions.md)
 
-#### [object.properties][plugin.bluetooth.type.Characteristic.properties]
+#### [object.properties](/plugin.bluetooth.type.Characteristic.properties.md)
 
 ## Functions
 
-#### [object.addDescriptor()][plugin.bluetooth.type.Characteristic.addDescriptor]
+#### [object.addDescriptor()](/plugin.bluetooth.type.Characteristic.addDescriptor.md)
 
-#### [object.getDescriptor()][plugin.bluetooth.type.Characteristic.getDescriptor]
+#### [object.getDescriptor()](/plugin.bluetooth.type.Characteristic.getDescriptor.md)
 
-#### [object.getDescriptors()][plugin.bluetooth.type.Characteristic.getDescriptors]
+#### [object.getDescriptors()](/plugin.bluetooth.type.Characteristic.getDescriptors.md)
 
-#### [object.getService()][plugin.bluetooth.type.Characteristic.getService]
+#### [object.getService()](/plugin.bluetooth.type.Characteristic.getService.md)
 
-#### [object.getFloatValue()][plugin.bluetooth.type.Characteristic.getFloatValue]
+#### [object.getFloatValue()](/plugin.bluetooth.type.Characteristic.getFloatValue.md)
 
-#### [object.getIntValue()][plugin.bluetooth.type.Characteristic.getIntValue]
+#### [object.getIntValue()](/plugin.bluetooth.type.Characteristic.getIntValue.md)
 
-#### [object.getStringValue()][plugin.bluetooth.type.Characteristic.getStringValue]
+#### [object.getStringValue()](/plugin.bluetooth.type.Characteristic.getStringValue.md)
 
-#### [object.getValue()][plugin.bluetooth.type.Characteristic.getValue]
+#### [object.getValue()](/plugin.bluetooth.type.Characteristic.getValue.md)
 
-#### [object.setFloatValue()][plugin.bluetooth.type.Characteristic.setFloatValue]
+#### [object.setFloatValue()](/plugin.bluetooth.type.Characteristic.setFloatValue.md)
 
-#### [object.setIntValue()][plugin.bluetooth.type.Characteristic.setIntValue]
+#### [object.setIntValue()](/plugin.bluetooth.type.Characteristic.setIntValue.md)
 
-#### [object.setStringValue()][plugin.bluetooth.type.Characteristic.setStringValue]
+#### [object.setStringValue()](/plugin.bluetooth.type.Characteristic.setStringValue.md)
 
-#### [object.setValue()][plugin.bluetooth.type.Characteristic.setValue]
+#### [object.setValue()](/plugin.bluetooth.type.Characteristic.setValue.md)
 
-#### [object.getWriteType()][plugin.bluetooth.type.Characteristic.getWriteType]
+#### [object.getWriteType()](/plugin.bluetooth.type.Characteristic.getWriteType.md)
 
-#### [object.setWriteType()][plugin.bluetooth.type.Characteristic.setWriteType]
+#### [object.setWriteType()](/plugin.bluetooth.type.Characteristic.setWriteType.md)

@@ -5,7 +5,7 @@
 > __Return value__      [Number][api.type.Number]
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, Characteristic, getFloatValue
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

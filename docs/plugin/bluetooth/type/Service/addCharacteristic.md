@@ -5,7 +5,7 @@
 > __Return value__      [Boolean][api.type.Boolean]
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, Service, addCharacteristic
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -15,4 +15,4 @@
 	object:addCharacteristic( characteristic )
 
 ##### characteristic ~^(required)^~
-_[Characteristic][plugin.bluetooth.type.Characteristic]._
+_[Characteristic](/plugin.bluetooth.type.Characteristic.md)._

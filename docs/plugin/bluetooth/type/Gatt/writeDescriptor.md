@@ -5,7 +5,7 @@
 > __Return value__      [Boolean][api.type.Boolean]
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, Gatt, writeDescriptor
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -15,4 +15,4 @@
 	object:writeDescriptor( descriptor )
 
 ##### descriptor ~^(required)^~
-_[Descriptor][plugin.bluetooth.type.Descriptor]._
+_[Descriptor](/plugin.bluetooth.type.Descriptor.md)._

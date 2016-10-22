@@ -5,7 +5,7 @@
 > __Return value__      [Boolean][api.type.Boolean]
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, Server, addService
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -15,4 +15,4 @@
 	object:addService( service )
 
 ##### service ~^(required)^~
-_[Service][plugin.bluetooth.type.Service]._
+_[Service](/plugin.bluetooth.type.Service.md)._

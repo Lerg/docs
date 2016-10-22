@@ -2,13 +2,13 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [String][api.type.String]
-> __Event__             [onReliableWriteCompleted][plugin.bluetooth.type.Gatt.event.onReliableWriteCompleted]
+> __Event__             [onReliableWriteCompleted](/plugin.bluetooth.type.Gatt.event.onReliableWriteCompleted.md)
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, onReliableWriteCompleted, errorMessage
-> __See also__          [onReliableWriteCompleted][plugin.bluetooth.type.Gatt.event.onReliableWriteCompleted]
->						[bluetooth.*][plugin.bluetooth]
+> __See also__          [onReliableWriteCompleted](/plugin.bluetooth.type.Gatt.event.onReliableWriteCompleted.md)
+>						[bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-[String][api.type.String] description of an error when [event.isError][plugin.bluetooth.type.Gatt.event.onReliableWriteCompleted.isError] is `true`, `nil` otherwise.
+[String][api.type.String] description of an error when [event.isError](/plugin.bluetooth.type.Gatt.event.onReliableWriteCompleted.isError.md) is `true`, `nil` otherwise.

@@ -2,11 +2,11 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Boolean][api.type.Boolean]
-> __Event__             [onServicesDiscovered][plugin.bluetooth.type.Gatt.event.onServicesDiscovered]
+> __Event__             [onServicesDiscovered](/plugin.bluetooth.type.Gatt.event.onServicesDiscovered.md)
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, onServicesDiscovered, isError
-> __See also__          [onServicesDiscovered][plugin.bluetooth.type.Gatt.event.onServicesDiscovered]
->						[bluetooth.*][plugin.bluetooth]
+> __See also__          [onServicesDiscovered](/plugin.bluetooth.type.Gatt.event.onServicesDiscovered.md)
+>						[bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

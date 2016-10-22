@@ -4,7 +4,7 @@
 > __Type__              [Event][api.type.Event]
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, advertising
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -13,16 +13,16 @@ Occurs when Bluetooth advertising has been started or failed to start.
 
 ## Properties
 
-#### [event.name][plugin.bluetooth.event.advertising.name]
+#### [event.name](/plugin.bluetooth.event.advertising.name.md)
 
-#### [event.isError][plugin.bluetooth.event.advertising.isError]
+#### [event.isError](/plugin.bluetooth.event.advertising.isError.md)
 
-#### [event.errorCode][plugin.bluetooth.event.advertising.errorCode]
+#### [event.errorCode](/plugin.bluetooth.event.advertising.errorCode.md)
 
-#### [event.errorMessage][plugin.bluetooth.event.advertising.errorMessage]
+#### [event.errorMessage](/plugin.bluetooth.event.advertising.errorMessage.md)
 
-#### [event.mode][plugin.bluetooth.event.advertising.mode]
+#### [event.mode](/plugin.bluetooth.event.advertising.mode.md)
 
-#### [event.timeout][plugin.bluetooth.event.advertising.timeout]
+#### [event.timeout](/plugin.bluetooth.event.advertising.timeout.md)
 
-#### [event.txPowerLevel][plugin.bluetooth.event.advertising.txPowerLevel]
+#### [event.txPowerLevel](/plugin.bluetooth.event.advertising.txPowerLevel.md)

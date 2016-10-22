@@ -2,11 +2,11 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [String][api.type.String]
-> __Event__             [onDescriptorRead][plugin.bluetooth.type.Gatt.event.onDescriptorRead]
+> __Event__             [onDescriptorRead](/plugin.bluetooth.type.Gatt.event.onDescriptorRead.md)
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, onDescriptorRead, name
-> __See also__          [onDescriptorRead][plugin.bluetooth.type.Gatt.event.onDescriptorRead]
->						[bluetooth.*][plugin.bluetooth]
+> __See also__          [onDescriptorRead](/plugin.bluetooth.type.Gatt.event.onDescriptorRead.md)
+>						[bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

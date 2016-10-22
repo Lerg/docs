@@ -5,7 +5,7 @@
 > __Return value__      [Boolean][api.type.Boolean]
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, Server, sendResponse
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -15,7 +15,7 @@
 	object:sendResponse( device, requestId, status, value, [offset] )
 
 ##### device ~^(required)^~
-_[Device][plugin.bluetooth.type.Device]._
+_[Device](/plugin.bluetooth.type.Device.md)._
 
 ##### requestId ~^(required)^~
 _[String][api.type.String]._

@@ -4,7 +4,7 @@
 > __Type__              [Table][api.type.Table]
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, Server
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -13,42 +13,42 @@ Represents a Bluetooth GATT Server.
 
 ## Functions
 
-#### [object.addService()][plugin.bluetooth.type.Server.addService]
+#### [object.addService()](/plugin.bluetooth.type.Server.addService.md)
 
-#### [object.cancelConnection()][plugin.bluetooth.type.Server.cancelConnection]
+#### [object.cancelConnection()](/plugin.bluetooth.type.Server.cancelConnection.md)
 
-#### [object.clearServices()][plugin.bluetooth.type.Server.clearServices]
+#### [object.clearServices()](/plugin.bluetooth.type.Server.clearServices.md)
 
-#### [object.close()][plugin.bluetooth.type.Server.close]
+#### [object.close()](/plugin.bluetooth.type.Server.close.md)
 
-#### [object.connect()][plugin.bluetooth.type.Server.connect]
+#### [object.connect()](/plugin.bluetooth.type.Server.connect.md)
 
-#### [object.getService()][plugin.bluetooth.type.Server.getService]
+#### [object.getService()](/plugin.bluetooth.type.Server.getService.md)
 
-#### [object.getServices()][plugin.bluetooth.type.Server.getServices]
+#### [object.getServices()](/plugin.bluetooth.type.Server.getServices.md)
 
-#### [object.notifyCharacteristicChanged()][plugin.bluetooth.type.Server.notifyCharacteristicChanged]
+#### [object.notifyCharacteristicChanged()](/plugin.bluetooth.type.Server.notifyCharacteristicChanged.md)
 
-#### [object.removeService()][plugin.bluetooth.type.Server.removeService]
+#### [object.removeService()](/plugin.bluetooth.type.Server.removeService.md)
 
-#### [object.sendResponse()][plugin.bluetooth.type.Server.sendResponse]
+#### [object.sendResponse()](/plugin.bluetooth.type.Server.sendResponse.md)
 
 ## Events
 
-#### [onCharacteristicReadRequest][plugin.bluetooth.type.Server.event.onCharacteristicReadRequest]
+#### [onCharacteristicReadRequest](/plugin.bluetooth.type.Server.event.onCharacteristicReadRequest.md)
 
-#### [onCharacteristicWriteRequest][plugin.bluetooth.type.Server.event.onCharacteristicWriteRequest]
+#### [onCharacteristicWriteRequest](/plugin.bluetooth.type.Server.event.onCharacteristicWriteRequest.md)
 
-#### [onConnectionStateChange][plugin.bluetooth.type.Server.event.onConnectionStateChange]
+#### [onConnectionStateChange](/plugin.bluetooth.type.Server.event.onConnectionStateChange.md)
 
-#### [onDescriptorReadRequest][plugin.bluetooth.type.Server.event.onDescriptorReadRequest]
+#### [onDescriptorReadRequest](/plugin.bluetooth.type.Server.event.onDescriptorReadRequest.md)
 
-#### [onDescriptorWriteRequest][plugin.bluetooth.type.Server.event.onDescriptorWriteRequest]
+#### [onDescriptorWriteRequest](/plugin.bluetooth.type.Server.event.onDescriptorWriteRequest.md)
 
-#### [onExecuteWrite][plugin.bluetooth.type.Server.event.onExecuteWrite]
+#### [onExecuteWrite](/plugin.bluetooth.type.Server.event.onExecuteWrite.md)
 
-#### [onMtuChanged][plugin.bluetooth.type.Server.event.onMtuChanged]
+#### [onMtuChanged](/plugin.bluetooth.type.Server.event.onMtuChanged.md)
 
-#### [onNotificationSent][plugin.bluetooth.type.Server.event.onNotificationSent]
+#### [onNotificationSent](/plugin.bluetooth.type.Server.event.onNotificationSent.md)
 
-#### [onServiceAdded][plugin.bluetooth.type.Server.event.onServiceAdded]
+#### [onServiceAdded](/plugin.bluetooth.type.Server.event.onServiceAdded.md)

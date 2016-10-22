@@ -28,51 +28,51 @@ The [Bluetooth](https://marketplace.coronalabs.com/plugin/bluetooth) plugin enab
 
 ## Properties
 
-#### [bluetooth.isActive][plugin.bluetooth.isActive]
+#### [bluetooth.isActive](/plugin.bluetooth.isActive.md)
 
-#### [bluetooth.isScanning][plugin.bluetooth.isScanning]
+#### [bluetooth.isScanning](/plugin.bluetooth.isScanning.md)
 
-#### [bluetooth.isMultipleAdvertisementSupported][plugin.bluetooth.isMultipleAdvertisementSupported]
+#### [bluetooth.isMultipleAdvertisementSupported](/plugin.bluetooth.isMultipleAdvertisementSupported.md)
 
-#### [bluetooth.isOffloadedFilteringSupported][plugin.bluetooth.isOffloadedFilteringSupported]
+#### [bluetooth.isOffloadedFilteringSupported](/plugin.bluetooth.isOffloadedFilteringSupported.md)
 
-#### [bluetooth.isOffloadedScanBatchingSupported][plugin.bluetooth.isOffloadedScanBatchingSupported]
+#### [bluetooth.isOffloadedScanBatchingSupported](/plugin.bluetooth.isOffloadedScanBatchingSupported.md)
 
 ## Functions
 
-#### [bluetooth.init()][plugin.bluetooth.init]
+#### [bluetooth.init()](/plugin.bluetooth.init.md)
 
-#### [bluetooth.setName()][plugin.bluetooth.setName]
+#### [bluetooth.setName()](/plugin.bluetooth.setName.md)
 
-#### [bluetooth.startScan()][plugin.bluetooth.startScan]
+#### [bluetooth.startScan()](/plugin.bluetooth.startScan.md)
 
-#### [bluetooth.stopScan()][plugin.bluetooth.stopScan]
+#### [bluetooth.stopScan()](/plugin.bluetooth.stopScan.md)
 
-#### [bluetooth.connect()][plugin.bluetooth.connect]
+#### [bluetooth.connect()](/plugin.bluetooth.connect.md)
 
-#### [bluetooth.disconnect()][plugin.bluetooth.disconnect]
+#### [bluetooth.disconnect()](/plugin.bluetooth.disconnect.md)
 
-#### [bluetooth.newServer()][plugin.bluetooth.newServer]
+#### [bluetooth.newServer()](/plugin.bluetooth.newServer.md)
 
-#### [bluetooth.startAdvertising()][plugin.bluetooth.startAdvertising]
+#### [bluetooth.startAdvertising()](/plugin.bluetooth.startAdvertising.md)
 
-#### [bluetooth.stopAdvertising()][plugin.bluetooth.stopAdvertising]
+#### [bluetooth.stopAdvertising()](/plugin.bluetooth.stopAdvertising.md)
 
 ## Events
 
-#### [init][plugin.bluetooth.event.init]
+#### [init](/plugin.bluetooth.event.init.md)
 
 ## Types
 
-#### [Gatt][plugin.bluetooth.type.Gatt]
+#### [Gatt](/plugin.bluetooth.type.Gatt.md)
 
-#### [Characteristic][plugin.bluetooth.type.Characteristic]
+#### [Characteristic](/plugin.bluetooth.type.Characteristic.md)
 
-#### [Descriptor][plugin.bluetooth.type.Descriptor]
+#### [Descriptor](/plugin.bluetooth.type.Descriptor.md)
 
-#### [Server][plugin.bluetooth.type.Server]
+#### [Server](/plugin.bluetooth.type.Server.md)
 
-#### [Service][plugin.bluetooth.type.Service]
+#### [Service](/plugin.bluetooth.type.Service.md)
 
 <a id="settings"></a>
 

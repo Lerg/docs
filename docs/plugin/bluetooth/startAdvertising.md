@@ -5,7 +5,7 @@
 > __Return value__      [Userdata][api.type.Userdata]
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, startAdvertising
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -37,10 +37,10 @@ _[Number][api.type.Number]._ integer.
 _[Number][api.type.Number]._ integer.
 
 ##### broadcast ~^(optional)^~
-_[AdvertiseData][plugin.bluetooth.type.AdvertiseData]._
+_[AdvertiseData](/plugin.bluetooth.type.AdvertiseData.md)._
 
 ##### response ~^(optional)^~
-_[AdvertiseData][plugin.bluetooth.type.AdvertiseData]._
+_[AdvertiseData](/plugin.bluetooth.type.AdvertiseData.md)._
 
 ##### listener ~^(optional)^~
 _[Listener][api.type.Listener]._

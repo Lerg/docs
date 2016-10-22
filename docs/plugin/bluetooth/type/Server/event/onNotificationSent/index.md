@@ -4,19 +4,19 @@
 > __Type__              [Event][api.type.Event]
 > __Revision__          [REVISION_LABEL](REVISION_URL)
 > __Keywords__          Bluetooth, bt, onNotificationSent
-> __See also__          [bluetooth.*][plugin.bluetooth]
+> __See also__          [bluetooth.*](/plugin.bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
 ## Properties
 
-#### [event.name][plugin.bluetooth.type.Server.event.onNotificationSent.name]
+#### [event.name](/plugin.bluetooth.type.Server.event.onNotificationSent.name.md)
 
-#### [event.isError][plugin.bluetooth.type.Server.event.onNotificationSent.isError]
+#### [event.isError](/plugin.bluetooth.type.Server.event.onNotificationSent.isError.md)
 
-#### [event.errorCode][plugin.bluetooth.type.Server.event.onNotificationSent.errorCode]
+#### [event.errorCode](/plugin.bluetooth.type.Server.event.onNotificationSent.errorCode.md)
 
-#### [event.errorMessage][plugin.bluetooth.type.Server.event.onNotificationSent.errorMessage]
+#### [event.errorMessage](/plugin.bluetooth.type.Server.event.onNotificationSent.errorMessage.md)
 
-#### [event.device][plugin.bluetooth.type.Server.event.onNotificationSent.device]
+#### [event.device](/plugin.bluetooth.type.Server.event.onNotificationSent.device.md)
