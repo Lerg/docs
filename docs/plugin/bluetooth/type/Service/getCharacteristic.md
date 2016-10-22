@@ -2,10 +2,10 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Function][api.type.Function]
-> __Return value__      [Characteristic](/plugin.bluetooth.type.Characteristic.md)
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, bt, Server, getCharacteristic
-> __See also__          [bluetooth.*](/plugin.bluetooth.md)
+> __Return value__      [Characteristic](/plugin/bluetooth/type/Characteristic/index.md)
+
+
+> __See also__          [bluetooth.*](/plugin/bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

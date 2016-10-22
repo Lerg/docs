@@ -2,9 +2,9 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Library][api.type.library]
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, wireless, bt
-> __Platforms__         Android
+
+
+
 > --------------------- ------------------------------------------------------------------------------------------
 
 
@@ -28,51 +28,51 @@ The [Bluetooth](https://marketplace.coronalabs.com/plugin/bluetooth) plugin enab
 
 ## Properties
 
-#### [bluetooth.isActive](/plugin.bluetooth.isActive.md)
+#### [bluetooth.isActive](/plugin/bluetooth/isActive.md)
 
-#### [bluetooth.isScanning](/plugin.bluetooth.isScanning.md)
+#### [bluetooth.isScanning](/plugin/bluetooth/isScanning.md)
 
-#### [bluetooth.isMultipleAdvertisementSupported](/plugin.bluetooth.isMultipleAdvertisementSupported.md)
+#### [bluetooth.isMultipleAdvertisementSupported](/plugin/bluetooth/isMultipleAdvertisementSupported.md)
 
-#### [bluetooth.isOffloadedFilteringSupported](/plugin.bluetooth.isOffloadedFilteringSupported.md)
+#### [bluetooth.isOffloadedFilteringSupported](/plugin/bluetooth/isOffloadedFilteringSupported.md)
 
-#### [bluetooth.isOffloadedScanBatchingSupported](/plugin.bluetooth.isOffloadedScanBatchingSupported.md)
+#### [bluetooth.isOffloadedScanBatchingSupported](/plugin/bluetooth/isOffloadedScanBatchingSupported.md)
 
 ## Functions
 
-#### [bluetooth.init()](/plugin.bluetooth.init.md)
+#### [bluetooth.init()](/plugin/bluetooth/init.md)
 
-#### [bluetooth.setName()](/plugin.bluetooth.setName.md)
+#### [bluetooth.setName()](/plugin/bluetooth/setName.md)
 
-#### [bluetooth.startScan()](/plugin.bluetooth.startScan.md)
+#### [bluetooth.startScan()](/plugin/bluetooth/startScan.md)
 
-#### [bluetooth.stopScan()](/plugin.bluetooth.stopScan.md)
+#### [bluetooth.stopScan()](/plugin/bluetooth/stopScan.md)
 
-#### [bluetooth.connect()](/plugin.bluetooth.connect.md)
+#### [bluetooth.connect()](/plugin/bluetooth/connect.md)
 
-#### [bluetooth.disconnect()](/plugin.bluetooth.disconnect.md)
+#### [bluetooth.disconnect()](/plugin/bluetooth/disconnect.md)
 
-#### [bluetooth.newServer()](/plugin.bluetooth.newServer.md)
+#### [bluetooth.newServer()](/plugin/bluetooth/newServer.md)
 
-#### [bluetooth.startAdvertising()](/plugin.bluetooth.startAdvertising.md)
+#### [bluetooth.startAdvertising()](/plugin/bluetooth/startAdvertising.md)
 
-#### [bluetooth.stopAdvertising()](/plugin.bluetooth.stopAdvertising.md)
+#### [bluetooth.stopAdvertising()](/plugin/bluetooth/stopAdvertising.md)
 
 ## Events
 
-#### [init](/plugin.bluetooth.event.init.md)
+#### [init](/plugin/bluetooth/event/init/index.md)
 
 ## Types
 
-#### [Gatt](/plugin.bluetooth.type.Gatt.md)
+#### [Gatt](/plugin/bluetooth/type/Gatt/index.md)
 
-#### [Characteristic](/plugin.bluetooth.type.Characteristic.md)
+#### [Characteristic](/plugin/bluetooth/type/Characteristic/index.md)
 
-#### [Descriptor](/plugin.bluetooth.type.Descriptor.md)
+#### [Descriptor](/plugin/bluetooth/type/Descriptor/index.md)
 
-#### [Server](/plugin.bluetooth.type.Server.md)
+#### [Server](/plugin/bluetooth/type/Server/index.md)
 
-#### [Service](/plugin.bluetooth.type.Service.md)
+#### [Service](/plugin/bluetooth/type/Service/index.md)
 
 <a id="settings"></a>
 

@@ -2,11 +2,11 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [String][api.type.String]
-> __Event__             [advertising](/plugin.bluetooth.event.advertising.md)
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, bt, advertising, name
-> __See also__          [advertising](/plugin.bluetooth.event.advertising.md)
->						[bluetooth.*](/plugin.bluetooth.md)
+> __Event__             [advertising](/plugin/bluetooth/event/advertising/index.md)
+
+
+> __See also__          [advertising](/plugin/bluetooth/event/advertising/index.md)
+>						[bluetooth.*](/plugin/bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

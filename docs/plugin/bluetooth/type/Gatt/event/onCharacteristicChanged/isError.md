@@ -2,11 +2,11 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Boolean][api.type.Boolean]
-> __Event__             [onCharacteristicChanged](/plugin.bluetooth.type.Gatt.event.onCharacteristicChanged.md)
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, bt, onCharacteristicChanged, isError
-> __See also__          [onCharacteristicChanged](/plugin.bluetooth.type.Gatt.event.onCharacteristicChanged.md)
->						[bluetooth.*](/plugin.bluetooth.md)
+> __Event__             [onCharacteristicChanged](/plugin/bluetooth/type/Gatt/event/onCharacteristicChanged/index.md)
+
+
+> __See also__          [onCharacteristicChanged](/plugin/bluetooth/type/Gatt/event/onCharacteristicChanged/index.md)
+>						[bluetooth.*](/plugin/bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

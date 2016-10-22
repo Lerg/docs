@@ -2,9 +2,9 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Table][api.type.Table]
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, bt, Descriptor
-> __See also__          [bluetooth.*](/plugin.bluetooth.md)
+
+
+> __See also__          [bluetooth.*](/plugin/bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -13,14 +13,14 @@ Represents a Bluetooth GATT Descriptor.
 
 ## Properties
 
-#### [object.uuid](/plugin.bluetooth.type.Descriptor.uuid.md)
+#### [object.uuid](/plugin/bluetooth/type/Descriptor/uuid.md)
 
-#### [object.permissions](/plugin.bluetooth.type.Descriptor.permissions.md)
+#### [object.permissions](/plugin/bluetooth/type/Descriptor/permissions.md)
 
 ## Functions
 
-#### [object.getCharacteristic()](/plugin.bluetooth.type.Descriptor.getCharacteristic.md)
+#### [object.getCharacteristic()](/plugin/bluetooth/type/Descriptor/getCharacteristic.md)
 
-#### [object.getValue()](/plugin.bluetooth.type.Descriptor.getValue.md)
+#### [object.getValue()](/plugin/bluetooth/type/Descriptor/getValue.md)
 
-#### [object.setValue()](/plugin.bluetooth.type.Descriptor.setValue.md)
+#### [object.setValue()](/plugin/bluetooth/type/Descriptor/setValue.md)

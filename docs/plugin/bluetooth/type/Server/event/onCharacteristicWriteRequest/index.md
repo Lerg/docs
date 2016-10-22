@@ -2,29 +2,29 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Event][api.type.Event]
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, bt, onCharacteristicWriteRequest
-> __See also__          [bluetooth.*](/plugin.bluetooth.md)
+
+
+> __See also__          [bluetooth.*](/plugin/bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
 ## Properties
 
-#### [event.name](/plugin.bluetooth.type.Server.event.onCharacteristicWriteRequest.name.md)
+#### [event.name](/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/name.md)
 
-#### [event.isError](/plugin.bluetooth.type.Server.event.onCharacteristicWriteRequest.isError.md)
+#### [event.isError](/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isError.md)
 
-#### [event.device](/plugin.bluetooth.type.Server.event.onCharacteristicWriteRequest.device.md)
+#### [event.device](/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/device.md)
 
-#### [event.requestId](/plugin.bluetooth.type.Server.event.onCharacteristicWriteRequest.requestId.md)
+#### [event.requestId](/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/requestId.md)
 
-#### [event.characteristic](/plugin.bluetooth.type.Server.event.onCharacteristicWriteRequest.characteristic.md)
+#### [event.characteristic](/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/characteristic.md)
 
-#### [event.isPreparedWrite](/plugin.bluetooth.type.Server.event.onCharacteristicWriteRequest.isPreparedWrite.md)
+#### [event.isPreparedWrite](/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isPreparedWrite.md)
 
-#### [event.isResponseNeeded](/plugin.bluetooth.type.Server.event.onCharacteristicWriteRequest.isResponseNeeded.md)
+#### [event.isResponseNeeded](/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isResponseNeeded.md)
 
-#### [event.offset](/plugin.bluetooth.type.Server.event.onCharacteristicWriteRequest.offset.md)
+#### [event.offset](/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/offset.md)
 
-#### [event.value](/plugin.bluetooth.type.Server.event.onCharacteristicWriteRequest.value.md)
+#### [event.value](/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/value.md)

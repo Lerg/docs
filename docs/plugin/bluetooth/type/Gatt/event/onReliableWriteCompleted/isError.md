@@ -2,11 +2,11 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Boolean][api.type.Boolean]
-> __Event__             [onReliableWriteCompleted](/plugin.bluetooth.type.Gatt.event.onReliableWriteCompleted.md)
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, bt, onReliableWriteCompleted, isError
-> __See also__          [onReliableWriteCompleted](/plugin.bluetooth.type.Gatt.event.onReliableWriteCompleted.md)
->						[bluetooth.*](/plugin.bluetooth.md)
+> __Event__             [onReliableWriteCompleted](/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/index.md)
+
+
+> __See also__          [onReliableWriteCompleted](/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/index.md)
+>						[bluetooth.*](/plugin/bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

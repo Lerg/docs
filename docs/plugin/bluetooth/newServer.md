@@ -2,10 +2,10 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Function][api.type.Function]
-> __Return value__      [Server](/plugin.bluetooth.type.Server.md)
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, bt, newServer
-> __See also__          [bluetooth.*](/plugin.bluetooth.md)
+> __Return value__      [Server](/plugin/bluetooth/type/Server/index.md)
+
+
+> __See also__          [bluetooth.*](/plugin/bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

@@ -3,9 +3,9 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Function][api.type.Function]
 > __Return value__      none
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, bt, Server, connect
-> __See also__          [bluetooth.*](/plugin.bluetooth.md)
+
+
+> __See also__          [bluetooth.*](/plugin/bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -15,7 +15,7 @@
 	object:connect( device, [autoconnect] )
 
 ##### device ~^(required)^~
-_[Device](/plugin.bluetooth.type.Device.md)._
+_[Device](/plugin/bluetooth/type/Device/index.md)._
 
 ##### autoconnect ~^(optional)^~
 _[Boolean][api.type.Boolean]._

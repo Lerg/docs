@@ -2,9 +2,9 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Table][api.type.Table]
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, bt, AdvertiseData
-> __See also__          [bluetooth.*](/plugin.bluetooth.md)
+
+
+> __See also__          [bluetooth.*](/plugin/bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -13,10 +13,10 @@ Represents a Bluetooth advertising data.
 
 ## Properties
 
-#### [object.manufacturers](/plugin.bluetooth.type.AdvertiseData.manufacturers.md)
+#### [object.manufacturers](/plugin/bluetooth/type/AdvertiseData/manufacturers.md)
 
-#### [object.services](/plugin.bluetooth.type.AdvertiseData.services.md)
+#### [object.services](/plugin/bluetooth/type/AdvertiseData/services.md)
 
-#### [object.includeDeviceName](/plugin.bluetooth.type.AdvertiseData.includeDeviceName.md)
+#### [object.includeDeviceName](/plugin/bluetooth/type/AdvertiseData/includeDeviceName.md)
 
-#### [object.includeTxPowerLevel](/plugin.bluetooth.type.AdvertiseData.includeTxPowerLevel.md)
+#### [object.includeTxPowerLevel](/plugin/bluetooth/type/AdvertiseData/includeTxPowerLevel.md)

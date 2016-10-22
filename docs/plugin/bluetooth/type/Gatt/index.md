@@ -2,9 +2,9 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Table][api.type.Table]
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, bt, Gatt
-> __See also__          [bluetooth.*](/plugin.bluetooth.md)
+
+
+> __See also__          [bluetooth.*](/plugin/bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -13,54 +13,54 @@ Represents a Bluetooth GATT.
 
 ## Functions
 
-#### [object.abortReliableWrite()](/plugin.bluetooth.type.Gatt.abortReliableWrite.md)
+#### [object.abortReliableWrite()](/plugin/bluetooth/type/Gatt/abortReliableWrite.md)
 
-#### [object.beginReliableWrite()](/plugin.bluetooth.type.Gatt.beginReliableWrite.md)
+#### [object.beginReliableWrite()](/plugin/bluetooth/type/Gatt/beginReliableWrite.md)
 
-#### [object.connect()](/plugin.bluetooth.type.Gatt.connect.md)
+#### [object.connect()](/plugin/bluetooth/type/Gatt/connect.md)
 
-#### [object.disconnect()](/plugin.bluetooth.type.Gatt.disconnect.md)
+#### [object.disconnect()](/plugin/bluetooth/type/Gatt/disconnect.md)
 
-#### [object.discoverServices()](/plugin.bluetooth.type.Gatt.discoverServices.md)
+#### [object.discoverServices()](/plugin/bluetooth/type/Gatt/discoverServices.md)
 
-#### [object.executeReliableWrite()](/plugin.bluetooth.type.Gatt.executeReliableWrite.md)
+#### [object.executeReliableWrite()](/plugin/bluetooth/type/Gatt/executeReliableWrite.md)
 
-#### [object.getService()](/plugin.bluetooth.type.Gatt.getService.md)
+#### [object.getService()](/plugin/bluetooth/type/Gatt/getService.md)
 
-#### [object.getServices()](/plugin.bluetooth.type.Gatt.getServices.md)
+#### [object.getServices()](/plugin/bluetooth/type/Gatt/getServices.md)
 
-#### [object.readCharacteristic()](/plugin.bluetooth.type.Gatt.readCharacteristic.md)
+#### [object.readCharacteristic()](/plugin/bluetooth/type/Gatt/readCharacteristic.md)
 
-#### [object.readDescriptor()](/plugin.bluetooth.type.Gatt.readDescriptor.md)
+#### [object.readDescriptor()](/plugin/bluetooth/type/Gatt/readDescriptor.md)
 
-#### [object.readRemoteRssi()](/plugin.bluetooth.type.Gatt.readRemoteRssi.md)
+#### [object.readRemoteRssi()](/plugin/bluetooth/type/Gatt/readRemoteRssi.md)
 
-#### [object.requestConnectionPriority()](/plugin.bluetooth.type.Gatt.requestConnectionPriority.md)
+#### [object.requestConnectionPriority()](/plugin/bluetooth/type/Gatt/requestConnectionPriority.md)
 
-#### [object.requestMtu()](/plugin.bluetooth.type.Gatt.requestMtu.md)
+#### [object.requestMtu()](/plugin/bluetooth/type/Gatt/requestMtu.md)
 
-#### [object.setCharacteristicNotification()](/plugin.bluetooth.type.Gatt.setCharacteristicNotification.md)
+#### [object.setCharacteristicNotification()](/plugin/bluetooth/type/Gatt/setCharacteristicNotification.md)
 
-#### [object.writeCharacteristic()](/plugin.bluetooth.type.Gatt.writeCharacteristic.md)
+#### [object.writeCharacteristic()](/plugin/bluetooth/type/Gatt/writeCharacteristic.md)
 
-#### [object.writeDescriptor()](/plugin.bluetooth.type.Gatt.writeDescriptor.md)
+#### [object.writeDescriptor()](/plugin/bluetooth/type/Gatt/writeDescriptor.md)
 
 ## Events
 
-#### [onCharacteristicChanged](/plugin.bluetooth.type.Gatt.event.onCharacteristicChanged.md)
+#### [onCharacteristicChanged](/plugin/bluetooth/type/Gatt/event/onCharacteristicChanged/index.md)
 
-#### [onCharacteristicRead](/plugin.bluetooth.type.Gatt.event.onCharacteristicRead.md)
+#### [onCharacteristicRead](/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/index.md)
 
-#### [onCharacteristicWrite](/plugin.bluetooth.type.Gatt.event.onCharacteristicWrite.md)
+#### [onCharacteristicWrite](/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/index.md)
 
-#### [onConnectionStateChange](/plugin.bluetooth.type.Gatt.event.onConnectionStateChange.md)
+#### [onConnectionStateChange](/plugin/bluetooth/type/Gatt/event/onConnectionStateChange/index.md)
 
-#### [onDescriptorRead](/plugin.bluetooth.type.Gatt.event.onDescriptorRead.md)
+#### [onDescriptorRead](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/index.md)
 
-#### [onDescriptorWrite](/plugin.bluetooth.type.Gatt.event.onDescriptorWrite.md)
+#### [onDescriptorWrite](/plugin/bluetooth/type/Gatt/event/onDescriptorWrite/index.md)
 
-#### [onReadRemoteRssi](/plugin.bluetooth.type.Gatt.event.onReadRemoteRssi.md)
+#### [onReadRemoteRssi](/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/index.md)
 
-#### [onReliableWriteCompleted](/plugin.bluetooth.type.Gatt.event.onReliableWriteCompleted.md)
+#### [onReliableWriteCompleted](/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/index.md)
 
-#### [onServicesDiscovered](/plugin.bluetooth.type.Gatt.event.onServicesDiscovered.md)
+#### [onServicesDiscovered](/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/index.md)

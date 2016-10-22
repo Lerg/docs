@@ -1,12 +1,12 @@
 # event.gatt
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Gatt](/plugin.bluetooth.type.Gatt.md)
-> __Event__             [onCharacteristicRead](/plugin.bluetooth.type.Gatt.event.onCharacteristicRead.md)
-> __Revision__          [REVISION_LABEL](REVISION_URL)
-> __Keywords__          Bluetooth, bt, onCharacteristicRead, gatt
-> __See also__          [onCharacteristicRead](/plugin.bluetooth.type.Gatt.event.onCharacteristicRead.md)
->						[bluetooth.*](/plugin.bluetooth.md)
+> __Type__              [Gatt](/plugin/bluetooth/type/Gatt/index.md)
+> __Event__             [onCharacteristicRead](/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/index.md)
+
+
+> __See also__          [onCharacteristicRead](/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/index.md)
+>						[bluetooth.*](/plugin/bluetooth.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
