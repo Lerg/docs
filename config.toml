@@ -1,0 +1,6 @@
+port = 9001
+addr = "127.0.0.1"
+
+[events."push:Lerg/docs:refs/heads/master"]
+cmd = "updatedocs.sh"
+args = ""
