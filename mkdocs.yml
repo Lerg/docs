@@ -12,5 +12,6 @@ extra:
 markdown_extensions:
   - admonition
   - codehilite(css_class=code)
+  - superscript
 extra_css: ['/stylesheets/extra.css']
 extra_javascript: ['/javascripts/extra.js']
