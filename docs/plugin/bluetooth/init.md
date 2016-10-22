@@ -16,8 +16,8 @@ This call is required and must be executed before making other calls such as [bl
 
 
 ## Syntax
-
-	bluetooth.init( [listener] )
-
+```lua
+bluetooth.init( [listener] )
+```
 ### listener ~^(optional)^~
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener function which receives an [init](/plugin/bluetooth/event/init/index.md) event.
