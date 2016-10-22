@@ -11,4 +11,4 @@
 
 ## Overview
 
-[String](https://docs.coronalabs.com/api/type/String] description of an error when [event.isError.html)(/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/isError.md) is `true`, `nil` otherwise.
+[String](https://docs.coronalabs.com/api/type/String.html) description of an error when [event.isError](/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/isError.md) is `true`, `nil` otherwise.
