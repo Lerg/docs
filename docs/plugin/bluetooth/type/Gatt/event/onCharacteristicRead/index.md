@@ -4,7 +4,7 @@
 > __Type__              [Event](https://docs.coronalabs.com/api/type/Event.html)
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

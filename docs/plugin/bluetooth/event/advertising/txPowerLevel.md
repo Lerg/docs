@@ -6,7 +6,7 @@
 
 
 > __See also__          [advertising](/plugin/bluetooth/event/advertising/index.md)
->						[bluetooth.*](/plugin/bluetooth.md)
+>						[bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

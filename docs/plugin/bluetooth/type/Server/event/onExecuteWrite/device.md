@@ -6,7 +6,7 @@
 
 
 > __See also__          [onExecuteWrite](/plugin/bluetooth/type/Server/event/onExecuteWrite/index.md)
->						[bluetooth.*](/plugin/bluetooth.md)
+>						[bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

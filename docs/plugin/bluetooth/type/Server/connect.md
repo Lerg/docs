@@ -5,7 +5,7 @@
 > __Return value__      none
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

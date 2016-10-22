@@ -6,7 +6,7 @@
 
 
 > __See also__          [onCharacteristicChanged](/plugin/bluetooth/type/Gatt/event/onCharacteristicChanged/index.md)
->						[bluetooth.*](/plugin/bluetooth.md)
+>						[bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

@@ -5,7 +5,7 @@
 > __Return value__      [Descriptor](/plugin/bluetooth/type/Descriptor/index.md)
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

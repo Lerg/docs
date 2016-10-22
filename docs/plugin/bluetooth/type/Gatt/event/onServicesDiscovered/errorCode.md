@@ -6,7 +6,7 @@
 
 
 > __See also__          [onServicesDiscovered](/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/index.md)
->						[bluetooth.*](/plugin/bluetooth.md)
+>						[bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

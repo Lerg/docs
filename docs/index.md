@@ -5,7 +5,7 @@
 * QR Scanner
 * TextToSpeech
 * NFC
-* Bluetooth
+* [Bluetooth](/plugin/bluetooth/index.md)
 * VK
 * Flashlight
 * Vibrator

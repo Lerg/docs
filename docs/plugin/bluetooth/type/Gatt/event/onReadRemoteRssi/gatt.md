@@ -6,7 +6,7 @@
 
 
 > __See also__          [onReadRemoteRssi](/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/index.md)
->						[bluetooth.*](/plugin/bluetooth.md)
+>						[bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

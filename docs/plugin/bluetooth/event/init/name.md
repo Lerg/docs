@@ -6,7 +6,7 @@
 
 
 > __See also__          [init](/plugin/bluetooth/event/init/index.md)
->						[bluetooth.*](/plugin/bluetooth.md)
+>						[bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

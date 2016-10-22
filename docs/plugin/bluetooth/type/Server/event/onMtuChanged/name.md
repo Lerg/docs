@@ -6,7 +6,7 @@
 
 
 > __See also__          [onMtuChanged](/plugin/bluetooth/type/Server/event/onMtuChanged/index.md)
->						[bluetooth.*](/plugin/bluetooth.md)
+>						[bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

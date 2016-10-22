@@ -4,7 +4,7 @@
 > __Type__              [Table](https://docs.coronalabs.com/api/type/Table.html)
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

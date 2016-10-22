@@ -6,7 +6,7 @@
 
 
 > __See also__          [onDescriptorRead](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/index.md)
->						[bluetooth.*](/plugin/bluetooth.md)
+>						[bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

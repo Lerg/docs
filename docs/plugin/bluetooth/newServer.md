@@ -5,7 +5,7 @@
 > __Return value__      [Server](/plugin/bluetooth/type/Server/index.md)
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

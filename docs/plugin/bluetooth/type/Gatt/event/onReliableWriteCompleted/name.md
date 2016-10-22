@@ -6,7 +6,7 @@
 
 
 > __See also__          [onReliableWriteCompleted](/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/index.md)
->						[bluetooth.*](/plugin/bluetooth.md)
+>						[bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

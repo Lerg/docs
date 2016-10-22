@@ -6,7 +6,7 @@
 
 
 > __See also__          [onNotificationSent](/plugin/bluetooth/type/Server/event/onNotificationSent/index.md)
->						[bluetooth.*](/plugin/bluetooth.md)
+>						[bluetooth.*](/plugin/bluetooth/index.md)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
