@@ -1,7 +1,7 @@
 # object.manufacturers
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Array][api.type.Array]
+> __Type__              [Array](https://docs.coronalabs.com/api/type/Array.html)
 
 
 > __See also__          [bluetooth.*](/plugin/bluetooth.md)
@@ -9,12 +9,12 @@
 
 ## Overview
 
-Elements are [tables][api.type.Table].
+Elements are [tables](https://docs.coronalabs.com/api/type/Table.html).
 
 ## Element
 
-##### id ~^(required)^~
-_[Number][api.type.Number]._
+### id ~^(required)^~
+_[Number](https://docs.coronalabs.com/api/type/Number.html)._
 
-##### data ~^(required)^~
-_[String][api.type.String]._
+### data ~^(required)^~
+_[String](https://docs.coronalabs.com/api/type/String.html)._

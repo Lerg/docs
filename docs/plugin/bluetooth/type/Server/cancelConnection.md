@@ -1,7 +1,7 @@
 # object:cancelConnection()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 > __Return value__      none
 
 
@@ -14,5 +14,5 @@
 
 	object:cancelConnection( device )
 
-##### device ~^(required)^~
+### device ~^(required)^~
 _[Device](/plugin/bluetooth/type/Device/index.md)._

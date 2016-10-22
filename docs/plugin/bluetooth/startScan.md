@@ -1,7 +1,7 @@
 # bluetooth.startScan()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 > __Return value__      none
 
 
@@ -14,8 +14,8 @@
 
 	bluetooth.startScan( [scanListener], [period] )
 
-##### scanListener ~^(optional)^~
-_[Listener][api.type.Listener]._
+### scanListener ~^(optional)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-##### period ~^(optional)^~
-_[Number][api.type.Number]._ integer, default is 10000.
+### period ~^(optional)^~
+_[Number](https://docs.coronalabs.com/api/type/Number.html)._ integer, default is 10000.

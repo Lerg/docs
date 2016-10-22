@@ -1,7 +1,7 @@
 # event.name
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [String][api.type.String]
+> __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
 > __Event__             [onDescriptorWrite](/plugin/bluetooth/type/Gatt/event/onDescriptorWrite/index.md)
 
 

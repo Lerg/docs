@@ -1,7 +1,7 @@
 # event.isExecution
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Boolean][api.type.Boolean]
+> __Type__              [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 > __Event__             [onExecuteWrite](/plugin/bluetooth/type/Server/event/onExecuteWrite/index.md)
 
 

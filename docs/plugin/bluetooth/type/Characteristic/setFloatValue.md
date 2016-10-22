@@ -1,8 +1,8 @@
 # object:setFloatValue()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
-> __Return value__      [Boolean][api.type.Boolean]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
+> __Return value__      [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 
 
 > __See also__          [bluetooth.*](/plugin/bluetooth.md)
@@ -14,14 +14,14 @@
 
 	object:setFloatValue( mantissa, exponent, [format], [offset] )
 
-##### mantissa ~^(required)^~
-_[Number][api.type.Number]._ Integer.
+### mantissa ~^(required)^~
+_[Number](https://docs.coronalabs.com/api/type/Number.html)._ Integer.
 
-##### exponent ~^(required)^~
-_[Number][api.type.Number]._ Integer.
+### exponent ~^(required)^~
+_[Number](https://docs.coronalabs.com/api/type/Number.html)._ Integer.
 
-##### format ~^(optional)^~
-_[String][api.type.String]._ `"float"` or `"sfloat"` (default).
+### format ~^(optional)^~
+_[String](https://docs.coronalabs.com/api/type/String.html)._ `"float"` or `"sfloat"` (default).
 
-##### offset ~^(optional)^~
-_[Number][api.type.Number]._ Integer, default is 0.
+### offset ~^(optional)^~
+_[Number](https://docs.coronalabs.com/api/type/Number.html)._ Integer, default is 0.

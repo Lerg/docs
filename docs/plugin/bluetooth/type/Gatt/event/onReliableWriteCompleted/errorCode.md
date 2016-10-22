@@ -1,7 +1,7 @@
 # event.errorCode
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Number][api.type.Number]
+> __Type__              [Number](https://docs.coronalabs.com/api/type/Number.html)
 > __Event__             [onReliableWriteCompleted](/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/index.md)
 
 

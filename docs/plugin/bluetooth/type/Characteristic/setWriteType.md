@@ -1,7 +1,7 @@
 # object:setWriteType()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 > __Return value__      none
 
 
@@ -14,5 +14,5 @@
 
 	object:setWriteType( writeType )
 
-##### format ~^(required)^~
-_[String][api.type.String]._ `"default"`, `"no response"` or `"signed"`.
+### format ~^(required)^~
+_[String](https://docs.coronalabs.com/api/type/String.html)._ `"default"`, `"no response"` or `"signed"`.

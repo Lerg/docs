@@ -1,7 +1,7 @@
 # bluetooth.setName()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 > __Return value__      none
 
 
@@ -14,5 +14,5 @@
 
 	bluetooth.setName( name )
 
-##### name ~^(required)^~
-_[String][api.type.String]._
+### name ~^(required)^~
+_[String](https://docs.coronalabs.com/api/type/String.html)._

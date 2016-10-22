@@ -1,7 +1,7 @@
 # event.isError
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Boolean][api.type.Boolean]
+> __Type__              [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 > __Event__             [onCharacteristicWrite](/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/index.md)
 
 
@@ -11,4 +11,4 @@
 
 ## Overview
 
-[Boolean][api.type.Boolean] of `true` in case of an error.
+[Boolean](https://docs.coronalabs.com/api/type/Boolean.html) of `true` in case of an error.

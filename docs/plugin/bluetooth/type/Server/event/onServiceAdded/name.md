@@ -1,7 +1,7 @@
 # event.name
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [String][api.type.String]
+> __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
 > __Event__             [onServiceAdded](/plugin/bluetooth/type/Server/event/onServiceAdded/index.md)
 
 

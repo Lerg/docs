@@ -1,7 +1,7 @@
 # bluetooth.newServer()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 > __Return value__      [Server](/plugin/bluetooth/type/Server/index.md)
 
 
@@ -14,37 +14,37 @@
 
 	bluetooth.newServer( params )
 
-##### params ~^(required)^~
-_[Table][api.type.Table]._ Contains parameters for the call &mdash; see the next section for details.
+### params ~^(required)^~
+_[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters for the call &mdash; see the next section for details.
 
 
 ## Parameter Reference
 
 The `params` table includes parameters for the call.
 
-##### onCharacteristicReadRequest ~^(optional)^~
-_[Listener][api.type.Listener]._
+### onCharacteristicReadRequest ~^(optional)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-##### onCharacteristicWriteRequest ~^(optional)^~
-_[Listener][api.type.Listener]._
+### onCharacteristicWriteRequest ~^(optional)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-##### onConnectionStateChange ~^(optional)^~
-_[Listener][api.type.Listener]._
+### onConnectionStateChange ~^(optional)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-##### onDescriptorReadRequest ~^(optional)^~
-_[Listener][api.type.Listener]._
+### onDescriptorReadRequest ~^(optional)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-##### onDescriptorWriteRequest ~^(optional)^~
-_[Listener][api.type.Listener]._
+### onDescriptorWriteRequest ~^(optional)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-##### onExecuteWrite ~^(optional)^~
-_[Listener][api.type.Listener]._
+### onExecuteWrite ~^(optional)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-##### onMtuChanged ~^(optional)^~
-_[Listener][api.type.Listener]._
+### onMtuChanged ~^(optional)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-##### onNotificationSent ~^(optional)^~
-_[Listener][api.type.Listener]._
+### onNotificationSent ~^(optional)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-##### onServiceAdded ~^(optional)^~
-_[Listener][api.type.Listener]._
+### onServiceAdded ~^(optional)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._

@@ -1,7 +1,7 @@
 # event.rssi
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Number][api.type.Number]
+> __Type__              [Number](https://docs.coronalabs.com/api/type/Number.html)
 > __Event__             [onReadRemoteRssi](/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/index.md)
 
 

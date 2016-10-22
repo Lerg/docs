@@ -1,7 +1,7 @@
 # object.id
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Number][api.type.Number]
+> __Type__              [Number](https://docs.coronalabs.com/api/type/Number.html)
 
 
 > __See also__          [bluetooth.*](/plugin/bluetooth.md)

@@ -1,7 +1,7 @@
 # object.properties
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Array][api.type.Array]
+> __Type__              [Array](https://docs.coronalabs.com/api/type/Array.html)
 
 
 > __See also__          [bluetooth.*](/plugin/bluetooth.md)

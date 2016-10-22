@@ -1,7 +1,7 @@
 # event.errorCode
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Number][api.type.Number]
+> __Type__              [Number](https://docs.coronalabs.com/api/type/Number.html)
 > __Event__             [init](/plugin/bluetooth/event/init/index.md)
 
 

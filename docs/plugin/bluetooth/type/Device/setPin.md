@@ -1,8 +1,8 @@
 # object:setPin()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
-> __Return value__      [Boolean][api.type.Boolean]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
+> __Return value__      [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 
 
 > __See also__          [bluetooth.*](/plugin/bluetooth.md)
@@ -14,5 +14,5 @@
 
 	object:setPin( pin )
 
-##### pin ~^(required)^~
-_[String][api.type.String]._
+### pin ~^(required)^~
+_[String](https://docs.coronalabs.com/api/type/String.html)._

@@ -1,7 +1,7 @@
 # object:connect()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 > __Return value__      none
 
 
@@ -14,8 +14,8 @@
 
 	object:connect( device, [autoconnect] )
 
-##### device ~^(required)^~
+### device ~^(required)^~
 _[Device](/plugin/bluetooth/type/Device/index.md)._
 
-##### autoconnect ~^(optional)^~
-_[Boolean][api.type.Boolean]._
+### autoconnect ~^(optional)^~
+_[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._

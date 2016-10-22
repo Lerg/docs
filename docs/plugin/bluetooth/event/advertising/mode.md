@@ -1,7 +1,7 @@
 # event.mode
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [String][api.type.String]
+> __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
 > __Event__             [advertising](/plugin/bluetooth/event/advertising/index.md)
 
 

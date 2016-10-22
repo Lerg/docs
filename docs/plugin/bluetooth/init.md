@@ -1,7 +1,7 @@
 # bluetooth.init()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 > __Return value__      none
 
 
@@ -19,5 +19,5 @@ This call is required and must be executed before making other calls such as [bl
 
 	bluetooth.init( [listener] )
 
-##### listener ~^(optional)^~
-_[Listener][api.type.Listener]._ Listener function which receives an [init](/plugin/bluetooth/event/init/index.md) event.
+### listener ~^(optional)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener]._ Listener function which receives an [init.html)(/plugin/bluetooth/event/init/index.md) event.

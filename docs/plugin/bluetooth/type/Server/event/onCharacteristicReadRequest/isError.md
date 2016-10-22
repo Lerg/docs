@@ -1,7 +1,7 @@
 # event.isError
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Boolean][api.type.Boolean]
+> __Type__              [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 > __Event__             [onCharacteristicReadRequest](/plugin/bluetooth/type/Server/event/onCharacteristicReadRequest/index.md)
 
 

@@ -1,7 +1,7 @@
 # object:getService()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 > __Return value__      [Service](/plugin/bluetooth/type/Service/index.md)
 
 
@@ -14,5 +14,5 @@
 
 	object:getService( uuid )
 
-##### uuid ~^(required)^~
-_[String][api.type.String]._
+### uuid ~^(required)^~
+_[String](https://docs.coronalabs.com/api/type/String.html)._

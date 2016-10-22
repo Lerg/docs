@@ -1,7 +1,7 @@
 # bluetooth.* &mdash; Bluetooth
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Library][api.type.library]
+> __Type__              [Library](https://docs.coronalabs.com/api/type/library.html)
 
 
 

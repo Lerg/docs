@@ -1,7 +1,7 @@
 # bluetooth.disconnect()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 > __Return value__      none
 
 
@@ -14,5 +14,5 @@
 
 	bluetooth.disconnect( address )
 
-##### address ~^(required)^~
-_[String][api.type.String]._
+### address ~^(required)^~
+_[String](https://docs.coronalabs.com/api/type/String.html)._

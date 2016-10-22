@@ -1,7 +1,7 @@
 # event.errorMessage
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [String][api.type.String]
+> __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
 > __Event__             [init](/plugin/bluetooth/event/init/index.md)
 
 
@@ -11,4 +11,4 @@
 
 ## Overview
 
-[String][api.type.String] description of an error when [event.isError](/plugin/bluetooth/event/init/isError.md) is `true`, `nil` otherwise.
+[String](https://docs.coronalabs.com/api/type/String] description of an error when [event.isError.html)(/plugin/bluetooth/event/init/isError.md) is `true`, `nil` otherwise.

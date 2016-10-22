@@ -1,7 +1,7 @@
 # object:getDescriptor()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 > __Return value__      [Descriptor](/plugin/bluetooth/type/Descriptor/index.md)
 
 
@@ -14,5 +14,5 @@
 
 	object:getDescriptor( uuid )
 
-##### uuid ~^(required)^~
-_[String][api.type.String]._
+### uuid ~^(required)^~
+_[String](https://docs.coronalabs.com/api/type/String.html)._

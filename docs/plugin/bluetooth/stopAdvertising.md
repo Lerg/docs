@@ -1,7 +1,7 @@
 # bluetooth.stopAdvertising()
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Function][api.type.Function]
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 > __Return value__      none
 
 
@@ -14,5 +14,5 @@
 
 	bluetooth.stopAdvertising( advertisingId )
 
-##### advertisingId ~^(required)^~
-_[Userdata][api.type.Userdata]._
+### advertisingId ~^(required)^~
+_[Userdata](https://docs.coronalabs.com/api/type/Userdata.html)._
