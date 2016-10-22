@@ -1,1 +1,14 @@
-site_name: Documentation
+site_name: 'Documentation'
+theme: 'material'
+extra:
+  logo: 'images/logo.png'
+  author:
+    github: 'Lerg'
+    twitter: 'SergeyLerg'
+  palette:
+    primary: 'teal'
+    accent: 'green'
+markdown_extensions:
+  - admonition
+  - codehilite(css_class=code)
+
