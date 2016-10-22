@@ -1,5 +1,6 @@
 site_name: 'Documentation'
 theme: 'material'
+site_favicon: 'favicon.ico'
 extra:
   logo: 'images/logo.png'
   author:
