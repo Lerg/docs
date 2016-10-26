@@ -3,7 +3,7 @@
 ## Plugins
 
 * QR Scanner
-* TextToSpeech
+* [TextToSpeech](/plugin/texttospeech/index.md)
 * NFC
 * [Bluetooth](/plugin/bluetooth/index.md)
 * VK
