@@ -58,7 +58,7 @@ To use this plugin, add an entry into the `plugins` table of `build.settings`. W
 ```lua
 	settings = {
 		plugins = {
-			['plugin.bluetooth'] = {
+			['plugin.texttospeech'] = {
 				publisherId = 'com.spiralcodestudio'
 			}
 		}
