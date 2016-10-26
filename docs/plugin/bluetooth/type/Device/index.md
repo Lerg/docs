@@ -35,4 +35,4 @@ Represents a Bluetooth device.
 
 #### [object.createBond()](/plugin/bluetooth/type/Device/createBond.md)
 
-#### [object.connectGatt()](/plugin/bluetooth/type/Device/connectGatt.md)
+#### [object.connect()](/plugin/bluetooth/type/Device/connect.md)
