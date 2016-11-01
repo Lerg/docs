@@ -14,9 +14,9 @@ Supported platforms: iOS 7+, Android 4.0.3+, tvOS 7+, macOS 10.3+. Some features
 The latest version requires Corona 2016.2979 or later.
 
 ## Syntax
-
-	local texttospeech = require('plugin.texttospeech')  
-
+```lua
+local texttospeech = require('plugin.texttospeech')  
+```
 ## Functions
 
 #### [texttospeech.enableDebug()](/plugin/texttospeech/enableDebug.md)
