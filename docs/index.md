@@ -6,7 +6,7 @@
 * [TextToSpeech](/plugin/texttospeech/index.md)
 * NFC
 * [Bluetooth](/plugin/bluetooth/index.md)
-* VK
+* [VK](/plugin/vk/index.md)
 * Flashlight
 * Vibrator
 * Toast
