@@ -42,10 +42,10 @@ _[String](https://docs.coronalabs.com/api/type/String.html)._ Custom cursor imag
 [Constant](https://docs.coronalabs.com/api/type/Constant.html) Image base directory. Default is `system.ResourceDirectory`.
 
 ### x ~^(optional)^~
-_[Integer](/type/Float/Integer.md)._ X coordinate of the cursor's tip point in the image. Default is 0.
+_[Integer](/type/Integer/index.md)._ X coordinate of the cursor's tip point in the image. Default is 0.
 
 ### y ~^(optional)^~
-_[Integer](/type/Float/Integer.md)._ Y coordinate of the cursor's tip point in the image. Default is 0.
+_[Integer](/type/Integer/index.md)._ Y coordinate of the cursor's tip point in the image. Default is 0.
 
 ## Standard cursors
 
