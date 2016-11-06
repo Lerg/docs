@@ -51,24 +51,24 @@ _[Integer](/type/Float/Integer.md)._ Y coordinate of the cursor's tip point in t
 
 ### macOS
 
-`'arrow'`
-`'contextual menu'`
-`'closed hand'`
-`'crosshair'`
-`'disappearing item'`
-`'drag copy'`
-`'drag link'`
-`'i beam'`
-`'open hand'`
-`'operation not allowed'`
-`'pointing hand'`
-`'resize down'`
-`'resize left'`
-`'resize left right'`
-`'resize right'`
-`'resize up'`
-`'resize up down'`
-`'i beam vertical'`
+* `'arrow'`
+* `'contextual menu'`
+* `'closed hand'`
+* `'crosshair'`
+* `'disappearing item'`
+* `'drag copy'`
+* `'drag link'`
+* `'i beam'`
+* `'open hand'`
+* `'operation not allowed'`
+* `'pointing hand'`
+* `'resize down'`
+* `'resize left'`
+* `'resize left right'`
+* `'resize right'`
+* `'resize up'`
+* `'resize up down'`
+* `'i beam vertical'`
 
 ### Windows
 
