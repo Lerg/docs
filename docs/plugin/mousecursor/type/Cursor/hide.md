@@ -1,0 +1,18 @@
+# object:hide()
+
+> --------------------- ------------------------------------------------------------------------------------------
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
+
+> __Return value__      none
+
+> __See also__          [mousecursor.*](/plugin/mousecursor/index.md)
+> --------------------- ------------------------------------------------------------------------------------------
+
+## Overview
+
+Makes a visible cursor hidden.
+
+## Syntax
+```lua
+object:hide()
+```

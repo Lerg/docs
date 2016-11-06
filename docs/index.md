@@ -2,11 +2,12 @@
 
 ## Plugins
 
-* QR Scanner
-* [TextToSpeech](/plugin/texttospeech/index.md)
-* NFC
 * [Bluetooth](/plugin/bluetooth/index.md)
-* [VK](/plugin/vk/index.md)
 * Flashlight
-* Vibrator
+* [Mouse Cursor](/plugin/mousecursor/index.md)
+* NFC
+* QR Scanner
+* [Text To Speech](/plugin/texttospeech/index.md)
 * Toast
+* Vibrator
+* [VK](/plugin/vk/index.md)
