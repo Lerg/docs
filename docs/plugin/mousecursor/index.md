@@ -7,7 +7,7 @@
 
 ## Overview
 
-The [Mouse Cursor](https://marketplace.coronalabs.com/plugin/mousecursor) plugin provides access to VK.com Social Network.
+The [Mouse Cursor](https://marketplace.coronalabs.com/plugin/mousecursor) plugin can change mouse cursor image to either one of the standard system choices or to a custom image using native system API (not Corona display object).
 
 Supported platforms: macOS 10.3+. Windows support is coming.
 
