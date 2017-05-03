@@ -21,3 +21,5 @@ Occurs when a scanning has completed. Either with a scan result or with an error
 #### [event.errorCode](/plugin/qrscanner/event/show/errorCode.md)
 
 #### [event.message](/plugin/qrscanner/event/show/message.md)
+
+#### [event.symbol](/plugin/qrscanner/event/show/symbol.md)

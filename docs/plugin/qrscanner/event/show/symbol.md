@@ -1,4 +1,4 @@
-# event.message
+# event.symbol
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
@@ -11,4 +11,4 @@
 
 ## Overview
 
-[String](https://docs.coronalabs.com/api/type/String.html) decoded message from a QR code or a barcode.
+[String](https://docs.coronalabs.com/api/type/String.html) indicates the type of symbol that was scanned.

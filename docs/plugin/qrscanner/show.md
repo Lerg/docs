@@ -60,6 +60,9 @@ _[Array](https://docs.coronalabs.com/api/type/Array.html) of [floats](/type/Floa
 ### backgroundColor ~^(optional)^~
 _[Array](https://docs.coronalabs.com/api/type/Array.html) of [floats](/type/Float/index.md)._ RGB color table for the topbar background color. Default is `{0.0, 0.0, 0.0}`.
 
+### isHidden ~^(optional)^~
+_[String](https://docs.coronalabs.com/api/type/String.html)._ If `true` the topbar is not displayed and the entire view is filled with the camera feed. There is no way of closing the scanner view other than by successfully scanning something. Suitable for kiosk mode.
+
 ## mask table
 
 Contains masking parameters. All values are in range of `0.0`-`1.0`. Relative to view width or height.
@@ -95,4 +98,4 @@ Android and iOS have different set of supported visual codes.
 
 **Android**: `'code39'`, `'code93'`, `'code128'`, `'codabar'`, `'databar'`, `'databar_exp'`, `'ean8'`, `'ean13'`, `'i25'`, `'isbn10'`, `'isbn13'`, `'partial'`, `'pdf417'`, `'qr'`, `'upca'`, `'upce'`.
 
-**iOS**: `'aztec'`, `'code39'`, `'code39mod43'`, `'code93'`, `'code128'`, `'datamatrix'`, `'ean8'`, `'ean13'`, `'interleaved2of5'`, `'itf14'`, `'pdf417'`, `'qr'`, `'upce'`, `'interleaved2of5'`, `'itf14'`, `'datamatrix'`.
+**iOS**: `'aztec'`, `'code39'`, `'code39mod43'`, `'code93'`, `'code128'`, `'datamatrix'`, `'ean8'`, `'ean13'`, `'interleaved2of5'`, `'itf14'`, `'pdf417'`, `'qr'`, `'upce'`.
