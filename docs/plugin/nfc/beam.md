@@ -1,0 +1,31 @@
+# nfc.beam()
+
+> --------------------- ------------------------------------------------------------------------------------------
+> __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
+
+> __Return value__      none
+
+> __See also__          [nfc.*](/plugin/nfc/index.md)
+> --------------------- ------------------------------------------------------------------------------------------
+
+## Overview
+
+Beam prepares the device for beaming an NDEF message to another device. The transfer starts when two devices are put near together.
+
+## Syntax
+```lua
+nfc.beam(params)
+```
+
+### params ~^(required)^~
+_[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters for the call &mdash; see the next section for details.
+
+## Parameter Reference
+
+The `params` table includes parameters for the call.
+
+### message ~^(required)^~
+_[NdefMessage](/plugin/nfc/type/NdefMessage/index.md)._ Contains NDEF message as an array of NDEF records.
+
+### listener ~^(required)^~
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [beam](/plugin/nfc/event/beam/index.md) event.
