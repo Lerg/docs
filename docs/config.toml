@@ -1,0 +1,4 @@
+baseURL = "http://docs.spiralcodestudio.com/"
+languageCode = "en-us"
+title = "Documentation Spiral Code Studio"
+theme = "docdock"
