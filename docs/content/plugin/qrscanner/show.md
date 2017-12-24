@@ -36,7 +36,7 @@ _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ Set to `true` to
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Filter regular expression. If present, all codes will be tested against the provided regular expression for a match. Only a matched code will be captured. This option can greatly reduce false triggerings or it can be used to scan only certain codes. For example to match a web URL you can use `'^https?://.*'`.
 
 ### symbols ~^(optional)^~
-_[Array](https://docs.coronalabs.com/api/type/Array.html) of [strings](https://docs.coronalabs.com/api/type/String.html)._ A list of all types of visual codes to search. Default is `'qr'`. See belowe for all supported types.
+_[Array](https://docs.coronalabs.com/api/type/Array.html) of [strings](https://docs.coronalabs.com/api/type/String.html)._ A list of all types of visual codes to search. Default is `'qr'`. See below for all supported types.
 
 ### mask ~^(optional)^~
 _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Mask options. Mask is used to limit the scanning area of a camera. See below for details.
