@@ -5,7 +5,7 @@
 
 > __Return value__      none
 
-> __See also__          [qrscanner.*](/plugin/qrscanner/index.md)
+> __See also__          [qrscanner.*](/plugin/qrscanner/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

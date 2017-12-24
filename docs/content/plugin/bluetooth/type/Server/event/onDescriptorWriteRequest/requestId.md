@@ -2,11 +2,11 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
-> __Event__             [onDescriptorWriteRequest](/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/index.md)
+> __Event__             [onDescriptorWriteRequest](/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/)
 
 
-> __See also__          [onDescriptorWriteRequest](/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/index.md)
->						[bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [onDescriptorWriteRequest](/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/)
+>						[bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

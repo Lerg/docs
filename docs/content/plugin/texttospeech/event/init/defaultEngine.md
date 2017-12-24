@@ -3,12 +3,12 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
 
-> __Event__             [init](/plugin/texttospeech/event/init/index.md)
+> __Event__             [init](/plugin/texttospeech/event/init/)
 
 > __Platform__          Android
 
-> __See also__          [init](/plugin/texttospeech/event/init/index.md)
->						[texttospeech.*](/plugin/texttospeech/index.md)
+> __See also__          [init](/plugin/texttospeech/event/init/)
+>						[texttospeech.*](/plugin/texttospeech/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

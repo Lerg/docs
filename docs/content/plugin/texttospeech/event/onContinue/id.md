@@ -3,12 +3,12 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
 
-> __Event__             [onContinue](/plugin/texttospeech/event/onContinue/index.md)
+> __Event__             [onContinue](/plugin/texttospeech/event/onContinue/)
 
-> __See also__          [onContinue](/plugin/texttospeech/event/onContinue/index.md)
->						[texttospeech.*](/plugin/texttospeech/index.md)
+> __See also__          [onContinue](/plugin/texttospeech/event/onContinue/)
+>						[texttospeech.*](/plugin/texttospeech/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-The speech identifier. The value that has been supplied to [texttospeech.speak()](/plugin/texttospeech/speak.md).
+The speech identifier. The value that has been supplied to [texttospeech.speak()](/plugin/texttospeech/speak).

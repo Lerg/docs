@@ -2,11 +2,11 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
-> __Event__             [onCharacteristicRead](/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/index.md)
+> __Event__             [onCharacteristicRead](/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/)
 
 
-> __See also__          [onCharacteristicRead](/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/index.md)
->						[bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [onCharacteristicRead](/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/)
+>						[bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

@@ -3,20 +3,20 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 
-> __Return value__      [Cursor](/plugin/mousecursor/type/Cursor/index.md)
+> __Return value__      [Cursor](/plugin/mousecursor/type/Cursor/)
 
-> __See also__          [mousecursor.*](/plugin/mousecursor/index.md)
+> __See also__          [mousecursor.*](/plugin/mousecursor/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Creates a [cursor](/plugin/mousecursor/type/Cursor/index.md) instance.
+Creates a [cursor](/plugin/mousecursor/type/Cursor/) instance.
 
-The cursor is not visible by defualt, call [cursor:show()](/plugin/mousecursor/type/Cursor/show.md) to make it visible.
+The cursor is not visible by defualt, call [cursor:show()](/plugin/mousecursor/type/Cursor/show) to make it visible.
 
 You can either use standard system cursors like crosshair or pointing hand, or load a custom image to be used as a cursor.
 
-If you are using several cursors in your app, there is no need to create a new instance each time mouse enters a specified area. Create all cursor instances at once and later switch between them by calling [cursor:show()](/plugin/mousecursor/type/Cursor/show.md).
+If you are using several cursors in your app, there is no need to create a new instance each time mouse enters a specified area. Create all cursor instances at once and later switch between them by calling [cursor:show()](/plugin/mousecursor/type/Cursor/show).
 
 ## Syntax
 
@@ -42,10 +42,10 @@ _[String](https://docs.coronalabs.com/api/type/String.html)._ Custom cursor imag
 [Constant](https://docs.coronalabs.com/api/type/Constant.html) Image base directory. Default is `system.ResourceDirectory`.
 
 ### x ~^(optional)^~
-_[Integer](/type/Integer/index.md)._ X coordinate of the cursor's tip point in the image. Default is 0.
+_[Integer](/type/Integer/)._ X coordinate of the cursor's tip point in the image. Default is 0.
 
 ### y ~^(optional)^~
-_[Integer](/type/Integer/index.md)._ Y coordinate of the cursor's tip point in the image. Default is 0.
+_[Integer](/type/Integer/)._ Y coordinate of the cursor's tip point in the image. Default is 0.
 
 ## Standard cursors
 

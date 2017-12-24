@@ -2,11 +2,11 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
-> __Event__             [onReliableWriteCompleted](/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/index.md)
+> __Event__             [onReliableWriteCompleted](/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/)
 
 
-> __See also__          [onReliableWriteCompleted](/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/index.md)
->						[bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [onReliableWriteCompleted](/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/)
+>						[bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

@@ -5,7 +5,7 @@
 > __Return value__      none
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -15,7 +15,7 @@
 	object:connect( device, [autoconnect] )
 
 ### device ~^(required)^~
-_[Device](/plugin/bluetooth/type/Device/index.md)._
+_[Device](/plugin/bluetooth/type/Device/)._
 
 ### autoconnect ~^(optional)^~
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._

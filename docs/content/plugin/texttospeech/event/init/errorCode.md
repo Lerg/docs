@@ -3,12 +3,12 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Number](https://docs.coronalabs.com/api/type/Number.html)
 
-> __Event__             [init](/plugin/texttospeech/event/init/index.md)
+> __Event__             [init](/plugin/texttospeech/event/init/)
 
-> __See also__          [init](/plugin/texttospeech/event/init/index.md)
->						[texttospeech.*](/plugin/texttospeech/index.md)
+> __See also__          [init](/plugin/texttospeech/event/init/)
+>						[texttospeech.*](/plugin/texttospeech/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Unique error code, present when [event.isError](/plugin/texttospeech/event/init/isError.md) is `true`, `nil` otherwise.
+Unique error code, present when [event.isError](/plugin/texttospeech/event/init/isError) is `true`, `nil` otherwise.

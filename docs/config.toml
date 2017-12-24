@@ -3,3 +3,10 @@ languageCode = "en-us"
 title = "Documentation Spiral Code Studio"
 theme = "docdock"
 pygmentsStyle = "native"
+disablePathToLower = true
+
+[params]
+ordersectionsby = "title"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]

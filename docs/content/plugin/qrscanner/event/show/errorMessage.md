@@ -3,12 +3,12 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
 
-> __Event__             [show](/plugin/qrscanner/event/show/index.md)
+> __Event__             [show](/plugin/qrscanner/event/show/)
 
-> __See also__          [show](/plugin/qrscanner/event/show/index.md)
->						[qrscanner.*](/plugin/qrscanner/index.md)
+> __See also__          [show](/plugin/qrscanner/event/show/)
+>						[qrscanner.*](/plugin/qrscanner/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-[String](https://docs.coronalabs.com/api/type/String.html) description of an error when [event.isError](/plugin/qrscanner/event/show/isError.md) is `true`, `nil` otherwise.
+[String](https://docs.coronalabs.com/api/type/String.html) description of an error when [event.isError](/plugin/qrscanner/event/show/isError) is `true`, `nil` otherwise.

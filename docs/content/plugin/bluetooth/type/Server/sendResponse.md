@@ -5,7 +5,7 @@
 > __Return value__      [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -15,7 +15,7 @@
 	object:sendResponse( device, requestId, status, value, [offset] )
 
 ### device ~^(required)^~
-_[Device](/plugin/bluetooth/type/Device/index.md)._
+_[Device](/plugin/bluetooth/type/Device/)._
 
 ### requestId ~^(required)^~
 _[String](https://docs.coronalabs.com/api/type/String.html)._

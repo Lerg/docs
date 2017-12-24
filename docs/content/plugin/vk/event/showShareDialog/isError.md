@@ -3,10 +3,10 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 
-> __Event__             [showShareDialog](/plugin/vk/event/showShareDialog/index.md)
+> __Event__             [showShareDialog](/plugin/vk/event/showShareDialog/)
 
-> __See also__          [showShareDialog](/plugin/vk/event/showShareDialog/index.md)
->						[vk.*](/plugin/vk/index.md)
+> __See also__          [showShareDialog](/plugin/vk/event/showShareDialog/)
+>						[vk.*](/plugin/vk/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

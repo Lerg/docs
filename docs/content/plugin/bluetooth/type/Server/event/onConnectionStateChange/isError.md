@@ -2,11 +2,11 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
-> __Event__             [onConnectionStateChange](/plugin/bluetooth/type/Server/event/onConnectionStateChange/index.md)
+> __Event__             [onConnectionStateChange](/plugin/bluetooth/type/Server/event/onConnectionStateChange/)
 
 
-> __See also__          [onConnectionStateChange](/plugin/bluetooth/type/Server/event/onConnectionStateChange/index.md)
->						[bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [onConnectionStateChange](/plugin/bluetooth/type/Server/event/onConnectionStateChange/)
+>						[bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

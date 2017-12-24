@@ -5,7 +5,7 @@
 
 > __Return value__      none
 
-> __See also__          [nfc.*](/plugin/nfc/index.md)
+> __See also__          [nfc.*](/plugin/nfc/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -25,7 +25,7 @@ _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters 
 The `params` table includes parameters for the call.
 
 ### message ~^(required)^~
-_[NdefMessage](/plugin/nfc/type/NdefMessage/index.md)._ Contains NDEF message as an array of NDEF records.
+_[NdefMessage](/plugin/nfc/type/NdefMessage/)._ Contains NDEF message as an array of NDEF records.
 
 ### listener ~^(required)^~
-_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [beam](/plugin/nfc/event/beam/index.md) event.
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [beam](/plugin/nfc/event/beam/) event.

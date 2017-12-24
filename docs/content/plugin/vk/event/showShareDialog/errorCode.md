@@ -3,12 +3,12 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Number](https://docs.coronalabs.com/api/type/Number.html)
 
-> __Event__             [showShareDialog](/plugin/vk/event/showShareDialog/index.md)
+> __Event__             [showShareDialog](/plugin/vk/event/showShareDialog/)
 
-> __See also__          [showShareDialog](/plugin/vk/event/showShareDialog/index.md)
->						[vk.*](/plugin/vk/index.md)
+> __See also__          [showShareDialog](/plugin/vk/event/showShareDialog/)
+>						[vk.*](/plugin/vk/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Unique error code, present when [event.isError](/plugin/vk/event/showShareDialog/isError.md) is `true`, `nil` otherwise.
+Unique error code, present when [event.isError](/plugin/vk/event/showShareDialog/isError) is `true`, `nil` otherwise.

@@ -5,7 +5,7 @@
 > __Return value__      [Number](https://docs.coronalabs.com/api/type/Number.html)
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

@@ -3,15 +3,15 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Number](https://docs.coronalabs.com/api/type/Number.html)
 
-> __Event__             [show](/plugin/qrscanner/event/show/index.md)
+> __Event__             [show](/plugin/qrscanner/event/show/)
 
-> __See also__          [show](/plugin/qrscanner/event/show/index.md)
->						[qrscanner.*](/plugin/qrscanner/index.md)
+> __See also__          [show](/plugin/qrscanner/event/show/)
+>						[qrscanner.*](/plugin/qrscanner/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Unique error code, present when [event.isError](/plugin/qrscanner/event/show/isError.md) is `true`, `nil` otherwise.
+Unique error code, present when [event.isError](/plugin/qrscanner/event/show/isError) is `true`, `nil` otherwise.
 
 Possible values:
 

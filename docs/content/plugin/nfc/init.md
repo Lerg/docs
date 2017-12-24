@@ -5,7 +5,7 @@
 
 > __Return value__      none
 
-> __See also__          [nfc.*](/plugin/nfc/index.md)
+> __See also__          [nfc.*](/plugin/nfc/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -17,4 +17,4 @@ Initializes the NFC subsystem.
 nfc.init(listener)
 ```
 ### listener ~^(required)^~
-_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [init](/plugin/nfc/event/init/index.md) event.
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [init](/plugin/nfc/event/init/) event.

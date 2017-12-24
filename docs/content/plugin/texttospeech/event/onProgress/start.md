@@ -1,14 +1,14 @@
 # event.start
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Integer](/type/Integer/index.md)
+> __Type__              [Integer](/type/Integer/)
 
-> __Event__             [onProgress](/plugin/texttospeech/event/onProgress/index.md)
+> __Event__             [onProgress](/plugin/texttospeech/event/onProgress/)
 
 > __Platform__          Not Android
 
-> __See also__          [onProgress](/plugin/texttospeech/event/onProgress/index.md)
->						[texttospeech.*](/plugin/texttospeech/index.md)
+> __See also__          [onProgress](/plugin/texttospeech/event/onProgress/)
+>						[texttospeech.*](/plugin/texttospeech/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

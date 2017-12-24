@@ -5,12 +5,12 @@
 
 > __Return value__      none
 
-> __See also__          [nfc.*](/plugin/nfc/index.md)
+> __See also__          [nfc.*](/plugin/nfc/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Removes a previously defined with [nfc.setListener()](/plugin/nfc/setListener.md) listener.
+Removes a previously defined with [nfc.setListener()](/plugin/nfc/setListener) listener.
 
 ## Syntax
 ```lua

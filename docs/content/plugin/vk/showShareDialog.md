@@ -5,7 +5,7 @@
 
 > __Return value__      none
 
-> __See also__          [vk.*](/plugin/vk/index.md)
+> __See also__          [vk.*](/plugin/vk/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -36,7 +36,7 @@ _[String](https://docs.coronalabs.com/api/type/String.html)._ Attached link URL.
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Attached image VK id.
 
 ### image ~^(optional)^~ ~(iOS)~
-_[Image](/plugin/vk/type/Image/index.md)._ Upload and attach the specified image file.
+_[Image](/plugin/vk/type/Image/)._ Upload and attach the specified image file.
 
 ### listener ~^(optional)^~
-_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [showShareDialog](/plugin/vk/event/showShareDialog/index.md) event.
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [showShareDialog](/plugin/vk/event/showShareDialog/) event.

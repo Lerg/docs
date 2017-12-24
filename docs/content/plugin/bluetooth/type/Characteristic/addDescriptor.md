@@ -5,7 +5,7 @@
 > __Return value__      [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -15,4 +15,4 @@
 	object:addDescriptor( descriptor )
 
 ### descriptor ~^(required)^~
-_[Descriptor](/plugin/bluetooth/type/Descriptor/index.md)._
+_[Descriptor](/plugin/bluetooth/type/Descriptor/)._

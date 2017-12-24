@@ -2,13 +2,13 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Number](https://docs.coronalabs.com/api/type/Number.html)
-> __Event__             [onServiceAdded](/plugin/bluetooth/type/Server/event/onServiceAdded/index.md)
+> __Event__             [onServiceAdded](/plugin/bluetooth/type/Server/event/onServiceAdded/)
 
 
-> __See also__          [onServiceAdded](/plugin/bluetooth/type/Server/event/onServiceAdded/index.md)
->						[bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [onServiceAdded](/plugin/bluetooth/type/Server/event/onServiceAdded/)
+>						[bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Unique error code, present when [event.isError](/plugin/bluetooth/type/Server/event/onServiceAdded/isError.md) is `true`, `nil` otherwise.
+Unique error code, present when [event.isError](/plugin/bluetooth/type/Server/event/onServiceAdded/isError) is `true`, `nil` otherwise.

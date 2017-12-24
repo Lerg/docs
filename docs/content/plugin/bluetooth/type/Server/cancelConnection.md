@@ -5,7 +5,7 @@
 > __Return value__      none
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -15,4 +15,4 @@
 	object:cancelConnection( device )
 
 ### device ~^(required)^~
-_[Device](/plugin/bluetooth/type/Device/index.md)._
+_[Device](/plugin/bluetooth/type/Device/)._

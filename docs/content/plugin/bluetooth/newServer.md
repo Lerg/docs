@@ -2,10 +2,10 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
-> __Return value__      [Server](/plugin/bluetooth/type/Server/index.md)
+> __Return value__      [Server](/plugin/bluetooth/type/Server/)
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

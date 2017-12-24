@@ -3,10 +3,10 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
 
-> __Event__             [onProgress](/plugin/texttospeech/event/onProgress/index.md)
+> __Event__             [onProgress](/plugin/texttospeech/event/onProgress/)
 
-> __See also__          [onProgress](/plugin/texttospeech/event/onProgress/index.md)
->						[texttospeech.*](/plugin/texttospeech/index.md)
+> __See also__          [onProgress](/plugin/texttospeech/event/onProgress/)
+>						[texttospeech.*](/plugin/texttospeech/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

@@ -3,8 +3,8 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__				[Constant](https://docs.coronalabs.com/api/type/Constant.html)
 
-> __See also__          [Image](/plugin/vk/type/Image/index.md)
->						[vk.*](/plugin/vk/index.md)
+> __See also__          [Image](/plugin/vk/type/Image/)
+>						[vk.*](/plugin/vk/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

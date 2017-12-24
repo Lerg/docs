@@ -5,7 +5,7 @@
 > __Return value__      none
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -23,7 +23,7 @@ _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters 
 The `params` table includes parameters for the call.
 
 ### device ~^(required)^~
-_[Device](/plugin/bluetooth/type/Device/index.md)._
+_[Device](/plugin/bluetooth/type/Device/)._
 
 ### autoConnect ~^(optional)^~
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ default is `false`.

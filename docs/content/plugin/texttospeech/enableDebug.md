@@ -5,7 +5,7 @@
 
 > __Return value__      none
 
-> __See also__          [texttospeech.*](/plugin/texttospeech/index.md)
+> __See also__          [texttospeech.*](/plugin/texttospeech/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

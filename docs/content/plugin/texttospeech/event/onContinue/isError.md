@@ -3,10 +3,10 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 
-> __Event__             [onContinue](/plugin/texttospeech/event/onContinue/index.md)
+> __Event__             [onContinue](/plugin/texttospeech/event/onContinue/)
 
-> __See also__          [onContinue](/plugin/texttospeech/event/onContinue/index.md)
->						[texttospeech.*](/plugin/texttospeech/index.md)
+> __See also__          [onContinue](/plugin/texttospeech/event/onContinue/)
+>						[texttospeech.*](/plugin/texttospeech/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

@@ -5,7 +5,7 @@
 
 > __Return value__      none
 
-> __See also__          [vk.*](/plugin/vk/index.md)
+> __See also__          [vk.*](/plugin/vk/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -23,4 +23,4 @@ _[String](https://docs.coronalabs.com/api/type/String.html)._ VK API method. See
 _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Table of [strings](https://docs.coronalabs.com/api/type/String.html) keys and various values to be submitted with the request. Each method has it's own set of valid params.
 
 ### listener ~^(optional)^~
-_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [request](/plugin/vk/event/request/index.md) event.
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [request](/plugin/vk/event/request/) event.

@@ -5,7 +5,7 @@
 > __Return value__      [Userdata](https://docs.coronalabs.com/api/type/Userdata.html)
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -37,10 +37,10 @@ _[Number](https://docs.coronalabs.com/api/type/Number.html)._ integer.
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._ integer.
 
 ### broadcast ~^(optional)^~
-_[AdvertiseData](/plugin/bluetooth/type/AdvertiseData/index.md)._
+_[AdvertiseData](/plugin/bluetooth/type/AdvertiseData/)._
 
 ### response ~^(optional)^~
-_[AdvertiseData](/plugin/bluetooth/type/AdvertiseData/index.md)._
+_[AdvertiseData](/plugin/bluetooth/type/AdvertiseData/)._
 
 ### listener ~^(optional)^~
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._

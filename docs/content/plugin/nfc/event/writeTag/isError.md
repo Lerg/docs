@@ -3,10 +3,10 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 
-> __Event__             [writeTag](/plugin/nfc/event/writeTag/index.md)
+> __Event__             [writeTag](/plugin/nfc/event/writeTag/)
 
-> __See also__          [writeTag](/plugin/nfc/event/writeTag/index.md)
->						[nfc.*](/plugin/nfc/index.md)
+> __See also__          [writeTag](/plugin/nfc/event/writeTag/)
+>						[nfc.*](/plugin/nfc/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

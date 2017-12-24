@@ -1,12 +1,12 @@
 # event.device
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Device](/plugin/bluetooth/type/Device/index.md)
-> __Event__             [onExecuteWrite](/plugin/bluetooth/type/Server/event/onExecuteWrite/index.md)
+> __Type__              [Device](/plugin/bluetooth/type/Device/)
+> __Event__             [onExecuteWrite](/plugin/bluetooth/type/Server/event/onExecuteWrite/)
 
 
-> __See also__          [onExecuteWrite](/plugin/bluetooth/type/Server/event/onExecuteWrite/index.md)
->						[bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [onExecuteWrite](/plugin/bluetooth/type/Server/event/onExecuteWrite/)
+>						[bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

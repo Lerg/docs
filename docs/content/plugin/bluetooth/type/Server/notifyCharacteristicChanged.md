@@ -5,7 +5,7 @@
 > __Return value__      [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -15,10 +15,10 @@
 	object:notifyCharacteristicChanged( device, characteristic, [isConfirmationNeeded] )
 
 ### device ~^(required)^~
-_[Device](/plugin/bluetooth/type/Device/index.md)._
+_[Device](/plugin/bluetooth/type/Device/)._
 
 ### characteristic ~^(required)^~
-_[Characteristic](/plugin/bluetooth/type/Characteristic/index.md)._
+_[Characteristic](/plugin/bluetooth/type/Characteristic/)._
 
 ### isConfirmationNeeded ~^(optional)^~
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._

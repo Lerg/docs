@@ -1,14 +1,14 @@
 # event.maxLength
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Integer](/type/Integer/index.md)
+> __Type__              [Integer](/type/Integer/)
 
-> __Event__             [init](/plugin/texttospeech/event/init/index.md)
+> __Event__             [init](/plugin/texttospeech/event/init/)
 
 > __Platform__          Android 4.3+
 
-> __See also__          [init](/plugin/texttospeech/event/init/index.md)
->						[texttospeech.*](/plugin/texttospeech/index.md)
+> __See also__          [init](/plugin/texttospeech/event/init/)
+>						[texttospeech.*](/plugin/texttospeech/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

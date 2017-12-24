@@ -5,7 +5,7 @@
 
 > __Return value__      none
 
-> __See also__          [vk.*](/plugin/vk/index.md)
+> __See also__          [vk.*](/plugin/vk/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -30,4 +30,4 @@ _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ If not specified
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ The plugin uses official VK app if available for authentication. Otherwise, if `true` on iOS a WebView will be used, if `false` or not specified - full Safari browser.
 
 ### listener ~^(optional)^~
-_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [login](/plugin/vk/event/login/index.md) event.
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [login](/plugin/vk/event/login/) event.

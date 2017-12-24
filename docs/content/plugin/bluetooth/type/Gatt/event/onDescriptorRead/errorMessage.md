@@ -2,13 +2,13 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
-> __Event__             [onDescriptorRead](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/index.md)
+> __Event__             [onDescriptorRead](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/)
 
 
-> __See also__          [onDescriptorRead](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/index.md)
->						[bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [onDescriptorRead](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/)
+>						[bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-[String](https://docs.coronalabs.com/api/type/String.html) description of an error when [event.isError](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/isError.md) is `true`, `nil` otherwise.
+[String](https://docs.coronalabs.com/api/type/String.html) description of an error when [event.isError](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/isError) is `true`, `nil` otherwise.

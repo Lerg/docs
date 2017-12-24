@@ -2,10 +2,10 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
-> __Return value__      [Gatt](/plugin/bluetooth/type/Gatt/index.md)
+> __Return value__      [Gatt](/plugin/bluetooth/type/Gatt/)
 
 
-> __See also__          [bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

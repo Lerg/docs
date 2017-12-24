@@ -2,11 +2,11 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
-> __Event__             [advertising](/plugin/bluetooth/event/advertising/index.md)
+> __Event__             [advertising](/plugin/bluetooth/event/advertising/)
 
 
-> __See also__          [advertising](/plugin/bluetooth/event/advertising/index.md)
->						[bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [advertising](/plugin/bluetooth/event/advertising/)
+>						[bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

@@ -3,10 +3,10 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 
-> __Event__             [show](/plugin/qrscanner/event/show/index.md)
+> __Event__             [show](/plugin/qrscanner/event/show/)
 
-> __See also__          [show](/plugin/qrscanner/event/show/index.md)
->						[qrscanner.*](/plugin/qrscanner/index.md)
+> __See also__          [show](/plugin/qrscanner/event/show/)
+>						[qrscanner.*](/plugin/qrscanner/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

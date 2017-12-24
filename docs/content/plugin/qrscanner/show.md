@@ -5,7 +5,7 @@
 
 > __Return value__      none
 
-> __See also__          [qrscanner.*](/plugin/qrscanner/index.md)
+> __See also__          [qrscanner.*](/plugin/qrscanner/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -42,7 +42,7 @@ _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Mask options. Mask i
 _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Specify what images to use as camera overlays. They are displayed on top of the camera feed. There can be three overlays as key/value pairs: `searching`, `mismatch` and `found`. Searching is the default mode, mismatch is used when a code is recognised, but doesn't match the filter, and found overlay is used when the scanning is successful. Each overlay is an overlay table, see below for details.
 
 ### listener ~^(optional)^~
-_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [show](/plugin/qrscanner/event/show/index.md) event when the scanning has been completed, either successfully or with an error.
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [show](/plugin/qrscanner/event/show/) event when the scanning has been completed, either successfully or with an error.
 
 ## topbar table
 
@@ -52,13 +52,13 @@ Contains options for displaying the topbar of the scanner view.
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Title text.
 
 ### fontSize ~^(optional)^~ ~(Android)~
-_[Float](/type/Float/index.md)._ Relative font size of the title text, e.g. `0.5` is half the normal size. Default is `1.0`. On iOS the text size is automatically adjusted to fit in the topbar.
+_[Float](/type/Float/)._ Relative font size of the title text, e.g. `0.5` is half the normal size. Default is `1.0`. On iOS the text size is automatically adjusted to fit in the topbar.
 
 ### color ~^(optional)^~
-_[Array](https://docs.coronalabs.com/api/type/Array.html) of [floats](/type/Float/index.md)._ RGB color table for the text color. Default is `{1.0, 1.0, 1.0}`.
+_[Array](https://docs.coronalabs.com/api/type/Array.html) of [floats](/type/Float/)._ RGB color table for the text color. Default is `{1.0, 1.0, 1.0}`.
 
 ### backgroundColor ~^(optional)^~
-_[Array](https://docs.coronalabs.com/api/type/Array.html) of [floats](/type/Float/index.md)._ RGB color table for the topbar background color. Default is `{0.0, 0.0, 0.0}`.
+_[Array](https://docs.coronalabs.com/api/type/Array.html) of [floats](/type/Float/)._ RGB color table for the topbar background color. Default is `{0.0, 0.0, 0.0}`.
 
 ### isHidden ~^(optional)^~
 _[String](https://docs.coronalabs.com/api/type/String.html)._ If `true` the topbar is not displayed and the entire view is filled with the camera feed. There is no way of closing the scanner view other than by successfully scanning something. Suitable for kiosk mode.
@@ -68,19 +68,19 @@ _[String](https://docs.coronalabs.com/api/type/String.html)._ If `true` the topb
 Contains masking parameters. All values are in range of `0.0`-`1.0`. Relative to view width or height.
 
 ### x ~^(optional)^~
-_[Float](/type/Float/index.md)._ X coordinate of the masking window. Default is `0.0`.
+_[Float](/type/Float/)._ X coordinate of the masking window. Default is `0.0`.
 
 ### y ~^(optional)^~
-_[Float](/type/Float/index.md)._ Y coordinate of the masking window. Default is `0.0`.
+_[Float](/type/Float/)._ Y coordinate of the masking window. Default is `0.0`.
 
 ### width ~^(optional)^~
-_[Float](/type/Float/index.md)._ Width of the masking window. Default is `1.0`.
+_[Float](/type/Float/)._ Width of the masking window. Default is `1.0`.
 
 ### height ~^(optional)^~
-_[Float](/type/Float/index.md)._ Height of the masking window. Default is `1.0`.
+_[Float](/type/Float/)._ Height of the masking window. Default is `1.0`.
 
 ### color ~^(optional)^~
-_[Array](https://docs.coronalabs.com/api/type/Array.html) of [floats](/type/Float/index.md)._ RGBA color table for the masking color. Default is `{0.0, 0.0, 0.0, 0.5}`.
+_[Array](https://docs.coronalabs.com/api/type/Array.html) of [floats](/type/Float/)._ RGBA color table for the masking color. Default is `{0.0, 0.0, 0.0, 0.5}`.
 
 ## overlay table
 

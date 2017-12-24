@@ -3,9 +3,9 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 
-> __Return value__      [AccessToken](/plugin/vk/type/AccessToken/index.md)
+> __Return value__      [AccessToken](/plugin/vk/type/AccessToken/)
 
-> __See also__          [vk.*](/plugin/vk/index.md)
+> __See also__          [vk.*](/plugin/vk/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

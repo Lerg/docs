@@ -5,12 +5,12 @@
 
 > __Return value__      none
 
-> __See also__          [texttospeech.*](/plugin/texttospeech/index.md)
+> __See also__          [texttospeech.*](/plugin/texttospeech/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Pauses an ongoing speech. Can be resumed by [texttospeech.continue()](/plugin/texttospeech/continue.md)
+Pauses an ongoing speech. Can be resumed by [texttospeech.continue()](/plugin/texttospeech/continue)
 
 ## Syntax
 ```lua

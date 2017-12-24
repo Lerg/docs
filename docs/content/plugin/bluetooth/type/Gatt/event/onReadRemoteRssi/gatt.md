@@ -1,12 +1,12 @@
 # event.gatt
 
 > --------------------- ------------------------------------------------------------------------------------------
-> __Type__              [Gatt](/plugin/bluetooth/type/Gatt/index.md)
-> __Event__             [onReadRemoteRssi](/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/index.md)
+> __Type__              [Gatt](/plugin/bluetooth/type/Gatt/)
+> __Event__             [onReadRemoteRssi](/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/)
 
 
-> __See also__          [onReadRemoteRssi](/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/index.md)
->						[bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [onReadRemoteRssi](/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/)
+>						[bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

@@ -5,7 +5,7 @@
 
 > __Return value__      [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 
-> __See also__          [vk.*](/plugin/vk/index.md)
+> __See also__          [vk.*](/plugin/vk/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

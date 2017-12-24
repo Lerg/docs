@@ -5,12 +5,12 @@
 
 > __Return value__      none
 
-> __See also__          [nfc.*](/plugin/nfc/index.md)
+> __See also__          [nfc.*](/plugin/nfc/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Cancels any previously prepared with [nfc.beam()](/plugin/nfc/beam.md) message.
+Cancels any previously prepared with [nfc.beam()](/plugin/nfc/beam) message.
 
 ## Syntax
 ```lua

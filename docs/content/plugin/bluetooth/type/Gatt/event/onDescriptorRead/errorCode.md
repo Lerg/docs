@@ -2,13 +2,13 @@
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Number](https://docs.coronalabs.com/api/type/Number.html)
-> __Event__             [onDescriptorRead](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/index.md)
+> __Event__             [onDescriptorRead](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/)
 
 
-> __See also__          [onDescriptorRead](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/index.md)
->						[bluetooth.*](/plugin/bluetooth/index.md)
+> __See also__          [onDescriptorRead](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/)
+>						[bluetooth.*](/plugin/bluetooth/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Unique error code, present when [event.isError](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/isError.md) is `true`, `nil` otherwise.
+Unique error code, present when [event.isError](/plugin/bluetooth/type/Gatt/event/onDescriptorRead/isError) is `true`, `nil` otherwise.

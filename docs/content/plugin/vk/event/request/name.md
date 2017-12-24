@@ -3,10 +3,10 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [String](https://docs.coronalabs.com/api/type/String.html)
 
-> __Event__             [request](/plugin/vk/event/request/index.md)
+> __Event__             [request](/plugin/vk/event/request/)
 
-> __See also__          [request](/plugin/vk/event/request/index.md)
->						[vk.*](/plugin/vk/index.md)
+> __See also__          [request](/plugin/vk/event/request/)
+>						[vk.*](/plugin/vk/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview

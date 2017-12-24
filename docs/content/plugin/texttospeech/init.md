@@ -5,7 +5,7 @@
 
 > __Return value__      none
 
-> __See also__          [texttospeech.*](/plugin/texttospeech/index.md)
+> __See also__          [texttospeech.*](/plugin/texttospeech/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
@@ -17,7 +17,7 @@ Must be callled before you try to synthesize any audio.
 texttospeech.init([listener])
 ```
 ### listener ~^(optional)^~
-_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [init](/plugin/texttospeech/event/init/index.md) event.
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [init](/plugin/texttospeech/event/init/) event.
 
 ## Syntax 2
 ```lua
@@ -34,4 +34,4 @@ The `params` table includes parameters for the call.
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Speech engine identifier. If supplied, the specified engine will be loaded. Call `texttospeech.init()` again to change the engine. 
 
 ### listener ~^(optional)^~
-_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [init](/plugin/texttospeech/event/init/index.md) event.
+_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [init](/plugin/texttospeech/event/init/) event.

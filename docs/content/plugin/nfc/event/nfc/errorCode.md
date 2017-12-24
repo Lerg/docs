@@ -3,12 +3,12 @@
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Number](https://docs.coronalabs.com/api/type/Number.html)
 
-> __Event__             [nfc](/plugin/nfc/event/nfc/index.md)
+> __Event__             [nfc](/plugin/nfc/event/nfc/)
 
-> __See also__          [nfc](/plugin/nfc/event/nfc/index.md)
->						[nfc.*](/plugin/nfc/index.md)
+> __See also__          [nfc](/plugin/nfc/event/nfc/)
+>						[nfc.*](/plugin/nfc/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Unique error code, present when [event.isError](/plugin/nfc/event/nfc/isError.md) is `true`, `nil` otherwise.
+Unique error code, present when [event.isError](/plugin/nfc/event/nfc/isError) is `true`, `nil` otherwise.
