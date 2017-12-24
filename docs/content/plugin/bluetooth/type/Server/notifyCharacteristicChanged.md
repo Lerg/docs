@@ -1,3 +1,6 @@
+---
+title: notifyCharacteristicChanged
+---
 # object:notifyCharacteristicChanged()
 
 > --------------------- ------------------------------------------------------------------------------------------

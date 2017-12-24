@@ -45,8 +45,7 @@
       {{- end}}
   {{- else}}
     {{- if not .Params.Hidden }}
-      <option value="{{ .RelPermalink}}" {{if eq .URL $currentNode.URL}} selected{{end}}> 
-{{- range after 1 (seq $level)}}-{{ end }} {{.Title}}</option>
+      <option value="{{ .RelPermalink}}" {{if eq .URL $currentNode.URL}} selected{{end}}>{{.Title}}</option>
     {{- end}}
   {{- end}}
  {{- end}}

@@ -1,3 +1,6 @@
+---
+title: isOffloadedScanBatchingSupported
+---
 # bluetooth.isOffloadedScanBatchingSupported
 
 > --------------------- ------------------------------------------------------------------------------------------

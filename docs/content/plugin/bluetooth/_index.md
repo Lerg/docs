@@ -1,3 +1,6 @@
+---
+title: bluetooth
+---
 # bluetooth.* &mdash; Bluetooth
 
 > --------------------- ------------------------------------------------------------------------------------------
@@ -60,7 +63,11 @@ The [Bluetooth](https://marketplace.coronalabs.com/plugin/bluetooth) plugin enab
 
 ## Events
 
+#### [advertising](/plugin/bluetooth/event/advertising/)
+
 #### [init](/plugin/bluetooth/event/init/)
+
+#### [scan](/plugin/bluetooth/event/scan/)
 
 ## Types
 

@@ -1,3 +1,6 @@
+---
+title: setCharacteristicNotification
+---
 # object:setCharacteristicNotification()
 
 > --------------------- ------------------------------------------------------------------------------------------

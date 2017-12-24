@@ -6,7 +6,12 @@ pygmentsStyle = "native"
 disablePathToLower = true
 
 [params]
+editURL = "https://github.com/Lerg/docs/edit/master/docs/content/"
+themeStyle = "flex"
 ordersectionsby = "title"
+disableHomeIcon = true
+disableSearch = true
+disableNavChevron = true
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
