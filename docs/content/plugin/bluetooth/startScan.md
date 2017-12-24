@@ -17,8 +17,8 @@ title: startScan
 
 	bluetooth.startScan( [scanListener], [period] )
 
-### scanListener ~^(optional)^~
+### scanListener <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### period ~^(optional)^~
+### period <sub>optional</sub>
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._ integer, default is 10000.

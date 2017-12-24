@@ -19,5 +19,5 @@ Initializes the NFC subsystem.
 ```lua
 nfc.init(listener)
 ```
-### listener ~^(required)^~
+### listener <sub>required</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [init](/plugin/nfc/event/init/) event.

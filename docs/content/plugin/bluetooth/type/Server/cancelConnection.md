@@ -17,5 +17,5 @@ title: cancelConnection
 
 	object:cancelConnection( device )
 
-### device ~^(required)^~
+### device <sub>required</sub>
 _[Device](/plugin/bluetooth/type/Device/)._

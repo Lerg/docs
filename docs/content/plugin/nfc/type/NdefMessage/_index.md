@@ -18,7 +18,7 @@ NDEF message is an array containing NDEF records. Each NDEF records is a table w
 
 You can supply either verbose string values for `tnf` and `type` or you can supply raw values with `rawTnf` and `rawType`. Raw fields have higher priority. You are responsible for constructing a valid NDEF message, otherwise such messages can fail to be read on other devices. A single record should at least have a TNF value, other fields are optional or up to the specification.
 
-### tnf ~^(optional)^~
+### tnf <sub>optional</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ TNF value, can be one of these:
 - `'absolute uri'`
 - `'empty'`
@@ -28,7 +28,7 @@ _[String](https://docs.coronalabs.com/api/type/String.html)._ TNF value, can be 
 - `'unknown'`
 - `'well known'`
 
-### type ~^(optional)^~
+### type <sub>optional</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Type value, can be one of these or `nil`:
 - `'alternative carrier'`
 - `'handover carrier'`
@@ -38,14 +38,14 @@ _[String](https://docs.coronalabs.com/api/type/String.html)._ Type value, can be
 - `'text'`
 - `'uri'`
 
-### id ~^(optional)^~
+### id <sub>optional</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Id value, can be `nil`.
 
-### payload ~^(optional)^~
+### payload <sub>optional</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Payload data, can be `nil`.
 
-### rawTnf ~^(optional)^~
+### rawTnf <sub>optional</sub>
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._ TNF value as an integer value.
 
-### rawType ~^(optional)^~
+### rawType <sub>optional</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Byte array of the type value.

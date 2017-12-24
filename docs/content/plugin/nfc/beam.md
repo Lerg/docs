@@ -20,15 +20,15 @@ Beam prepares the device for beaming an NDEF message to another device. The tran
 nfc.beam(params)
 ```
 
-### params ~^(required)^~
+### params <sub>required</sub>
 _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters for the call &mdash; see the next section for details.
 
 ## Parameter Reference
 
 The `params` table includes parameters for the call.
 
-### message ~^(required)^~
+### message <sub>required</sub>
 _[NdefMessage](/plugin/nfc/type/NdefMessage/)._ Contains NDEF message as an array of NDEF records.
 
-### listener ~^(required)^~
+### listener <sub>required</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [beam](/plugin/nfc/event/beam/) event.

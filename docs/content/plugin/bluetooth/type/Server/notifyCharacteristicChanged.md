@@ -17,11 +17,11 @@ title: notifyCharacteristicChanged
 
 	object:notifyCharacteristicChanged( device, characteristic, [isConfirmationNeeded] )
 
-### device ~^(required)^~
+### device <sub>required</sub>
 _[Device](/plugin/bluetooth/type/Device/)._
 
-### characteristic ~^(required)^~
+### characteristic <sub>required</sub>
 _[Characteristic](/plugin/bluetooth/type/Characteristic/)._
 
-### isConfirmationNeeded ~^(optional)^~
+### isConfirmationNeeded <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._

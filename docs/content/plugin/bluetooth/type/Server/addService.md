@@ -17,5 +17,5 @@ title: addService
 
 	object:addService( service )
 
-### service ~^(required)^~
+### service <sub>required</sub>
 _[Service](/plugin/bluetooth/type/Service/)._

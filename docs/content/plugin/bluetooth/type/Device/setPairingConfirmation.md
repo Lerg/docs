@@ -17,5 +17,5 @@ title: setPairingConfirmation
 
 	object:setPairingConfirmation( isConfirmed )
 
-### isConfirmed ~^(required)^~
+### isConfirmed <sub>required</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._

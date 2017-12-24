@@ -20,15 +20,15 @@ Writes the provided NDEF message into the recently discovered NFC tag. Therefore
 nfc.writeTag(params)
 ```
 
-### params ~^(required)^~
+### params <sub>required</sub>
 _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters for the call &mdash; see the next section for details.
 
 ## Parameter Reference
 
 The `params` table includes parameters for the call.
 
-### message ~^(required)^~
+### message <sub>required</sub>
 _[NdefMessage](/plugin/nfc/type/NdefMessage/)._ Contains NDEF message as an array of NDEF records.
 
-### doNotReleaseTag ~^(optional)^~
+### doNotReleaseTag <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ If `true`, the discovered tag won't be released after a successful write operation, so you would be able to write to that tag again if necessary.

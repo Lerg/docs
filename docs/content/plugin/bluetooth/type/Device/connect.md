@@ -17,7 +17,7 @@ title: connect
 
 	object:connect( params )
 
-### params ~^(required)^~
+### params <sub>required</sub>
 _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters for the call &mdash; see the next section for details.
 
 
@@ -25,32 +25,32 @@ _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters 
 
 The `params` table includes parameters for the call.
 
-### autoConnect ~^(optional)^~
+### autoConnect <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ default is `false`.
 
-### onCharacteristicChanged ~^(optional)^~
+### onCharacteristicChanged <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onCharacteristicRead ~^(optional)^~
+### onCharacteristicRead <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onCharacteristicWrite ~^(optional)^~
+### onCharacteristicWrite <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onConnectionStateChange ~^(optional)^~
+### onConnectionStateChange <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onDescriptorRead ~^(optional)^~
+### onDescriptorRead <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onDescriptorWrite ~^(optional)^~
+### onDescriptorWrite <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onReadRemoteRssi ~^(optional)^~
+### onReadRemoteRssi <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onReliableWriteCompleted ~^(optional)^~
+### onReliableWriteCompleted <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onServicesDiscovered ~^(optional)^~
+### onServicesDiscovered <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._

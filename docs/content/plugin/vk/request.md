@@ -19,11 +19,11 @@ Queries VK server with the specified request and delivers it's response.
 ```lua
 vk.request(method, params, [listener])
 ```
-### method ~^(required)^~
+### method <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ VK API method. See the [list of methods](https://vk.com/dev/methods).
 
-### params ~^(required)^~
+### params <sub>required</sub>
 _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Table of [strings](https://docs.coronalabs.com/api/type/String.html) keys and various values to be submitted with the request. Each method has it's own set of valid params.
 
-### listener ~^(optional)^~
+### listener <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [request](/plugin/vk/event/request/) event.

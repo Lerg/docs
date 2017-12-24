@@ -17,5 +17,5 @@ title: writeCharacteristic
 
 	object:writeCharacteristic( characteristic )
 
-### characteristic ~^(required)^~
+### characteristic <sub>required</sub>
 _[Characteristic](/plugin/bluetooth/type/Characteristic/)._

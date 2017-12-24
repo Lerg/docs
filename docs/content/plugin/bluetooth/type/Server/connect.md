@@ -17,8 +17,8 @@ title: connect
 
 	object:connect( device, [autoconnect] )
 
-### device ~^(required)^~
+### device <sub>required</sub>
 _[Device](/plugin/bluetooth/type/Device/)._
 
-### autoconnect ~^(optional)^~
+### autoconnect <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._

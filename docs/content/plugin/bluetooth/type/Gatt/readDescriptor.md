@@ -17,5 +17,5 @@ title: readDescriptor
 
 	object:readDescriptor( descriptor )
 
-### descriptor ~^(required)^~
+### descriptor <sub>required</sub>
 _[Descriptor](/plugin/bluetooth/type/Descriptor/)._

@@ -17,5 +17,5 @@ title: getStringValue
 
 	object:getStringValue( [offset] )
 
-### offset ~^(optional)^~
+### offset <sub>optional</sub>
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._ Integer, default is 0.

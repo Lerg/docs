@@ -20,5 +20,5 @@ Stops an ongoing speech.
 texttospeech.stop(waitForWordEnd)
 ```
 
-### waitForWordEnd ~^(optional)^~
+### waitForWordEnd <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ If `true`, the speech will be interrupted at the word end. Otherwise the speech will be interrupted immediately.

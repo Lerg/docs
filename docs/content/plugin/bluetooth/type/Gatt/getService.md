@@ -17,5 +17,5 @@ title: getService
 
 	object:getService( uuid )
 
-### uuid ~^(required)^~
+### uuid <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._

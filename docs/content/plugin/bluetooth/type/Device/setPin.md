@@ -17,5 +17,5 @@ title: setPin
 
 	object:setPin( pin )
 
-### pin ~^(required)^~
+### pin <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._

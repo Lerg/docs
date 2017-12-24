@@ -28,26 +28,26 @@ This function accepts either a `name` string argument for the standard system cu
 ```lua
 mousecursor.newCursor(name | params)
 ```
-### name ~^(required)^~
+### name <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Name of a standard system mouse cursor. See the "Standard cursors" section for the list of system cursors.
 
-### params ~^(required)^~
+### params <sub>required</sub>
 _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters to make a cursor from a custom image.
 
 ## Parameter reference
 
 The `params` table includes parameters for the call.
 
-### filename ~^(required)^~
+### filename <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Custom cursor image filename.
 
-### baseDir ~^(optional)^~
+### baseDir <sub>optional</sub>
 [Constant](https://docs.coronalabs.com/api/type/Constant.html) Image base directory. Default is `system.ResourceDirectory`.
 
-### x ~^(optional)^~
+### x <sub>optional</sub>
 _[Integer](/type/Integer/)._ X coordinate of the cursor's tip point in the image. Default is 0.
 
-### y ~^(optional)^~
+### y <sub>optional</sub>
 _[Integer](/type/Integer/)._ Y coordinate of the cursor's tip point in the image. Default is 0.
 
 ## Standard cursors

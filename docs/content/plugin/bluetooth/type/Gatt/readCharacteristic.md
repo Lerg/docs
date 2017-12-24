@@ -17,5 +17,5 @@ title: readCharacteristic
 
 	object:readCharacteristic( characteristic )
 
-### characteristic ~^(required)^~
+### characteristic <sub>required</sub>
 _[Characteristic](/plugin/bluetooth/type/Characteristic/)._

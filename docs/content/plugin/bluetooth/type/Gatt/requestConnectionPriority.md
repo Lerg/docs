@@ -17,5 +17,5 @@ title: requestConnectionPriority
 
 	object:requestConnectionPriority( priority )
 
-### priority ~^(required)^~
+### priority <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ `"high"`, `"low power"` or `"balanced"`.

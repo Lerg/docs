@@ -17,14 +17,14 @@ title: setFloatValue
 
 	object:setFloatValue( mantissa, exponent, [format], [offset] )
 
-### mantissa ~^(required)^~
+### mantissa <sub>required</sub>
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._ Integer.
 
-### exponent ~^(required)^~
+### exponent <sub>required</sub>
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._ Integer.
 
-### format ~^(optional)^~
+### format <sub>optional</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ `"float"` or `"sfloat"` (default).
 
-### offset ~^(optional)^~
+### offset <sub>optional</sub>
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._ Integer, default is 0.

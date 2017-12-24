@@ -17,5 +17,5 @@ title: stopAdvertising
 
 	bluetooth.stopAdvertising( advertisingId )
 
-### advertisingId ~^(required)^~
+### advertisingId <sub>required</sub>
 _[Userdata](https://docs.coronalabs.com/api/type/Userdata.html)._

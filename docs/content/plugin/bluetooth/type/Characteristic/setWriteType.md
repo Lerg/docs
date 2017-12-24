@@ -17,5 +17,5 @@ title: setWriteType
 
 	object:setWriteType( writeType )
 
-### format ~^(required)^~
+### format <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ `"default"`, `"no response"` or `"signed"`.

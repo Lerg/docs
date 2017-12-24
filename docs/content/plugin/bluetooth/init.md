@@ -22,5 +22,5 @@ This call is required and must be executed before making other calls such as [bl
 ```lua
 bluetooth.init( [listener] )
 ```
-### listener ~^(optional)^~
+### listener <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener function which receives an [init](/plugin/bluetooth/event/init/) event.

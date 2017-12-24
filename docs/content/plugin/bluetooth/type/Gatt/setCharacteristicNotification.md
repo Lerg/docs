@@ -17,8 +17,8 @@ title: setCharacteristicNotification
 
 	object:setCharacteristicNotification( characteristic, isEnabled )
 
-### characteristic ~^(required)^~
+### characteristic <sub>required</sub>
 _[Characteristic](/plugin/bluetooth/type/Characteristic/)._
 
-### isEnabled ~^(required)^~
+### isEnabled <sub>required</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._

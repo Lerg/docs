@@ -17,5 +17,5 @@ title: requestMtu
 
 	object:requestMtu( mtu )
 
-### mtu ~^(required)^~
+### mtu <sub>required</sub>
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._

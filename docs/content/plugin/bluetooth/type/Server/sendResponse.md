@@ -17,17 +17,17 @@ title: sendResponse
 
 	object:sendResponse( device, requestId, status, value, [offset] )
 
-### device ~^(required)^~
+### device <sub>required</sub>
 _[Device](/plugin/bluetooth/type/Device/)._
 
-### requestId ~^(required)^~
+### requestId <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._
 
-### status ~^(required)^~
+### status <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._
 
-### value ~^(required)^~
+### value <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._
 
-### offset ~^(optional)^~
+### offset <sub>optional</sub>
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._

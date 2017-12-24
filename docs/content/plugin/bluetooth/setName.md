@@ -17,5 +17,5 @@ title: setName
 
 	bluetooth.setName( name )
 
-### name ~^(required)^~
+### name <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._

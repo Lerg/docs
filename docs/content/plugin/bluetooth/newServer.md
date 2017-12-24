@@ -17,7 +17,7 @@ title: newServer
 
 	bluetooth.newServer( params )
 
-### params ~^(required)^~
+### params <sub>required</sub>
 _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters for the call &mdash; see the next section for details.
 
 
@@ -25,29 +25,29 @@ _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters 
 
 The `params` table includes parameters for the call.
 
-### onCharacteristicReadRequest ~^(optional)^~
+### onCharacteristicReadRequest <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onCharacteristicWriteRequest ~^(optional)^~
+### onCharacteristicWriteRequest <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onConnectionStateChange ~^(optional)^~
+### onConnectionStateChange <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onDescriptorReadRequest ~^(optional)^~
+### onDescriptorReadRequest <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onDescriptorWriteRequest ~^(optional)^~
+### onDescriptorWriteRequest <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onExecuteWrite ~^(optional)^~
+### onExecuteWrite <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onMtuChanged ~^(optional)^~
+### onMtuChanged <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onNotificationSent ~^(optional)^~
+### onNotificationSent <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._
 
-### onServiceAdded ~^(optional)^~
+### onServiceAdded <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._

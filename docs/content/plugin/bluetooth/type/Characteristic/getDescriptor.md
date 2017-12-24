@@ -17,5 +17,5 @@ title: getDescriptor
 
 	object:getDescriptor( uuid )
 
-### uuid ~^(required)^~
+### uuid <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._

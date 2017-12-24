@@ -17,5 +17,5 @@ title: disconnect
 
 	bluetooth.disconnect( address )
 
-### address ~^(required)^~
+### address <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._

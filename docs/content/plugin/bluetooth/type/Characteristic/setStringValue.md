@@ -17,5 +17,5 @@ title: setStringValue
 
 	object:setStringValue( value )
 
-### value ~^(required)^~
+### value <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._

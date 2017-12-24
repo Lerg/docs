@@ -19,7 +19,7 @@ Returns a [Userdata](https://docs.coronalabs.com/api/type/Userdata.html) represe
 
 	bluetooth.startAdvertising( params )
 
-### params ~^(required)^~
+### params <sub>required</sub>
 _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters for the call &mdash; see the next section for details.
 
 
@@ -27,23 +27,23 @@ _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters 
 
 The `params` table includes parameters for the call.
 
-### mode ~^(optional)^~
+### mode <sub>optional</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ `"low latency"`, `"low power"`, `"balanced"` (default).
 
-### isConnectable ~^(optional)^~
+### isConnectable <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ default is `false`.
 
-### timeout ~^(optional)^~
+### timeout <sub>optional</sub>
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._ integer.
 
-### txPowerLevel ~^(optional)^~
+### txPowerLevel <sub>optional</sub>
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._ integer.
 
-### broadcast ~^(optional)^~
+### broadcast <sub>optional</sub>
 _[AdvertiseData](/plugin/bluetooth/type/AdvertiseData/)._
 
-### response ~^(optional)^~
+### response <sub>optional</sub>
 _[AdvertiseData](/plugin/bluetooth/type/AdvertiseData/)._
 
-### listener ~^(optional)^~
+### listener <sub>optional</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._

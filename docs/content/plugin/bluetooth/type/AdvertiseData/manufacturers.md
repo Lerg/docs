@@ -16,8 +16,8 @@ Elements are [tables](https://docs.coronalabs.com/api/type/Table.html).
 
 ## Element
 
-### id ~^(required)^~
+### id <sub>required</sub>
 _[Number](https://docs.coronalabs.com/api/type/Number.html)._
 
-### data ~^(required)^~
+### data <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._

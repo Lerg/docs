@@ -20,5 +20,5 @@ Pauses an ongoing speech. Can be resumed by [texttospeech.continue()](/plugin/te
 texttospeech.pause(waitForWordEnd)
 ```
 
-### waitForWordEnd ~^(optional)^~
+### waitForWordEnd <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ If `true`, the speech will be interrupted at the word end. Otherwise the speech will be interrupted immediately.
