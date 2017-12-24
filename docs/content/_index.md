@@ -3,11 +3,11 @@
 ## Plugins
 
 * [Bluetooth](/plugin/bluetooth)
-* Flashlight
+* [Flashlight](http://spiralcodestudio.com/plugin-flashlight/)
 * [Mouse Cursor](/plugin/mousecursor/)
-* NFC
-* QR Scanner
+* [NFC](/plugin/nfc/)
+* [QR Scanner](/plugin/qrscanner/)
 * [Text To Speech](/plugin/texttospeech/)
-* Toast
-* Vibrator
+* [Toast](http://spiralcodestudio.com/plugin-toast/)
+* [Vibrator](http://spiralcodestudio.com/plugin-vibrator/)
 * [VK](/plugin/vk/)
