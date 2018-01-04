@@ -1,8 +1,10 @@
 ---
-title: Plugins
+title: Corona Plugins
 ---
 
 ## Plugins
+
+These plugins are designed for [Corona](https://coronalabs.com).
 
 * [Bluetooth](/plugin/bluetooth)
 * [Flashlight](http://spiralcodestudio.com/plugin-flashlight/)

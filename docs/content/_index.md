@@ -1,6 +1,14 @@
 # Welcome to Spiral Code Studio Documentation
 
-## Plugins
+## Defold Extensions
+
+These extensions are designed for [Defold](https://defold.com).
+
+* [Admob](/extension/admob)
+
+## Corona Plugins
+
+These plugins are designed for [Corona](https://coronalabs.com).
 
 * [Bluetooth](/plugin/bluetooth)
 * [Flashlight](http://spiralcodestudio.com/plugin-flashlight/)
