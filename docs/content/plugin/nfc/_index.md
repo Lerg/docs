@@ -10,7 +10,7 @@ title: nfc
 
 ## Overview
 
-The [NFC](https://marketplace.coronalabs.com/plugin/nfc) plugin enables your application to read NFC tags. NFC stands for Near Field Communication. At the moment the plugin only supports reading NDEF tags, but in the future based on your feedback, the plugin can be enhaced.
+The [NFC](https://marketplace.coronalabs.com/plugin/nfc) plugin enables your application to read NFC tags. NFC stands for Near Field Communication. At the moment the plugin only supports NDEF tags, but in the future based on your feedback, the plugin can be enhaced.
 
 Supported platforms: Android 4.0+. Some features require Android 4.1+ or 6.0+. 
 This plugin is not available on iOS yet, Apple will introduce NFC support in iOS 11.
