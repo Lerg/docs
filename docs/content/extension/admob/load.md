@@ -13,7 +13,7 @@ title: load
 
 ## Overview
 
-Loads a specified ad unit.
+Loads a specified ad unit. It also allows you to specify additional targeting parameters. To understand all of them please read targeting guides for [iOS](https://developers.google.com/admob/ios/targeting) and [Android](https://developers.google.com/admob/android/targeting).
 
 ## Syntax
 ```lua
@@ -40,6 +40,27 @@ _[String](https://docs.coronalabs.com/api/type/String.html)._ Sets the user ID t
 
 ### keywords <sub>optional</sub>
 _[Array](https://docs.coronalabs.com/api/type/Array.html)._ A set of string keywords to be used when an ad is being chosed. E.g. `{'action', 'game'}`. It may increase your revenue by displaying relevant ads.
+
+### gender <sub>optional</sub>
+_[String](https://docs.coronalabs.com/api/type/String.html)._ User gender: `'male'` or `'female'`.
+
+### is_designed_for_families <sub>optional</sub>
+_[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ Set it to `true` if your app is accepted as "Designed For Families". Android only.
+
+### tag_for_child_directed_treatment <sub>optional</sub>
+_[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ For purposes of the [Children's Online Privacy Protection Act (COPPA)](http://business.ftc.gov/privacy-and-security/children%27s-privacy), there is a setting called "tag for child-directed treatment". By setting this to `true`, you certify that this notification is accurate and you are authorized to act on behalf of the owner of the app. You understand that abuse of this setting may result in termination of your Google account.
+
+### max_ad_content_rating <sub>optional</sub>
+_[String](https://docs.coronalabs.com/api/type/String.html)._ AdMob returns ads with a content rating at or below the specified level. Possible values are: `'G'`, `'PG'`, `'T'`, `'MA'`.
+
+### birthday <sub>optional</sub>
+_[Table](https://docs.coronalabs.com/api/type/Table.html)._ A table with three numeric components of a date: `year`, `month` and `day`. All fields are required. E.g. `{year = 1970, month = 1, day = 1}`.
+
+### location <sub>optional</sub>
+_[Table](https://docs.coronalabs.com/api/type/Table.html)._ A table with three numeric components of a location: `latitude`, `longitude` and `accuracy`. All fields are required. E.g. `{latitude = 59.3385206, longitude = 18.0303522, accuracy = 20}`.
+
+### content_url <sub>optional</sub>
+_[String](https://docs.coronalabs.com/api/type/String.html)._ When requesting an ad, apps may pass the URL of the content they are serving. E.g. a blog post URL or a news URL that is being shown in your app.
 
 ### size <sub>optional</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Banner size to load: `'banner'` (default), `'large'`, `'medium'`, `'full'`, `'leaderboard'`, `'smart'`, `'smart_portrait'` (iOS only), `'smart_landscape'` (iOS only).
