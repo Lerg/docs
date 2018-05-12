@@ -68,6 +68,14 @@ To use this plugin, add an entry into the `plugins` table of `build.settings`. W
 	}
 ```
 
+In VK dev console (https://vk.com/dev) for your app you have to:
+- Set "Install Application" setting to "Required".
+- Add all used permissions to "Access Rights".
+- Add "App Bundle ID for iOS".
+- Add "Package name for Android"
+- Set "Main activity for Android" to "com.ansca.corona.CoronaActivity"
+- Add "Signing certificate fingerprint for Android"
+
 ## Sample Project
 
 A sample project can be found here.
