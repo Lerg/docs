@@ -1,23 +1,23 @@
 ---
-title: cancelBeam
+title: close
 ---
-# nfc.cancelBeam()
+# nfc.close()
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 
 > __Return value__      none
 
-> __Platform__          Android only
+> __Platform__          iOS only
 
 > __See also__          [nfc.*](/plugin/nfc/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Cancels any previously prepared with [nfc.beam()](/plugin/nfc/beam) message.
+Closes an opened NFC reading dialog.
 
 ## Syntax
 ```lua
-nfc.cancelBeam()
+nfc.close()
 ```

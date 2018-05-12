@@ -14,4 +14,4 @@ title: isError
 
 ## Overview
 
-[Boolean](https://docs.coronalabs.com/api/type/Boolean.html) of `true` in case of an error.
+[Boolean](https://docs.coronalabs.com/api/type/Boolean.html) of `true` in case of an error or when the iOS NFC reading dialog is closed.

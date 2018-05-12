@@ -8,6 +8,8 @@ title: writeTag
 
 > __Return value__      none
 
+> __Platform__          Android only
+
 > __See also__          [nfc.*](/plugin/nfc/)
 > --------------------- ------------------------------------------------------------------------------------------
 

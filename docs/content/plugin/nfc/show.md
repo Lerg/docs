@@ -1,25 +1,25 @@
 ---
-title: beam
+title: show
 ---
-# nfc.beam()
+# nfc.show()
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
 
 > __Return value__      none
 
-> __Platform__          Android only
+> __Platform__          iOS only
 
 > __See also__          [nfc.*](/plugin/nfc/)
 > --------------------- ------------------------------------------------------------------------------------------
 
 ## Overview
 
-Beam prepares the device for beaming an NDEF message to another device. The transfer starts when two devices are put near together.
+Shows iOS native NFC reading dialog.
 
 ## Syntax
 ```lua
-nfc.beam(params)
+nfc.show(params)
 ```
 
 ### params <sub>required</sub>
@@ -29,8 +29,8 @@ _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters 
 
 The `params` table includes parameters for the call.
 
-### message <sub>required</sub>
-_[NdefMessage](/plugin/nfc/type/NdefMessage/)._ Contains NDEF message as an array of NDEF records.
+### message <sub>optional</sub>
+_[String](https://docs.coronalabs.com/api/type/String.html)._ A message that appears inside the dialog window with instructions for a user, e.g. `'Place a tag near your device.'`
 
-### listener <sub>required</sub>
-_[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ Listener which receives the [beam](/plugin/nfc/event/beam/) event.
+### closeAfterFirstRead <sub>optional</sub>
+_[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ If `true`, the dialog window will close after the first discovered tag. Otherwise you will have to close the dialog manually or the user will close it.
