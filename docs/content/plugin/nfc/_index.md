@@ -71,18 +71,23 @@ settings = {
 }
 ```
 
-As per Apple requirement, you also have to add an NFC usage description.
+As per Apple requirement, you also have to add an NFC usage description. And a special entitlement record.
 ```lua
 settings = {
     iphone = {
         plist = {
             NFCReaderUsageDescription = 'Testing NFC'
-        }
+        },
+        entitlements = {
+			['com.apple.developer.nfc.readersession.formats'] = {'NDEF'}
+		}
     }
 }
 ```
 
-And don't forget to enable "NFC Tag Reading" service for your iOS App Id.
+You can replace `'Testing NFC'` with your own description.
+
+And don't forget to enable "NFC Tag Reading" service for your iOS App Id on Apple's developer portal.
 
 If you want your Android application to be able to launch when an NFC device is discovered, you should add a specific intent filter into build.settings. You can read more on that and about NFC in general [here](http://developer.android.com/guide/topics/connectivity/nfc/nfc.html).
 
