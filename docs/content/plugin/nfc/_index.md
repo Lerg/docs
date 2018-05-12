@@ -135,3 +135,9 @@ On iOS you also have to call `nfc.show()` to open NFC reading dialog.
 ```lua
 nfc.show{message = 'Place an NDEF tag.'}
 ```
+
+## Sample Project
+
+A sample project can be found here.
+
+https://github.com/Lerg/plugins-sample-nfc

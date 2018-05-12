@@ -96,6 +96,8 @@ To use this plugin, add an entry into the `plugins` table of `build.settings`. W
 		}
 	}
 
-## Support
+## Sample Project
 
-* [Corona Forums](http://forums.coronalabs.com/forum/)
+A sample project can be found here.
+
+https://github.com/Lerg/plugins-sample-bluetooth

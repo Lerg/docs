@@ -67,3 +67,9 @@ To use this plugin, add an entry into the `plugins` table of `build.settings`. W
 		}
 	}
 ```
+
+## Sample Project
+
+A sample project can be found here.
+
+https://github.com/Lerg/plugins-sample-vk

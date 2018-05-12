@@ -50,3 +50,9 @@ Also for iOS 10 support you need to add a description for the camera permission.
 NSPhotoLibraryUsageDescription = "Not used in this app",  
 NSCameraUsageDescription = "Used to scan QR codes and barcodes"  
 ```
+
+## Sample Project
+
+A sample project can be found here.
+
+https://github.com/Lerg/plugins-sample-qrscanner
