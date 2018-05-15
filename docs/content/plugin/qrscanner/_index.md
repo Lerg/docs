@@ -16,6 +16,19 @@ Supported platforms: iOS 8+, Android 4.0.3+.
 
 The latest version requires Corona 2017.3068 or later.
 
+##Screenshots
+
+<center>
+![Android](/content/images/qrscanner/android.jpg" width="50%"")
+<br>Android
+
+![iPad](/content/images/qrscanner/ios.jpg" width="50%"")
+<br>iOS
+
+![Custom Overlay](/content/images/qrscanner/custom_overlay.png" width="50%"")
+<br>Custom Overlay
+</center>
+
 ## Syntax
 ```lua
 local qrscanner = require('plugin.qrscanner')  
