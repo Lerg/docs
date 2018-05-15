@@ -16,16 +16,16 @@ Supported platforms: iOS 8+, Android 4.0.3+.
 
 The latest version requires Corona 2017.3068 or later.
 
-##Screenshots
+## Screenshots
 
 <center>
-![Android](/images/qrscanner/android.jpg)
+<img src="/images/qrscanner/android.jpg" alt="Android" width="50%">
 <br>Android
 
-![iPad](/images/qrscanner/ios.jpg)
+<img src="/images/qrscanner/ios.jpg" alt="iOS" width="50%">
 <br>iOS
 
-![Custom Overlay](/images/qrscanner/custom_overlay.png)
+<img src="/images/qrscanner/custom_overlay.png" alt="Custom Overlay" width="50%">
 <br>Custom Overlay
 </center>
 

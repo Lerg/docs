@@ -15,13 +15,13 @@ Toasts are not a part of Corona's OpenGL hierarchy, therefore they don't affect 
 
 Supported platforms: iOS 7+ and Android 2.3.3+.
 
-##Screenshots
+## Screenshots
 
 <center>
-![Android](/images/toast/android.png)
+<img src="/images/toast/android.png" alt="Android" width="50%">
 <br>Android
 
-![iPad](/images/toast/ios.png)
+<img src="/images/toast/ios.png" alt="iOS" width="50%">
 <br>iOS
 </center>
 
