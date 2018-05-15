@@ -11,11 +11,11 @@ These extensions are designed for [Defold](https://defold.com).
 These plugins are designed for [Corona](https://coronalabs.com).
 
 * [Bluetooth](/plugin/bluetooth)
-* [Flashlight](http://spiralcodestudio.com/plugin-flashlight/)
-* [Mouse Cursor](/plugin/mousecursor/)
-* [NFC](/plugin/nfc/)
-* [QR Scanner](/plugin/qrscanner/)
-* [Text To Speech](/plugin/texttospeech/)
-* [Toast](http://spiralcodestudio.com/plugin-toast/)
-* [Vibrator](http://spiralcodestudio.com/plugin-vibrator/)
+* [Flashlight](/plugin/flashlight)
+* [Mouse Cursor](/plugin/mousecursor)
+* [NFC](/plugin/nfc)
+* [QR Scanner](/plugin/qrscanner)
+* [Text To Speech](/plugin/texttospeech)
+* [Toast](/plugin/toast)
+* [Vibrator](/plugin/vibrator)
 * [VK](/plugin/vk/)

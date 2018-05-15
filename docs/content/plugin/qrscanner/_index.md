@@ -19,13 +19,13 @@ The latest version requires Corona 2017.3068 or later.
 ##Screenshots
 
 <center>
-![Android](/content/images/qrscanner/android.jpg" width="50%"")
+![Android](/content/images/qrscanner/android.jpg)
 <br>Android
 
-![iPad](/content/images/qrscanner/ios.jpg" width="50%"")
+![iPad](/content/images/qrscanner/ios.jpg)
 <br>iOS
 
-![Custom Overlay](/content/images/qrscanner/custom_overlay.png" width="50%"")
+![Custom Overlay](/content/images/qrscanner/custom_overlay.png)
 <br>Custom Overlay
 </center>
 
