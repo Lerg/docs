@@ -13,7 +13,7 @@ title: hide
 
 ## Overview
 
-Makes a visible cursor hidden.
+Makes a visible cursor hidden. On Windows instead of disappearing, cursor resets to the arrow.
 
 ## Syntax
 ```lua

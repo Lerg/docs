@@ -12,7 +12,9 @@ title: mousecursor
 
 The [Mouse Cursor](https://marketplace.coronalabs.com/plugin/mousecursor) plugin can change mouse cursor image to either one of the standard system choices or to a custom image using native system API (not Corona display object).
 
-Supported platforms: macOS 10.3+. Windows support is coming.
+This is a must have plugin for any desktop game, if a display object is used as a mouse cursor it lags on many systems making playing the game uncomfortable. System cursors in this plugin don't have such problem. 
+
+Supported platforms: macOS 10.3+. Windows XP+.
 
 The latest version requires Corona 2016.2906 or later.
 
