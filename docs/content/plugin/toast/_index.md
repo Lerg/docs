@@ -35,7 +35,7 @@ local toast = require('plugin.toast')
 
 ## Project Settings
 
-First, get the plugin on the [Corona Marketplace](https://marketplace.coronalabs.com/plugin/toast" target="_blank) page.
+First, get the plugin on the [Corona Marketplace](https://marketplace.coronalabs.com/plugin/toast) page.
 
 Add an entry into the `plugins` table of `build.settings`. When added, the build server will integrate the plugin during the build phase.
 

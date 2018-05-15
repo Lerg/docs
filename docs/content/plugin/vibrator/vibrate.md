@@ -1,7 +1,7 @@
 ---
-title: hasVibrator
+title: vibrate
 ---
-# vibrator.hasVibrator()
+# vibrator.vibrate()
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)

@@ -35,7 +35,7 @@ local vibrator = require('plugin.vibrator')
 
 ## Project Settings
 
-First, get the plugin on the [Corona Marketplace](https://marketplace.coronalabs.com/plugin/vibrator" target="_blank) page.
+First, get the plugin on the [Corona Marketplace](https://marketplace.coronalabs.com/plugin/vibrator) page.
 
 Add an entry into the `plugins` table of `build.settings`. When added, the build server will integrate the plugin during the build phase.
 

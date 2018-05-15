@@ -1,7 +1,7 @@
 ---
-title: prepare
+title: invoke
 ---
-# haptic:prepare()
+# haptic:invoke()
 
 > --------------------- ------------------------------------------------------------------------------------------
 > __Type__              [Function](https://docs.coronalabs.com/api/type/Function.html)
