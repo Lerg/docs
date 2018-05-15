@@ -18,10 +18,10 @@ Supported platforms: iOS 7+ and Android 2.3.3+.
 ##Screenshots
 
 <center>
-![Android](/static/images/toast/android.png)
+![Android](/images/toast/android.png)
 <br>Android
 
-![iPad](/static/images/toast/ios.png)
+![iPad](/images/toast/ios.png)
 <br>iOS
 </center>
 
