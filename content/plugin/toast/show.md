@@ -22,7 +22,7 @@ toast.show(message, [params])
 ### name <sub>required</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ Text to be displayed.
 
-### params <sub>required</sub>
+### params <sub>optional</sub>
 _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Additional parameters.
 
 ## Parameter reference
