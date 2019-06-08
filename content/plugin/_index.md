@@ -7,6 +7,7 @@ title: Corona Plugins
 These plugins are designed for [Corona](https://coronalabs.com).
 
 * [Bluetooth](/plugin/bluetooth)
+* [Facebook](/plugin/facebook/)
 * [Flashlight](/plugin/flashlight)
 * [Mouse Cursor](/plugin/mousecursor)
 * [NFC](/plugin/nfc)
