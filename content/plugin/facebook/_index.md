@@ -20,7 +20,7 @@ Supported platforms: iOS 8+, Android 4.0.3+.
 
 ## Syntax
 ```lua
-local facebook = require('plugin.facebook')  
+local facebook = require('plugin.spiralcode.facebook')  
 ```
 ## Functions
 
@@ -45,7 +45,7 @@ To use this plugin, add an entry into the `plugins` table of `build.settings`. W
 ```lua
 	settings = {
 		plugins = {
-			['plugin.facebook'] = {
+			['plugin.spiralcode.facebook'] = {
 				publisherId = 'com.spiralcodestudio'
 			}
 		}
