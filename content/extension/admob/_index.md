@@ -32,22 +32,11 @@ The [Admob](https://www.defold.com/community/projects/93085/) extension lets you
 
 ## Project Settings
 
-> To use this extension, open `game.project` and add an entry into the `dependencies` property:  `https://github.com/Lerg/extension-admob/archive/master.zip`. Multiple items can be separated by a space character.
-> 
-> Then select `Project -> Fetch Libraries` to download the extension in your project.
+To use this extension, open `game.project` and add an entry into the `dependencies` property:  `https://github.com/Lerg/extension-admob/archive/master.zip`. Multiple items can be separated by a space character.
 
-### Android Resources bug
+Then select `Project -> Fetch Libraries` to download the extension in your project.
 
->**Oops**, turns out there is a bug in Defold preventing the extension from building for Android when used as a remote dependency. Resources don’t get bundled.
->
-> As a workaround please download the extension from github https://github.com/Lerg/extension-admob/archive/master.zip and copy the admob directory into your project. And the extension has to be removed from the `dependencies` list if added already in game.project.
-
-`AndroidManifest.xml` has to be modified for full Android support. You can use the provided manifest file. [Download it](https://raw.githubusercontent.com/Lerg/extension-admob/master/AndroidManifest.xml) and put it into your project directory.
-Again, open `game.project` and scroll down to `android -> Manifest` option, select or paste path for the manifest file from the extension: `/AndroidManifest.xml`.
-
-Another file - `game.appmanifest` has to be added to the `game.project` file to tell Defold not to bundle it's own Google Play Services and Support libraries. This extension provides updated versions of these libraries.
-
-Again, [download it](https://raw.githubusercontent.com/Lerg/extension-admob/master/game.appmanifest) and put it into your project directory. Scroll down to `native_extension -> App Manifest` and select `/game.appmanifest`.
+For android builds to work, you must exclude Defold's Google Play Services jars, to do so open `game.project` and set `App Manifest` under `native_extension` to `/admob/ext.appmanifest`.
 
 ## Test Ads
 
