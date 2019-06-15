@@ -26,5 +26,5 @@ _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters 
 
 The `params` table includes parameters for the call.
 
-### listener <sub>required</sub> ~(Android)~
+### listener <sub>required</sub>
 _[Listener](https://docs.coronalabs.com/api/type/Listener.html)._ The listener receices the [fbapplink](/plugin/facebook/event/fbapplink/) event containing the deferred url.

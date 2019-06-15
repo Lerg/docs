@@ -70,7 +70,7 @@ settings = {
             -- Whitelist Facebook apps
             LSApplicationQueriesSchemes =
             {
-                'fb',  -- Needed for the facebook-v4.isFacebookAppEnabled() API
+                'fb',
                 'fbapi',
                 'fbauth2',
                 'fb-messenger-api',
@@ -101,10 +101,6 @@ settings =
     },
 }
 ```
-
-## Deferred url (app link)
-
-For deferred URL to work, 
 
 ## Sample Project
 

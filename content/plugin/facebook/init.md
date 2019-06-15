@@ -26,7 +26,7 @@ _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters 
 
 The `params` table includes parameters for the call.
 
-### autoLogAppEvents <sub>optional</sub> ~(Android)~
+### autoLogAppEvents <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ Controls the auto logging of basic app events, such as activateApp and deactivateApp. In some cases, you want to only delay the collection of automatically logged events, such as to obtain User consent or fulfill legal obligations. Default is `false`.
 
 ### advertiserIdCollection <sub>optional</sub>
