@@ -27,7 +27,7 @@ _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters 
 The `params` table includes parameters for the call.
 
 ### app_id <sub>required</sub>
-_[String](https://docs.coronalabs.com/api/type/String.html)._ Your app id, e.g. `'ca-app-pub-3940256099942544~3347511713'`.
+_[String](https://docs.coronalabs.com/api/type/String.html)._ Your app id, e.g. `'ca-app-pub-3940256099942544~3347511713'`. Android only. For iOS - put your app id into the `Info.plist` file.
 
 ### test <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ If `true`, the test ads will be served. ALWAYS use test ads during the development.

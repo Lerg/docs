@@ -50,6 +50,9 @@ _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ Set it to `true`
 ### tag_for_child_directed_treatment <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ For purposes of the [Children's Online Privacy Protection Act (COPPA)](http://business.ftc.gov/privacy-and-security/children%27s-privacy), there is a setting called "tag for child-directed treatment". By setting this to `true`, you certify that this notification is accurate and you are authorized to act on behalf of the owner of the app. You understand that abuse of this setting may result in termination of your Google account.
 
+### tag_for_under_age_of_consent <sub>optional</sub>
+_[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ See [Users under the age of consent](https://developers.google.com/admob/unity/targeting#users_under_the_age_of_consent), default is `false`. iOS only for now.
+
 ### non_personalized <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ Set it to `true` if you would like to request non-personalized ads. Under the Google EU User Consent Policy, you must make certain disclosures to your users in the European Economic Area (EEA) and obtain their consent to show personalized ads. This policy reflects the requirements of the EU ePrivacy Directive and the General Data Protection Regulation (GDPR).
 
