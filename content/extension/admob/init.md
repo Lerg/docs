@@ -26,9 +26,6 @@ _[Table](https://docs.coronalabs.com/api/type/Table.html)._ Contains parameters 
 
 The `params` table includes parameters for the call.
 
-### app_id <sub>required</sub>
-_[String](https://docs.coronalabs.com/api/type/String.html)._ Your app id, e.g. `'ca-app-pub-3940256099942544~3347511713'`. Android only. For iOS - put your app id into the `Info.plist` file.
-
 ### test <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ If `true`, the test ads will be served. ALWAYS use test ads during the development.
 
@@ -38,11 +35,7 @@ _[Function](https://docs.coronalabs.com/api/type/Function.html)._ The callback f
 ## Example
 
 ```lua
--- App id and banner id for iOS and Android.
-local app_id = {
-	['iPhone OS'] = 'ca-app-pub-3940256099942544~1458002511',
-	Android = 'ca-app-pub-3940256099942544~3347511713'
-}
+-- Banner id for iOS and Android.
 local banner_id = {
 	['iPhone OS'] = 'ca-app-pub-3940256099942544/2934735716',
 	Android = 'ca-app-pub-3940256099942544/6300978111'
@@ -63,9 +56,8 @@ local function listener(event)
 	end
 end
 
--- Init Admob with your app id for the current platform.
+-- Init Admob.
 admob.init{
-	app_id = app_id[sysinfo.system_name],
 	test = true, -- ALWAYS use test ads, only disable when submitting to the stores.
 	listener = listener
 }

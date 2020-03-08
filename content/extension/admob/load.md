@@ -56,6 +56,9 @@ _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ See [Users under
 ### non_personalized <sub>optional</sub>
 _[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ Set it to `true` if you would like to request non-personalized ads. Under the Google EU User Consent Policy, you must make certain disclosures to your users in the European Economic Area (EEA) and obtain their consent to show personalized ads. This policy reflects the requirements of the EU ePrivacy Directive and the General Data Protection Regulation (GDPR).
 
+### restricted_data_processing <sub>optional</sub>
+_[Boolean](https://docs.coronalabs.com/api/type/Boolean.html)._ Set it to `true` if you would like to [restrict data processing](https://privacy.google.com/businesses/rdp/) for compliance with the [California Consumer Privacy Act (CCPA)](https://support.google.com/admob/answer/9561022).
+
 ### max_ad_content_rating <sub>optional</sub>
 _[String](https://docs.coronalabs.com/api/type/String.html)._ AdMob returns ads with a content rating at or below the specified level. Possible values are: `'G'`, `'PG'`, `'T'`, `'MA'`.
 
