@@ -99,6 +99,6 @@ _[Constant](https://docs.coronalabs.com/api/type/Constant.html)._ The base direc
 
 Android and iOS have different set of supported visual codes.
 
-**Android**: `'code39'`, `'code93'`, `'code128'`, `'codabar'`, `'databar'`, `'databar_exp'`, `'ean8'`, `'ean13'`, `'i25'`, `'isbn10'`, `'isbn13'`, `'partial'`, `'pdf417'`, `'qr'`, `'upca'`, `'upce'`.
+**Android**: `'code39'`, `'code93'`, `'code128'`, `'codabar'`, `'ean8'`, `'ean13'`, `'i25'`, `'pdf417'`, `'qr'`, `'upca'`, `'upce'`, `'datamatrix'`.
 
 **iOS**: `'aztec'`, `'code39'`, `'code39mod43'`, `'code93'`, `'code128'`, `'datamatrix'`, `'ean8'`, `'ean13'`, `'interleaved2of5'`, `'itf14'`, `'pdf417'`, `'qr'`, `'upce'`.

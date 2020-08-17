@@ -14,4 +14,4 @@ title: symbol
 
 ## Overview
 
-[String](https://docs.coronalabs.com/api/type/String.html) indicates the type of symbol that was scanned.
+[String](https://docs.coronalabs.com/api/type/String.html) indicates the type of symbol that was scanned. iOS only.
