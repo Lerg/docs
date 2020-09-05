@@ -29,8 +29,9 @@ https://github.com/Lerg/extension-admob
 To use this extension, you have to support me on Patreon with a 2nd or higher tier. You can become a patron here https://patreon.com/Lerg
 
 Once you become a patron, I will send you an access key. Open `game.project` and these two entries to the `dependencies` property:
-* `https://build.spiralcodestudio.com/PATREON_EMAIL/ACCESS_KEY/defold/admob.zip`
-* `https://static.spiralcodestudio.com/defold/admob_dep.zip`
+
+- `https://build.spiralcodestudio.com/PATREON_EMAIL/ACCESS_KEY/defold/admob.zip`
+- `https://static.spiralcodestudio.com/defold/admob_dep.zip`
 
 Replace `PATREON_EMAIL` with your Patreon email and `ACCESS_KEY` with the key I send you. E.g. `https://build.spiralcodestudio.com/name@gmail.com/0123456789/defold/admob.zip`
 
