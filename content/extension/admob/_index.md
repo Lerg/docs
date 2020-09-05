@@ -1,6 +1,14 @@
 # Admob Extension for Defold
 
-The [Admob](https://www.defold.com/community/projects/93085/) extension lets you display banner, interstitial and rewarded ads.
+The Admob extension lets you display banner, interstitial and rewarded ads.
+
+## Impressions Share
+
+There is NO impression share or revenue share.
+
+## Sample Project
+
+https://github.com/Lerg/extension-admob
 
 # API Overview
 
@@ -20,8 +28,9 @@ The [Admob](https://www.defold.com/community/projects/93085/) extension lets you
 
 To use this extension, you have to support me on Patreon with a 2nd or higher tier. You can become a patron here https://patreon.com/Lerg
 
-Once you become a patron, I will send you an access key. Open `game.project` and an entry to the `dependencies` property:
+Once you become a patron, I will send you an access key. Open `game.project` and these two entries to the `dependencies` property:
 * `https://build.spiralcodestudio.com/PATREON_EMAIL/ACCESS_KEY/defold/admob.zip`
+* `https://static.spiralcodestudio.com/defold/admob_dep.zip`
 
 Replace `PATREON_EMAIL` with your Patreon email and `ACCESS_KEY` with the key I send you. E.g. `https://build.spiralcodestudio.com/name@gmail.com/0123456789/defold/admob.zip`
 
