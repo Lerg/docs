@@ -10,7 +10,8 @@ title: nfc
 
 ## Overview
 
-The [NFC](https://marketplace.coronalabs.com/plugin/nfc) plugin enables your application to read NFC tags. NFC stands for Near Field Communication. At the moment the plugin only supports NDEF tags, but in the future based on your feedback, the plugin can be enhaced.
+The NFC plugin enables your application to read NFC tags. NFC stands for Near Field Communication. At the moment the plugin only supports NDEF tags, but in the future based on your feedback, the plugin can be enhaced.
+To get access to the plugin, you need to support me on Patreon https://www.patreon.com/lerg
 
 Supported platforms: Android 4.0+. Some features require Android 4.1+ or 6.0+. iOS 11+.
 
@@ -61,13 +62,27 @@ local nfc = require('plugin.nfc')
 ## Project Settings
 
 To use this plugin, add an entry into the `plugins` table of `build.settings`. When added, the build server will integrate the plugin during the build phase.
+
+You also need to add a special function at the top of the `build.settings` file and provide your Patreon email and an access key. The access key you get when you become a patron.
+
 ```lua
+local spiralcodestudio_patreon_email = 'YOUR_EMAIL'
+local spiralcodestudio_key = 'YOUR_ACCESS_KEY'
+
+local function spiralcodestudio_plugin(name)
+	local plugin = {publisherId = 'com.spiralcodestudio', supportedPlatforms = {}}
+	local platforms = {'android', 'appletvos', 'appletvsimulator', 'iphone', 'iphone-sim', 'mac-sim', 'win32-sim'}
+	for i = 1, #platforms do
+		local platform = platforms[i]
+		plugin.supportedPlatforms[platform] = {url = 'https://build.spiralcodestudio.com/' .. spiralcodestudio_patreon_email .. '/' .. spiralcodestudio_key .. '/solar2d/' .. name .. '_' .. platform .. '.tgz'}
+	end
+	return plugin
+end
+
 settings = {
-    plugins = {
-        ['plugin.nfc'] = {
-            publisherId = 'com.spiralcodestudio'
-        }
-    }
+	plugins = {
+		['plugin.nfc'] = spiralcodestudio_plugin('nfc')
+	}
 }
 ```
 

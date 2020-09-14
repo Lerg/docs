@@ -13,7 +13,7 @@ title: bluetooth
 
 ## Overview
 
-The [Bluetooth](https://marketplace.coronalabs.com/plugin/bluetooth) plugin enables Bluetooth communication.
+The Bluetooth plugin enables Bluetooth communication.
 
 <div class="guide-notebox">
 <div class="notebox-title">Notes</div>

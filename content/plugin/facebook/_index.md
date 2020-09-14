@@ -10,7 +10,8 @@ title: facebook
 
 ## Overview
 
-The [facebook](https://marketplace.coronalabs.com/plugin/facebook) plugin integrates the Facebook SDK version 5.0.1, currently only analytics and deferred applinks are implemented. This plugin is incompatible with the standard `facebook.v4` plugin by Corona Labs.
+The Facebook plugin integrates the Facebook SDK version 5.0.1, currently only analytics and deferred applinks are implemented. This plugin is incompatible with the standard `facebook.v4` plugin by Corona Labs.
+To get access to the plugin, you need to support me on Patreon https://www.patreon.com/lerg
 
 It is advised to get familiar with official Facebook SDK documentation.
 
@@ -43,13 +44,24 @@ local facebook = require('plugin.spiralcode.facebook')
 To use this plugin, add an entry into the `plugins` table of `build.settings`. When added, the build server will integrate the plugin during the build phase.
 
 ```lua
-	settings = {
-		plugins = {
-			['plugin.spiralcode.facebook'] = {
-				publisherId = 'com.spiralcodestudio'
-			}
-		}
+local spiralcodestudio_patreon_email = 'YOUR_EMAIL'
+local spiralcodestudio_key = 'YOUR_ACCESS_KEY'
+
+local function spiralcodestudio_plugin(name)
+	local plugin = {publisherId = 'com.spiralcodestudio', supportedPlatforms = {}}
+	local platforms = {'android', 'appletvos', 'appletvsimulator', 'iphone', 'iphone-sim', 'mac-sim', 'win32-sim'}
+	for i = 1, #platforms do
+		local platform = platforms[i]
+		plugin.supportedPlatforms[platform] = {url = 'https://build.spiralcodestudio.com/' .. spiralcodestudio_patreon_email .. '/' .. spiralcodestudio_key .. '/solar2d/' .. name .. '_' .. platform .. '.tgz'}
+	end
+	return plugin
+end
+
+settings = {
+	plugins = {
+		['plugin.spiralcode.facebook'] = spiralcodestudio_plugin('facebook')
 	}
+}
 ```
 
 ### iOS
