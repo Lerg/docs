@@ -1,3 +1,7 @@
+---
+title: Solar2D Plugins
+---
+
 # SoX Plugin for Solar2D
 
 The SoX plugin allows you to process audio files using the [Sound eXchange](http://sox.sourceforge.net/Main/HomePage) toolkit. Features audio equalizer, audio normalization, adding reverberation, trimming silence, adjusting pitch, speed and many more.

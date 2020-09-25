@@ -8,7 +8,7 @@ These extensions are designed for [Defold](https://defold.com).
 
 ## Corona Plugins
 
-These plugins are designed for [Corona](https://coronalabs.com).
+These plugins are designed for [Solar2D](https://solar2d.com) - previous Corona SDK.
 
 * [Bluetooth](/plugin/bluetooth)
 * [Chrome Tabs](/plugin/chrometabs)

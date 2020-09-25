@@ -1,3 +1,7 @@
+---
+title: Solar2D Plugins
+---
+
 # Microphone Plugin for Solar2D
 
 The Microphone plugin allows you to record audio. Includes volume detection (only start recording when volume is high enough) and automatic gain control.
@@ -24,7 +28,7 @@ https://github.com/Lerg/plugins-sample-microphone
 
 ## Events
 
-- [`init`](#event_init)
+- [`init`](#event_microphone)
 - [`recorded`](#event_recorded)
 
 # Project Settings
@@ -130,7 +134,7 @@ gain = {
 ```
 
 ### `listener` <sub>required</sub>
-Function. The callback function which receives [`init`](#event_init) and [`recorded`](#event_recorded) events.
+Function. The callback function which receives [`init`](#event_microphone) and [`recorded`](#event_recorded) events.
 
 ---
 
@@ -213,33 +217,41 @@ print(microphone.isRecording())
 
 # Events
 
-## <a name="event_init">`init`</a>
+## <a name="event_microphone">`microphone`</a>
 
-Occurs when plugin is initialized
+Occurs when plugin is initialized or the recording is done.
 
-#### [event.name](#event_init_name)
+#### [event.name](#event_microphone_name)
 
-#### [event.is_error](#event_init_is_error)
+#### [event.phase](#event_microphone_phase)
 
-#### [event.error_code](#event_init_error_code)
+#### [event.is_error](#event_microphone_is_error)
 
-#### [event.error_message](#event_init_error_message)
+#### [event.error_code](#event_microphone_error_code)
 
-### <a name="event_init_name">`event.name`</a>
+#### [event.error_message](#event_microphone_error_message)
 
-The string `'init'`.
+### <a name="event_microphone_name">`event.name`</a>
+
+The string `'microphone'`.
 
 ---
 
-### <a name="event_init_is_error">`event.is_error`</a>
+### <a name="event_microphone_phase">`event.phase`</a>
+
+String. `'init'` for the initialization phase, `'recorded'` for the recording phase.
+
+---
+
+### <a name="event_microphone_is_error">`event.is_error`</a>
 
 Boolean. `true` in case of an error.
 
 ---
 
-### <a name="event_init_error_code">`event.error_code`</a>
+### <a name="event_microphone_error_code">`event.error_code`</a>
 
-Number. Unique error code, present when [event.is_error](#event_init_is_error) is `true`, `nil` otherwise.
+Number. Unique error code, present when [event.is_error](#event_microphone_is_error) is `true`, `nil` otherwise.
 
 Possible codes:
 - `'already_initialized'` - init() called before stopping recording.
@@ -255,50 +267,9 @@ Possible codes:
 
 ---
 
-### <a name="event_init_error_message">`event.error_message`</a>
+### <a name="event_microphone_error_message">`event.error_message`</a>
 
-String. Description of an error when [event.is_error](#event_init_is_error) is `true`, `nil` otherwise.
-
----
-
-## <a name="event_recorded">`recorded`</a>
-
-Occurs when recording is done.
-
-#### [event.name](#event_recorded_name)
-
-#### [event.is_error](#event_recorded_is_error)
-
-#### [event.error_code](#event_recorded_error_code)
-
-#### [event.error_message](#event_recorded_error_message)
-
-### <a name="event_recorded_name">`event.name`</a>
-
-The string `'recorded'`.
-
----
-
-### <a name="event_recorded_is_error">`event.is_error`</a>
-
-Boolean. `true` in case of an error.
-
----
-
-### <a name="event_recorded_error_code">`event.error_code`</a>
-
-Number. Unique error code, present when [event.is_error](#event_recorded_is_error) is `true`, `nil` otherwise.
-
-Possible codes:
-- 'file_open_failed' - Failed to open the file.
-- 'file_write_failed' - Failed to write to the file.
-- 'empty_recording' - Recording didn't trigger the detector.
-
----
-
-### <a name="event_recorded_error_message">`event.error_message`</a>
-
-String. Description of an error when [event.is_error](#event_recorded_is_error) is `true`, `nil` otherwise.
+String. Description of an error when [event.is_error](#event_microphone_is_error) is `true`, `nil` otherwise.
 
 ---
 
