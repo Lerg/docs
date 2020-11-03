@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Device on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/</link>
+    <description>Recent content in Device on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>address</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/address/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/address/</guid>
+      <description>object.address   Type String
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>class</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/class/</guid>
+      <description>object.class   Type String
+  See also bluetooth.*
+  Overview &amp;quot;audio video camcorder&amp;quot;, &amp;quot;audio video car audio&amp;quot;, &amp;quot;audio video handsfree&amp;quot;, &amp;quot;audio video headphones&amp;quot;, &amp;quot;audio video hifi audio&amp;quot;, &amp;quot;audio video loudspeaker&amp;quot;, &amp;quot;audio video microphone&amp;quot;, &amp;quot;audio video portable audio&amp;quot;, &amp;quot;audio video set top box&amp;quot;, &amp;quot;audio video uncategorized&amp;quot;, &amp;quot;audio video vcr&amp;quot;, &amp;quot;audio video video camera&amp;quot;, &amp;quot;audio video video conferencing&amp;quot;, &amp;quot;audio video ideo display and loudspeaker&amp;quot;, &amp;quot;audio video video gaming toy&amp;quot;, &amp;quot;audio video video monitor&amp;quot;, &amp;quot;audio video wearable headset&amp;quot;, &amp;quot;computer desktop&amp;quot;, &amp;quot;computer handheld pc pda&amp;quot;, &amp;quot;computer laptop&amp;quot;, &amp;quot;computer palm size pc pda&amp;quot;, &amp;quot;computer server&amp;quot;, &amp;quot;computer uncategorized&amp;quot;, &amp;quot;computer wearable&amp;quot;, &amp;quot;health blood pressure&amp;quot;, &amp;quot;health data display&amp;quot;, &amp;quot;health glucose&amp;quot;, &amp;quot;health pulse oximeter&amp;quot;, &amp;quot;health pulse rate&amp;quot;, &amp;quot;health thermometer&amp;quot;, &amp;quot;health uncategorized&amp;quot;, &amp;quot;health weighing&amp;quot;, &amp;quot;phone cellular&amp;quot;, &amp;quot;phone cordless&amp;quot;, &amp;quot;phone isdn&amp;quot;, &amp;quot;phone modem or gateway&amp;quot;, &amp;quot;phone smart&amp;quot;, &amp;quot;phone uncategorized&amp;quot;, &amp;quot;toy controller&amp;quot;, &amp;quot;toy doll action figure&amp;quot;, &amp;quot;toy game&amp;quot;, &amp;quot;toy robot&amp;quot;, &amp;quot;toy uncategorized&amp;quot;, &amp;quot;toy vehicle&amp;quot;, &amp;quot;wearable glasses&amp;quot;, &amp;quot;wearable helmet&amp;quot;, &amp;quot;wearable jacket&amp;quot;, &amp;quot;wearable pager&amp;quot;, &amp;quot;wearable uncategorized&amp;quot;, &amp;quot;wearable wrist watch&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>connect</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/connect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/connect/</guid>
+      <description>object:connect()   Type Function Return value Gatt
+  See also bluetooth.*
+  Overview Syntax object:connect( params )  params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+autoConnect optional Boolean. default is false.
+onCharacteristicChanged optional Listener.
+onCharacteristicRead optional Listener.
+onCharacteristicWrite optional Listener.
+onConnectionStateChange optional Listener.
+onDescriptorRead optional Listener.
+onDescriptorWrite optional Listener.</description>
+    </item>
+    
+    <item>
+      <title>createBond</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/createBond/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/createBond/</guid>
+      <description>object:createBond()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:createBond()  </description>
+    </item>
+    
+    <item>
+      <title>getBondState</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/getBondState/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/getBondState/</guid>
+      <description>object:getBondState()   Type Function Return value String
+  See also bluetooth.*
+  Overview Syntax object:getBondState()  </description>
+    </item>
+    
+    <item>
+      <title>majorClass</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/majorClass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/majorClass/</guid>
+      <description>object.majorClass   Type String
+  See also bluetooth.*
+  Overview &amp;quot;audio video&amp;quot;, &amp;quot;computer&amp;quot;, &amp;quot;health&amp;quot;, &amp;quot;imaging&amp;quot;, &amp;quot;misc&amp;quot;, &amp;quot;networking&amp;quot;, &amp;quot;peripheral&amp;quot;, &amp;quot;phone&amp;quot;, &amp;quot;toy&amp;quot;, &amp;quot;uncategorized&amp;quot;, &amp;quot;wearable&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/name/</guid>
+      <description>object.name   Type String
+  See also bluetooth.*
+  Overview Can be nil.</description>
+    </item>
+    
+    <item>
+      <title>setPairingConfirmation</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/setPairingConfirmation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/setPairingConfirmation/</guid>
+      <description>object:setPairingConfirmation()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:setPairingConfirmation( isConfirmed )  isConfirmed required Boolean.</description>
+    </item>
+    
+    <item>
+      <title>setPin</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/setPin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/setPin/</guid>
+      <description>object:setPin()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:setPin( pin )  pin required String.</description>
+    </item>
+    
+    <item>
+      <title>type</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/type/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/type/</guid>
+      <description>object.type   Type String
+  See also bluetooth.*
+  Overview &amp;quot;classic&amp;quot;, &amp;quot;low energy&amp;quot;, &amp;quot;dual&amp;quot;, &amp;quot;unknown&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>uuids</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/uuids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/uuids/</guid>
+      <description>object.uuids   Type Array
+  See also bluetooth.*
+  Overview Can be nil.</description>
+    </item>
+    
+  </channel>
+</rss>

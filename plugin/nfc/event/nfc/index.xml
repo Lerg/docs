@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nfc on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/</link>
+    <description>Recent content in nfc on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/errorCode/</guid>
+      <description>event.errorCode   Type Number
+  Event nfc
+  See also nfc nfc.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.
+On iOS closing the NFC reading dialog generates an error event, but it should not be treated as an error, just a notification of a closed dialog.
+iOS values  &#39;nfcreader_unsupported_feature&#39; &#39;nfcreader_security_violation&#39; &#39;nfcreader_transceive_tag_connection_lost&#39; &#39;nfcreader_transceive_retry_exceeded&#39; &#39;nfcreader_transceive_tag_response_error&#39; &#39;nfcreader_session_invalidation_user_canceled&#39; &#39;nfcreader_session_invalidation_session_timeout&#39; &#39;nfcreader_session_invalidation_terminated_unexpectedly&#39; &#39;nfcreader_session_invalidation_system_is_busy&#39; &#39;nfcreader_session_invalidation_first_ndef_tag_read&#39; &#39;nfctag_command_configuration_invalid_parameters&#39;  </description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/errorMessage/</guid>
+      <description>event.errorMessage   Type String
+  Event nfc
+  See also nfc nfc.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>id</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/id/</guid>
+      <description>event.id   Type String
+  Event nfc
+  See also nfc nfc.*
+  Overview Optional TAG id.</description>
+    </item>
+    
+    <item>
+      <title>intentType</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/intentType/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/intentType/</guid>
+      <description>event.intentType   Type String
+  Event nfc
+  See also nfc nfc.*
+  Overview Optional Android intent type.</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event nfc
+  See also nfc nfc.*
+  Overview Boolean of true in case of an error or when the iOS NFC reading dialog is closed.</description>
+    </item>
+    
+    <item>
+      <title>messages</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/messages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/messages/</guid>
+      <description>event.messages   Type Array
+  Event nfc
+  See also nfc nfc.*
+  Overview Present only when event.type is &#39;ndef&#39;. Contains NDEF message, which consists of NDEF records.
+Each element of the array is a table with the following properties.
+Properties id String. Record id value.
+tnf String. TNF value. Can be &#39;absolute uri&#39;, &#39;empty&#39;, &#39;external type&#39;, &#39;mime media&#39;, &#39;unchanged&#39;, &#39;unknown&#39; or &#39;well known&#39;.
+type String. NDEF type.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/name/</guid>
+      <description>event.name   Type String
+  Event nfc
+  See also nfc nfc.*
+  Overview The string &amp;quot;nfc&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>tag</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/tag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/tag/</guid>
+      <description>event.tag   Type Table
+  Event nfc
+  See also nfc nfc.*
+  Overview Present only when event.type is &#39;tag&#39;. Holds information about the discovered TAG.
+Properties id String. TAG id value.
+toString String. Simple string representation of the TAG.
+techs Array. List of technologies supported by the tag.</description>
+    </item>
+    
+    <item>
+      <title>type</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/type/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/type/</guid>
+      <description>event.type   Type String
+  Event nfc
+  See also nfc nfc.*
+  Overview The type of the NFC device. Either &#39;tag&#39; or &#39;ndef&#39;.</description>
+    </item>
+    
+  </channel>
+</rss>

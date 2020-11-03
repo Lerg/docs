@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AdvertiseData on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/</link>
+    <description>Recent content in AdvertiseData on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>includeDeviceName</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/includeDeviceName/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/includeDeviceName/</guid>
+      <description>object.includeDeviceName   Type Boolean
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>includeTxPowerLevel</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/includeTxPowerLevel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/includeTxPowerLevel/</guid>
+      <description>object.includeTxPowerLevel   Type Boolean
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>manufacturers</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/manufacturers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/manufacturers/</guid>
+      <description>object.manufacturers   Type Array
+  See also bluetooth.*
+  Overview Elements are tables.
+Element id required Number.
+data required String.</description>
+    </item>
+    
+    <item>
+      <title>services</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/services/</guid>
+      <description>object.services   Type Array
+  See also bluetooth.*
+  Overview Elements are tables.
+Element uuid required String.
+data optional String.</description>
+    </item>
+    
+  </channel>
+</rss>

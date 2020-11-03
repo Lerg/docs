@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>init on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/</link>
+    <description>Recent content in init on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>defaultEngine</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/defaultEngine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/defaultEngine/</guid>
+      <description>event.defaultEngine   Type String
+  Event init
+  Platform Android
+  See also init texttospeech.*
+  Overview The identifier of the default engine.</description>
+    </item>
+    
+    <item>
+      <title>engines</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/engines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/engines/</guid>
+      <description>event.engines   Type Table
+  Event init
+  Platform Android
+  See also init texttospeech.*
+  Overview The list of available engines. Keys are engine names, values are engine identifiers.
+Sample output { [&amp;#39;Google Text-to-speech Engine&amp;#39;] = &amp;#39;com.google.android.tts&amp;#39;, [&amp;#39;Pico TTS&amp;#39;] = &amp;#39;com.svox.pico&amp;#39; } </description>
+    </item>
+    
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/errorCode/</guid>
+      <description>event.errorCode   Type Number
+  Event init
+  See also init texttospeech.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/errorMessage/</guid>
+      <description>event.errorMessage   Type String
+  Event init
+  See also init texttospeech.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event init
+  See also init texttospeech.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>maxLength</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/maxLength/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/maxLength/</guid>
+      <description>event.maxLength   Type Integer
+  Event init
+  Platform Android 4.3+
+  See also init texttospeech.*
+  Overview The maximum length of the text that can be passed to the speech engine.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/name/</guid>
+      <description>event.name   Type String
+  Event init
+  See also init texttospeech.*
+  Overview The string &amp;quot;init&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

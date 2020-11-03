@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onProgress on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/</link>
+    <description>Recent content in onProgress on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>audio</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/audio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/audio/</guid>
+      <description>event.audio   Type String
+  Event onProgress
+  Platform Android
+  See also onProgress texttospeech.*
+  Overview A chunk of raw audio data that is going to be passed to the speech output.</description>
+    </item>
+    
+    <item>
+      <title>count</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/count/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/count/</guid>
+      <description>event.count   Type Integer
+  Event onProgress
+  Platform Not Android
+  See also onProgress texttospeech.*
+  Overview The number of characters of the substring from the passed text, that is currently being processed.</description>
+    </item>
+    
+    <item>
+      <title>id</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/id/</guid>
+      <description>event.id   Type String
+  Event onProgress
+  See also onProgress texttospeech.*
+  Overview The speech identifier. The value that has been supplied to texttospeech.speak().</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event onProgress
+  See also onProgress texttospeech.*
+  Overview Always false.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/name/</guid>
+      <description>event.name   Type String
+  Event onProgress
+  See also onProgress texttospeech.*
+  Overview The string &amp;quot;onProgress&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>start</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/start/</guid>
+      <description>event.start   Type Integer
+  Event onProgress
+  Platform Not Android
+  See also onProgress texttospeech.*
+  Overview The start position inside the passed text of the substring, that is currently being processed.</description>
+    </item>
+    
+  </channel>
+</rss>

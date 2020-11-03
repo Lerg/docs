@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>texttospeech on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/texttospeech/</link>
+    <description>Recent content in texttospeech on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/texttospeech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>continue</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/continue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/continue/</guid>
+      <description>texttospeech.continue()   Type Function
+  Return value none
+  See also texttospeech.*
+  Overview Resumes a previous paused speech.
+Syntax texttospeech.continue() </description>
+    </item>
+    
+    <item>
+      <title>enableDebug</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/enableDebug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/enableDebug/</guid>
+      <description>texttospeech.enableDebug()   Type Function
+  Return value none
+  See also texttospeech.*
+  Overview Enables additional output for debugging purposes.
+Syntax texttospeech.enableDebug() </description>
+    </item>
+    
+    <item>
+      <title>getLanguagesAndVoices</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/getLanguagesAndVoices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/getLanguagesAndVoices/</guid>
+      <description>texttospeech.getLanguagesAndVoices()   Type Function
+  Return value getLanguagesAndVoices
+  See also texttospeech.*
+  Overview Returns the getLanguagesAndVoices event with a list of available languages and voices.
+Syntax texttospeech.getLanguagesAndVoices() </description>
+    </item>
+    
+    <item>
+      <title>init</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/init/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/init/</guid>
+      <description>texttospeech.init()   Type Function
+  Return value none
+  See also texttospeech.*
+  Overview Must be callled before you try to synthesize any audio.
+Syntax 1 texttospeech.init([listener]) listener optional Listener. Listener which receives the init event.
+Syntax 2 texttospeech.init([params]) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+engine optional~(Android)~ String.</description>
+    </item>
+    
+    <item>
+      <title>isSpeaking</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/isSpeaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/isSpeaking/</guid>
+      <description>texttospeech.isSpeaking()   Type Function
+  Return value Boolean
+  See also texttospeech.*
+  Overview Returns true if currently speaking.
+Syntax texttospeech.isSpeaking() </description>
+    </item>
+    
+    <item>
+      <title>pause</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/pause/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/pause/</guid>
+      <description>texttospeech.pause()   Type Function
+  Return value none
+  See also texttospeech.*
+  Overview Pauses an ongoing speech. Can be resumed by texttospeech.continue()
+Syntax texttospeech.pause(waitForWordEnd) waitForWordEnd optional Boolean. If true, the speech will be interrupted at the word end. Otherwise the speech will be interrupted immediately.</description>
+    </item>
+    
+    <item>
+      <title>speak</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/speak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/speak/</guid>
+      <description>texttospeech.speak()   Type Function
+  Return value none
+  See also texttospeech.*
+  Overview Generates and plays the speech. This process is not instant and it will take some time before you actually hear the sound.
+Syntax texttospeech.speak(text, [params]) text required String. The text to be spoken by a speech engine.
+params optional Table. Contains parameters for the call — see the next section for details.</description>
+    </item>
+    
+    <item>
+      <title>stop</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/stop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/stop/</guid>
+      <description>texttospeech.stop()   Type Function
+  Return value none
+  See also texttospeech.*
+  Overview Stops an ongoing speech.
+Syntax texttospeech.stop(waitForWordEnd) waitForWordEnd optional Boolean. If true, the speech will be interrupted at the word end. Otherwise the speech will be interrupted immediately.</description>
+    </item>
+    
+  </channel>
+</rss>

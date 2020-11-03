@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AccessToken on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/</link>
+    <description>Recent content in AccessToken on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>accessToken</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/accessToken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/accessToken/</guid>
+      <description>object.accessToken   Type String
+  See also vk.*
+  Overview Access token value.</description>
+    </item>
+    
+    <item>
+      <title>email</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/email/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/email/</guid>
+      <description>object.email   Type String
+  See also vk.*
+  Overview User email if available. Can be nil.</description>
+    </item>
+    
+    <item>
+      <title>expiresIn</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/expiresIn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/expiresIn/</guid>
+      <description>object.expiresIn   Type String
+  See also vk.*
+  Overview UNIX timestamp of the time when the access token will expire.</description>
+    </item>
+    
+    <item>
+      <title>isHttpsRequired</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/isHttpsRequired/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/isHttpsRequired/</guid>
+      <description>object.isHttpsRequired   Type Boolean
+  See also vk.*
+  Overview true if user has enabled the secure connection setting in his or her VK account.</description>
+    </item>
+    
+    <item>
+      <title>secret</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/secret/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/secret/</guid>
+      <description>object.secret   Type String
+  See also vk.*
+  Overview Access token&amp;rsquo;s secret, whatever that means.</description>
+    </item>
+    
+    <item>
+      <title>timestamp</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/timestamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/timestamp/</guid>
+      <description>object.timestamp   Type String
+  Platform Android
+  See also vk.*
+  Overview UNIX timestamp of the time when the access token has been created.</description>
+    </item>
+    
+    <item>
+      <title>userId</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/userId/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/userId/</guid>
+      <description>object.userId   Type String
+  See also vk.*
+  Overview User VK id.</description>
+    </item>
+    
+  </channel>
+</rss>

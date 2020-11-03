@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vk on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/vk/</link>
+    <description>Recent content in vk on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/vk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>enableDebug</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/enableDebug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/enableDebug/</guid>
+      <description>vk.enableDebug()   Type Function
+  Return value none
+  See also vk.*
+  Overview Enables additional output for debugging purposes.
+Syntax vk.enableDebug() </description>
+    </item>
+    
+    <item>
+      <title>getAccessToken</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/getAccessToken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/getAccessToken/</guid>
+      <description>vk.getAccessToken()   Type Function
+  Return value AccessToken
+  See also vk.*
+  Overview Returns authorization token information for the currently logged in user.
+Syntax vk.getAccessToken() </description>
+    </item>
+    
+    <item>
+      <title>getUserId</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/getUserId/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/getUserId/</guid>
+      <description>vk.getUserId()   Type Function
+  Return value String
+  See also vk.*
+  Overview Returns VK id of the currently logged in user.
+Syntax vk.getUserId() </description>
+    </item>
+    
+    <item>
+      <title>init</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/init/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/init/</guid>
+      <description>vk.init()   Type Function
+  Return value none
+  See also vk.*
+  Overview Must be callled before you can use other functions of the plugin.
+Syntax vk.init(appId, [permissions]) appId required String. VK application ID that you get on https://vk.com/dev.
+permissions optional Array. Array of strings. Specify VK permissions that your application needs.
+Available permissions &#39;notify&#39;, &#39;friends&#39;, &#39;photos&#39;, &#39;audio&#39;, &#39;video&#39;, &#39;docs&#39;, &#39;notes&#39;, &#39;pages&#39;, &#39;status&#39;, &#39;wall&#39;, &#39;groups&#39;, &#39;messages&#39;, &#39;notifications&#39;, &#39;stats&#39;, &#39;ads&#39;, &#39;offline&#39;, &#39;direct&#39;, &#39;email&#39;.</description>
+    </item>
+    
+    <item>
+      <title>isLoggedIn</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/isLoggedIn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/isLoggedIn/</guid>
+      <description>vk.isLoggedIn()   Type Function
+  Return value Boolean
+  See also vk.*
+  Overview Returns true if the user has logged in.
+Syntax vk.isLoggedIn() </description>
+    </item>
+    
+    <item>
+      <title>login</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/login/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/login/</guid>
+      <description>vk.login()   Type Function
+  Return value none
+  See also vk.*
+  Overview User authentication. Uses official VK application if available.
+Syntax vk.login(params) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+userInitiated optional Boolean. If not specified or false the user won&amp;rsquo;t be promted with a login window. Use it to silently authorize the user at the start of your application if he or she has logged in before.</description>
+    </item>
+    
+    <item>
+      <title>logout</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/logout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/logout/</guid>
+      <description>vk.logout()   Type Function
+  Return value none
+  See also vk.*
+  Overview Deauthorizes the user.
+Syntax vk.logout() </description>
+    </item>
+    
+    <item>
+      <title>request</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/request/</guid>
+      <description>vk.request()   Type Function
+  Return value none
+  See also vk.*
+  Overview Queries VK server with the specified request and delivers it&amp;rsquo;s response.
+Syntax vk.request(method, params, [listener]) method required String. VK API method. See the list of methods.
+params required Table. Table of strings keys and various values to be submitted with the request. Each method has it&amp;rsquo;s own set of valid params.
+listener optional Listener.</description>
+    </item>
+    
+    <item>
+      <title>showShareDialog</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/showShareDialog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/showShareDialog/</guid>
+      <description>vk.showShareDialog()   Type Function
+  Return value none
+  See also vk.*
+  Overview Shows a share popup window, which user can use to edit and post a message on his or her VK wall.
+Syntax vk.showShareDialog(params) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+text optional String. Message text.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/vk/type/Image/</link>
+    <description>Recent content in Image on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/vk/type/Image/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>baseDir</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/type/Image/baseDir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/type/Image/baseDir/</guid>
+      <description>object.baseDir   Type	Constant
+  See also Image vk.*
+  Overview Directory constant corresponding to the base directory of the image file. Default value is system.ResourceDirectory unless specified otherwise where this object is used.</description>
+    </item>
+    
+    <item>
+      <title>filename</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/type/Image/filename/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/type/Image/filename/</guid>
+      <description>object.filename   Type String
+  See also Image vk.*
+  Overview String representing the file path for the image.</description>
+    </item>
+    
+  </channel>
+</rss>

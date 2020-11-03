@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writeTag on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/</link>
+    <description>Recent content in writeTag on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/errorCode/</guid>
+      <description>event.errorCode   Type Number
+  Event writeTag
+  See also writeTag nfc.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.
+Possible values:
+ &#39;not writable&#39; &#39;no space&#39; &#39;write fail&#39; &#39;bad format&#39; &#39;unknown&#39; &#39;no records&#39; &#39;no tag&#39;  </description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/errorMessage/</guid>
+      <description>event.errorMessage   Type String
+  Event writeTag
+  See also writeTag nfc.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event writeTag
+  See also writeTag nfc.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/name/</guid>
+      <description>event.name   Type String
+  Event writeTag
+  See also writeTag nfc.*
+  Overview The string &amp;quot;writeTag&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

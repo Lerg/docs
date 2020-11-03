@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fbapplink on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/</link>
+    <description>Recent content in fbapplink on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>argument</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/argument/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/argument/</guid>
+      <description>event.argument   Type String
+  Event fbapplink
+  See also fbapplink facebook.*
+  Overview The argument bundle string. Android only.</description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/errorMessage/</guid>
+      <description>event.errorMessage   Type String
+  Event fbapplink
+  See also fbapplink facebook.*
+  Overview String description of an error when event.isError is true, nil otherwise or if there is simply no app link found.</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event fbapplink
+  See also fbapplink facebook.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/name/</guid>
+      <description>event.name   Type String
+  Event fbapplink
+  See also fbapplink facebook.*
+  Overview The string &amp;quot;fbapplink&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>promotionCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/promotionCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/promotionCode/</guid>
+      <description>event.promotionCode   Type String
+  Event fbapplink
+  See also fbapplink facebook.*
+  Overview The promotion code string. Android only.</description>
+    </item>
+    
+    <item>
+      <title>ref</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/ref/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/ref/</guid>
+      <description>event.ref   Type String
+  Event fbapplink
+  See also fbapplink facebook.*
+  Overview The ref string. Android only.</description>
+    </item>
+    
+    <item>
+      <title>referer</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/referer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/referer/</guid>
+      <description>event.referer   Type String
+  Event fbapplink
+  See also fbapplink facebook.*
+  Overview The referer bundle string. Android only.</description>
+    </item>
+    
+    <item>
+      <title>url</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/url/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/url/</guid>
+      <description>event.url   Type String
+  Event fbapplink
+  See also fbapplink facebook.*
+  Overview The url string.</description>
+    </item>
+    
+  </channel>
+</rss>

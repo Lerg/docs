@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onNotificationSent on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/</link>
+    <description>Recent content in onNotificationSent on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>device</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/device/</guid>
+      <description>event.device   Type Device Event onNotificationSent
+  See also onNotificationSent bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/errorCode/</guid>
+      <description>event.errorCode   Type Number Event onNotificationSent
+  See also onNotificationSent bluetooth.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/errorMessage/</guid>
+      <description>event.errorMessage   Type String Event onNotificationSent
+  See also onNotificationSent bluetooth.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/isError/</guid>
+      <description>event.isError   Type Boolean Event onNotificationSent
+  See also onNotificationSent bluetooth.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/name/</guid>
+      <description>event.name   Type String Event onNotificationSent
+  See also onNotificationSent bluetooth.*
+  Overview The string &amp;quot;onNotificationSent&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

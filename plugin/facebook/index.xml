@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>facebook on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/facebook/</link>
+    <description>Recent content in facebook on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/facebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>getDeferredAppLinkData</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/getDeferredAppLinkData/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/getDeferredAppLinkData/</guid>
+      <description>facebook.getDeferredAppLinkData()   Type Function
+  Return value none
+  See also facebook.*
+  Overview Asynchronously fetches app link information that might have been stored for use after installation of the app.
+Syntax facebook.getDeferredAppLinkData(params) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+listener required Listener. The listener receices the fbapplink event containing the deferred url.</description>
+    </item>
+    
+    <item>
+      <title>init</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/init/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/init/</guid>
+      <description>facebook.init()   Type Function
+  Return value none
+  See also facebook.*
+  Overview Must be callled before you try to use the plugin.
+Syntax facebook.init([params]) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+autoLogAppEvents optional Boolean. Controls the auto logging of basic app events, such as activateApp and deactivateApp.</description>
+    </item>
+    
+    <item>
+      <title>logEvent</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/logEvent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/logEvent/</guid>
+      <description>facebook.logEvent()   Type Function
+  Return value none
+  See also facebook.*
+  Overview Log an app event.
+Syntax facebook.logEvent(params) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+name required String. Name of the event.
+value optional Number. Value to sum of the event.
+params optional Table. Additional parameters of the event, e.</description>
+    </item>
+    
+    <item>
+      <title>logPurchase</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/logPurchase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/logPurchase/</guid>
+      <description>facebook.logPurchase()   Type Function
+  Return value none
+  See also facebook.*
+  Overview Log an app purchase manually. Only use it if you have configured your app not to log purchases automatically.
+Syntax facebook.logPurchase(params) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+currency required String. Name of the currency, e.</description>
+    </item>
+    
+    <item>
+      <title>setLimitEventAndDataUsage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/facebook/setLimitEventAndDataUsage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/facebook/setLimitEventAndDataUsage/</guid>
+      <description>facebook.setLimitEventAndDataUsage()   Type Function
+  Return value none
+  See also facebook.*
+  Overview Sets whether data such as that generated through Facebook SDK AppEvents and sent to Facebook should be restricted from being used for other than analytics and conversions. Defaults is false. This value is stored on the device and persists across app launches.
+Syntax facebook.setLimitEventAndDataUsage(state) </description>
+    </item>
+    
+  </channel>
+</rss>

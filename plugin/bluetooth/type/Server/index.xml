@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Server on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/</link>
+    <description>Recent content in Server on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>addService</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/addService/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/addService/</guid>
+      <description>object:addService()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:addService( service )  service required Service.</description>
+    </item>
+    
+    <item>
+      <title>cancelConnection</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/cancelConnection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/cancelConnection/</guid>
+      <description>object:cancelConnection()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax object:cancelConnection( device )  device required Device.</description>
+    </item>
+    
+    <item>
+      <title>clearServices</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/clearServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/clearServices/</guid>
+      <description>object:clearServices()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax object:clearServices()  </description>
+    </item>
+    
+    <item>
+      <title>close</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/close/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/close/</guid>
+      <description>object:close()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax object:close()  </description>
+    </item>
+    
+    <item>
+      <title>connect</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/connect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/connect/</guid>
+      <description>object:connect()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax object:connect( device, [autoconnect] )  device required Device.
+autoconnect optional Boolean.</description>
+    </item>
+    
+    <item>
+      <title>getService</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/getService/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/getService/</guid>
+      <description>object:getService()   Type Function Return value Service
+  See also bluetooth.*
+  Overview Syntax object:getService( uuid )  uuid required String.</description>
+    </item>
+    
+    <item>
+      <title>getServices</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/getServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/getServices/</guid>
+      <description>object:getServices()   Type Function Return value Array
+  See also bluetooth.*
+  Overview Syntax object:getServices() </description>
+    </item>
+    
+    <item>
+      <title>notifyCharacteristicChanged</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/notifyCharacteristicChanged/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/notifyCharacteristicChanged/</guid>
+      <description>object:notifyCharacteristicChanged()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:notifyCharacteristicChanged( device, characteristic, [isConfirmationNeeded] )  device required Device.
+characteristic required Characteristic.
+isConfirmationNeeded optional Boolean.</description>
+    </item>
+    
+    <item>
+      <title>removeService</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/removeService/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/removeService/</guid>
+      <description>object:removeService()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:removeService( service )  service required Service.</description>
+    </item>
+    
+    <item>
+      <title>sendResponse</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/sendResponse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/sendResponse/</guid>
+      <description>object:sendResponse()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:sendResponse( device, requestId, status, value, [offset] )  device required Device.
+requestId required String.
+status required String.
+value required String.
+offset optional Number.</description>
+    </item>
+    
+  </channel>
+</rss>

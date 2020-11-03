@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onCharacteristicWrite on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/</link>
+    <description>Recent content in onCharacteristicWrite on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>characteristic</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/characteristic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/characteristic/</guid>
+      <description>event.characteristic   Type Characteristic Event onCharacteristicWrite
+  See also onCharacteristicWrite bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/errorCode/</guid>
+      <description>event.errorCode   Type Number Event onCharacteristicWrite
+  See also onCharacteristicWrite bluetooth.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/errorMessage/</guid>
+      <description>event.errorMessage   Type String Event onCharacteristicWrite
+  See also onCharacteristicWrite bluetooth.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>gatt</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/gatt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/gatt/</guid>
+      <description>event.gatt   Type Gatt Event onCharacteristicWrite
+  See also onCharacteristicWrite bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/isError/</guid>
+      <description>event.isError   Type Boolean Event onCharacteristicWrite
+  See also onCharacteristicWrite bluetooth.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/name/</guid>
+      <description>event.name   Type String Event onCharacteristicWrite
+  See also onCharacteristicWrite bluetooth.*
+  Overview The string &amp;quot;onCharacteristicWrite&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

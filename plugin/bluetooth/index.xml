@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bluetooth on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/</link>
+    <description>Recent content in bluetooth on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>connect</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/connect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/connect/</guid>
+      <description>bluetooth.connect()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax bluetooth.connect( params )  params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+device required Device.
+autoConnect optional Boolean. default is false.
+onCharacteristicChanged optional Listener.
+onCharacteristicRead optional Listener.
+onCharacteristicWrite optional Listener.
+onConnectionStateChange optional Listener.
+onDescriptorRead optional Listener.</description>
+    </item>
+    
+    <item>
+      <title>disconnect</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/disconnect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/disconnect/</guid>
+      <description>bluetooth.disconnect()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax bluetooth.disconnect( address )  address required String.</description>
+    </item>
+    
+    <item>
+      <title>init</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/init/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/init/</guid>
+      <description>bluetooth.init()   Type Function Return value none
+  See also bluetooth.*
+  Overview Initializes the plugin and calls the specified listener function to notify when the process is complete, or to provide error information.
+This call is required and must be executed before making other calls such as bluetooth.startScan().
+Syntax bluetooth.init( [listener] ) listener optional Listener. Listener function which receives an init event.</description>
+    </item>
+    
+    <item>
+      <title>isActive</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/isActive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/isActive/</guid>
+      <description>bluetooth.isActive   Type Boolean
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isMultipleAdvertisementSupported</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/isMultipleAdvertisementSupported/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/isMultipleAdvertisementSupported/</guid>
+      <description>bluetooth.isMultipleAdvertisementSupported   Type Boolean
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isOffloadedFilteringSupported</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/isOffloadedFilteringSupported/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/isOffloadedFilteringSupported/</guid>
+      <description>bluetooth.isOffloadedFilteringSupported   Type Boolean
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isOffloadedScanBatchingSupported</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/isOffloadedScanBatchingSupported/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/isOffloadedScanBatchingSupported/</guid>
+      <description>bluetooth.isOffloadedScanBatchingSupported   Type Boolean
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isScanning</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/isScanning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/isScanning/</guid>
+      <description>bluetooth.isScanning   Type Boolean
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>newServer</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/newServer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/newServer/</guid>
+      <description>bluetooth.newServer()   Type Function Return value Server
+  See also bluetooth.*
+  Overview Syntax bluetooth.newServer( params )  params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+onCharacteristicReadRequest optional Listener.
+onCharacteristicWriteRequest optional Listener.
+onConnectionStateChange optional Listener.
+onDescriptorReadRequest optional Listener.
+onDescriptorWriteRequest optional Listener.
+onExecuteWrite optional Listener.
+onMtuChanged optional Listener.
+onNotificationSent optional Listener.</description>
+    </item>
+    
+    <item>
+      <title>setName</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/setName/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/setName/</guid>
+      <description>bluetooth.setName()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax bluetooth.setName( name )  name required String.</description>
+    </item>
+    
+    <item>
+      <title>startAdvertising</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/startAdvertising/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/startAdvertising/</guid>
+      <description>bluetooth.startAdvertising()   Type Function Return value Userdata
+  See also bluetooth.*
+  Overview Returns a Userdata representing an advertising id.
+Syntax bluetooth.startAdvertising( params )  params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+mode optional String. &amp;quot;low latency&amp;quot;, &amp;quot;low power&amp;quot;, &amp;quot;balanced&amp;quot; (default).
+isConnectable optional Boolean. default is false.
+timeout optional Number.</description>
+    </item>
+    
+    <item>
+      <title>startScan</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/startScan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/startScan/</guid>
+      <description>bluetooth.startScan()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax bluetooth.startScan( [scanListener], [period] )  scanListener optional Listener.
+period optional Number. integer, default is 10000.</description>
+    </item>
+    
+    <item>
+      <title>stopAdvertising</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/stopAdvertising/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/stopAdvertising/</guid>
+      <description>bluetooth.stopAdvertising()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax bluetooth.stopAdvertising( advertisingId )  advertisingId required Userdata.</description>
+    </item>
+    
+    <item>
+      <title>stopScan</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/stopScan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/stopScan/</guid>
+      <description>bluetooth.stopScan()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax bluetooth.stopScan()  </description>
+    </item>
+    
+  </channel>
+</rss>

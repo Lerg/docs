@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/</link>
+    <description>Recent content in Service on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>addCharacteristic</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/addCharacteristic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/addCharacteristic/</guid>
+      <description>object:addCharacteristic()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:addCharacteristic( characteristic )  characteristic required Characteristic.</description>
+    </item>
+    
+    <item>
+      <title>addService</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/addService/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/addService/</guid>
+      <description>object:addService()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:addService( service )  service required Service.</description>
+    </item>
+    
+    <item>
+      <title>getCharacteristic</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/getCharacteristic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/getCharacteristic/</guid>
+      <description>object:getCharacteristic()   Type Function Return value Characteristic
+  See also bluetooth.*
+  Overview Syntax object:getCharacteristic( uuid )  uuid required String.</description>
+    </item>
+    
+    <item>
+      <title>getCharacteristics</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/getCharacteristics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/getCharacteristics/</guid>
+      <description>object:getCharacteristics()   Type Function Return value Array
+  See also bluetooth.*
+  Overview Syntax object:getCharacteristics() </description>
+    </item>
+    
+    <item>
+      <title>getIncludedServices</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/getIncludedServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/getIncludedServices/</guid>
+      <description>object:getIncludedServices()   Type Function Return value Array
+  See also bluetooth.*
+  Overview Syntax object:getIncludedServices() </description>
+    </item>
+    
+    <item>
+      <title>id</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/id/</guid>
+      <description>object.id   Type Number
+  See also bluetooth.*
+  Overview Integer.</description>
+    </item>
+    
+    <item>
+      <title>isPrimary</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/isPrimary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/isPrimary/</guid>
+      <description>object.isPrimary   Type Boolean
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>uuid</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/uuid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/uuid/</guid>
+      <description>object.uuid   Type String
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+  </channel>
+</rss>

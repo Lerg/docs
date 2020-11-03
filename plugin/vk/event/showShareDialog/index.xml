@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>showShareDialog on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/</link>
+    <description>Recent content in showShareDialog on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/errorCode/</guid>
+      <description>event.errorCode   Type Number
+  Event showShareDialog
+  See also showShareDialog vk.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/errorMessage/</guid>
+      <description>event.errorMessage   Type String
+  Event showShareDialog
+  See also showShareDialog vk.*
+  Overview String description of an error when event.isError is true, nil otherwise.
+If the user cancelled the action, the string will be &#39;cancelled&#39;.</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event showShareDialog
+  See also showShareDialog vk.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/name/</guid>
+      <description>event.name   Type String
+  Event showShareDialog
+  See also showShareDialog vk.*
+  Overview The string &amp;quot;showShareDialog&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

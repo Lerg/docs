@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onPause on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/</link>
+    <description>Recent content in onPause on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>id</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/id/</guid>
+      <description>event.id   Type String
+  Event onPause
+  See also onPause texttospeech.*
+  Overview The speech identifier. The value that has been supplied to texttospeech.speak().</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event onPause
+  See also onPause texttospeech.*
+  Overview Always false.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/name/</guid>
+      <description>event.name   Type String
+  Event onPause
+  See also onPause texttospeech.*
+  Overview The string &amp;quot;onPause&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

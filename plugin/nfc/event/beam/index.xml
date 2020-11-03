@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beam on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/</link>
+    <description>Recent content in beam on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/nfc/event/beam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event beam
+  See also beam nfc.*
+  Overview Always false.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/name/</guid>
+      <description>event.name   Type String
+  Event beam
+  See also beam nfc.*
+  Overview The string &amp;quot;beam&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>peerLlcpMajorVersion</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/peerLlcpMajorVersion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/peerLlcpMajorVersion/</guid>
+      <description>event.peerLlcpMajorVersion   Type Number
+  Event beam
+  See also beam nfc.*
+  Overview The major LLCP version number of the peer associated with the transfer. Requires Android 6.0+.</description>
+    </item>
+    
+    <item>
+      <title>peerLlcpMinorVersion</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/peerLlcpMinorVersion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/peerLlcpMinorVersion/</guid>
+      <description>event.peerLlcpMinorVersion   Type Number
+  Event beam
+  See also beam nfc.*
+  Overview The minor LLCP version number of the peer associated with the transfer. Requires Android 6.0+.</description>
+    </item>
+    
+    <item>
+      <title>phase</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/phase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/phase/</guid>
+      <description>event.phase   Type String
+  Event beam
+  See also beam nfc.*
+  Overview Indicates the phase of the NFC beaming process.
+ &#39;started&#39; - the beaming transfer has just started. &#39;completed&#39; - the beaming transfer has just completed.  </description>
+    </item>
+    
+  </channel>
+</rss>

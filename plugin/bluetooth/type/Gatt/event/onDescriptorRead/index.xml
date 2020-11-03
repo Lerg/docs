@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onDescriptorRead on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/</link>
+    <description>Recent content in onDescriptorRead on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>descriptor</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/descriptor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/descriptor/</guid>
+      <description>event.descriptor   Type Descriptor Event onDescriptorRead
+  See also onDescriptorRead bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/errorCode/</guid>
+      <description>event.errorCode   Type Number Event onDescriptorRead
+  See also onDescriptorRead bluetooth.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/errorMessage/</guid>
+      <description>event.errorMessage   Type String Event onDescriptorRead
+  See also onDescriptorRead bluetooth.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>gatt</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/gatt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/gatt/</guid>
+      <description>event.gatt   Type Gatt Event onDescriptorRead
+  See also onDescriptorRead bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/isError/</guid>
+      <description>event.isError   Type Boolean Event onDescriptorRead
+  See also onDescriptorRead bluetooth.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/name/</guid>
+      <description>event.name   Type String Event onDescriptorRead
+  See also onDescriptorRead bluetooth.*
+  Overview The string &amp;quot;onDescriptorRead&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

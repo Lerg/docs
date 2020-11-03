@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>advertising on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/</link>
+    <description>Recent content in advertising on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/errorCode/</guid>
+      <description>event.errorCode   Type Number Event advertising
+  See also advertising bluetooth.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/errorMessage/</guid>
+      <description>event.errorMessage   Type String Event advertising
+  See also advertising bluetooth.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/isError/</guid>
+      <description>event.isError   Type Boolean Event advertising
+  See also advertising bluetooth.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>mode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/mode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/mode/</guid>
+      <description>event.mode   Type String Event advertising
+  See also advertising bluetooth.*
+  Overview &amp;quot;low latency&amp;quot;, &amp;quot;low power&amp;quot; or &amp;quot;balanced&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/name/</guid>
+      <description>event.name   Type String Event advertising
+  See also advertising bluetooth.*
+  Overview The string &amp;quot;advertising&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>timeout</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/timeout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/timeout/</guid>
+      <description>event.timeout   Type Number Event advertising
+  See also advertising bluetooth.*
+  Overview Integer.</description>
+    </item>
+    
+    <item>
+      <title>txPowerLevel</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/txPowerLevel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/txPowerLevel/</guid>
+      <description>event.txPowerLevel   Type Number Event advertising
+  See also advertising bluetooth.*
+  Overview Integer.</description>
+    </item>
+    
+  </channel>
+</rss>

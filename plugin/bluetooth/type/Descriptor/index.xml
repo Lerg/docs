@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Descriptor on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/</link>
+    <description>Recent content in Descriptor on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>getCharacteristic</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/getCharacteristic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/getCharacteristic/</guid>
+      <description>object:getCharacteristic()   Type Function Return value Characteristic
+  See also bluetooth.*
+  Overview Syntax object:getCharacteristic()  </description>
+    </item>
+    
+    <item>
+      <title>getValue</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/getValue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/getValue/</guid>
+      <description>object:getValue()   Type Function Return value String
+  See also bluetooth.*
+  Overview Syntax object:getValue()  </description>
+    </item>
+    
+    <item>
+      <title>permissions</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/permissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/permissions/</guid>
+      <description>object.permissions   Type Array
+  See also bluetooth.*
+  Overview Can contain &amp;quot;read&amp;quot;, &amp;quot;read encrypted&amp;quot;, &amp;quot;read encrypted mitm&amp;quot;, &amp;quot;write&amp;quot;, &amp;quot;write encrypted&amp;quot;, &amp;quot;write encrypted mitm&amp;quot;, &amp;quot;write signed&amp;quot; and &amp;quot;write signed mitm&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>setValue</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/setValue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/setValue/</guid>
+      <description>object:setValue()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:setValue( value )  value required String.</description>
+    </item>
+    
+    <item>
+      <title>uuid</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/uuid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/uuid/</guid>
+      <description>object.uuid   Type String
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+  </channel>
+</rss>

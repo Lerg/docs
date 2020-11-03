@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onServiceAdded on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/</link>
+    <description>Recent content in onServiceAdded on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>device</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/device/</guid>
+      <description>event.device   Type Device Event onServiceAdded
+  See also onServiceAdded bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/errorCode/</guid>
+      <description>event.errorCode   Type Number Event onServiceAdded
+  See also onServiceAdded bluetooth.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/errorMessage/</guid>
+      <description>event.errorMessage   Type String Event onServiceAdded
+  See also onServiceAdded bluetooth.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/isError/</guid>
+      <description>event.isError   Type Boolean Event onServiceAdded
+  See also onServiceAdded bluetooth.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/name/</guid>
+      <description>event.name   Type String Event onServiceAdded
+  See also onServiceAdded bluetooth.*
+  Overview The string &amp;quot;onServiceAdded&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

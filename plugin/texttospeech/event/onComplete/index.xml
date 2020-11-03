@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onComplete on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/</link>
+    <description>Recent content in onComplete on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/errorCode/</guid>
+      <description>event.errorCode   Type Number
+  Event onComplete
+  See also onComplete texttospeech.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/errorMessage/</guid>
+      <description>event.errorMessage   Type String
+  Event onComplete
+  See also onComplete texttospeech.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>id</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/id/</guid>
+      <description>event.id   Type String
+  Event onComplete
+  See also onComplete texttospeech.*
+  Overview The speech identifier. The value that has been supplied to texttospeech.speak().</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event onComplete
+  See also onComplete texttospeech.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/name/</guid>
+      <description>event.name   Type String
+  Event onComplete
+  See also onComplete texttospeech.*
+  Overview The string &amp;quot;onComplete&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

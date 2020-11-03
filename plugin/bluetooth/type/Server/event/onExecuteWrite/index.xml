@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onExecuteWrite on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/</link>
+    <description>Recent content in onExecuteWrite on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>device</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/device/</guid>
+      <description>event.device   Type Device Event onExecuteWrite
+  See also onExecuteWrite bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/isError/</guid>
+      <description>event.isError   Type Boolean Event onExecuteWrite
+  See also onExecuteWrite bluetooth.*
+  Overview false.</description>
+    </item>
+    
+    <item>
+      <title>isExecution</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/isExecution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/isExecution/</guid>
+      <description>event.isExecution   Type Boolean Event onExecuteWrite
+  See also onExecuteWrite bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/name/</guid>
+      <description>event.name   Type String Event onExecuteWrite
+  See also onExecuteWrite bluetooth.*
+  Overview The string &amp;quot;onExecuteWrite&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>requestId</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/requestId/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/requestId/</guid>
+      <description>event.requestId   Type String Event onExecuteWrite
+  See also onExecuteWrite bluetooth.*
+  Overview </description>
+    </item>
+    
+  </channel>
+</rss>

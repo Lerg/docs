@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onCharacteristicWriteRequest on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/</link>
+    <description>Recent content in onCharacteristicWriteRequest on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>characteristic</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/characteristic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/characteristic/</guid>
+      <description>event.characteristic   Type Characteristic Event onCharacteristicReadRequest
+  See also onCharacteristicReadRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>device</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/device/</guid>
+      <description>event.device   Type Device Event onCharacteristicReadRequest
+  See also onCharacteristicReadRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isError/</guid>
+      <description>event.isError   Type Boolean Event onCharacteristicReadRequest
+  See also onCharacteristicReadRequest bluetooth.*
+  Overview false.</description>
+    </item>
+    
+    <item>
+      <title>isPreparedWrite</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isPreparedWrite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isPreparedWrite/</guid>
+      <description>event.isPreparedWrite   Type Boolean Event onCharacteristicReadRequest
+  See also onCharacteristicReadRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isResponseNeeded</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isResponseNeeded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isResponseNeeded/</guid>
+      <description>event.isResponseNeeded   Type Boolean Event onCharacteristicReadRequest
+  See also onCharacteristicReadRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/name/</guid>
+      <description>event.name   Type String Event onCharacteristicReadRequest
+  See also onCharacteristicReadRequest bluetooth.*
+  Overview The string &amp;quot;onCharacteristicReadRequest&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>offset</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/offset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/offset/</guid>
+      <description>event.offset   Type Number Event onCharacteristicReadRequest
+  See also onCharacteristicReadRequest bluetooth.*
+  Overview Integer.</description>
+    </item>
+    
+    <item>
+      <title>requestId</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/requestId/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/requestId/</guid>
+      <description>event.requestId   Type String Event onCharacteristicReadRequest
+  See also onCharacteristicReadRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>value</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/value/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/value/</guid>
+      <description>event.value   Type String Event onCharacteristicReadRequest
+  See also onCharacteristicReadRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+  </channel>
+</rss>

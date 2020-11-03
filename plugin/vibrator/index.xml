@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vibrator on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/vibrator/</link>
+    <description>Recent content in vibrator on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/vibrator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cancel</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vibrator/cancel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vibrator/cancel/</guid>
+      <description>vibrator.cancel()   Type Function
+  Return value none
+  See also vibrator.*
+  Overview Cancels the currently ongoing vibration.
+Syntax vibrator.cancel() </description>
+    </item>
+    
+    <item>
+      <title>hasVibrator</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vibrator/hasVibrator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vibrator/hasVibrator/</guid>
+      <description>vibrator.hasVibrator()   Type Function
+  Return value Boolean
+  See also vibrator.*
+  Overview Returns true if vibrator is present. On iOS it checks if the Taptic Engine API exists, that would be true on all iOS 10 devices, however currently only iPhone 7 and iPhone 7 Plus or later can actually vibrate.
+Syntax vibrator.hasVibrator() </description>
+    </item>
+    
+    <item>
+      <title>newHaptic</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vibrator/newHaptic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vibrator/newHaptic/</guid>
+      <description>vibrator.newHaptic()   Type Function
+  Return value Haptic
+  See also vibrator.*
+  Overview Returns a Haptic object, which provides the direct access to the Apple&amp;rsquo;s Taptic Engine. iOS only.
+For more details on that API please refer to the Apple&amp;rsquo;s Reference.
+Syntax vibrator.newHaptic([type], [intensity]) type optional String. Haptic feedback type, can be &#39;impact&#39; (default), &#39;selection&#39; or &#39;notification&#39;.
+intensity optional String. Intensity level of &#39;impact&#39; haptic, can be &#39;light&#39;, &#39;medium&#39; (default) or &#39;heavy&#39;.</description>
+    </item>
+    
+    <item>
+      <title>vibrate</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vibrator/vibrate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vibrator/vibrate/</guid>
+      <description>vibrator.vibrate()   Type Function
+  Return value none
+  See also vibrator.*
+  Overview Vibrates for a specified duration or with a specified pattern.
+Syntax for a simple vibration vibrator.vibrate(duration) duration required Integer. Duration of the vibration in milliseconds.
+Syntax for a pattern vibration vibrator.vibrate(pattern, [repeat]) pattern required Array. An array of integers that are the durations for which to turn on and off the vibrator in milliseconds.</description>
+    </item>
+    
+  </channel>
+</rss>

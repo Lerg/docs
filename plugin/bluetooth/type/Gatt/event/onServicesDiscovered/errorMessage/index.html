@@ -1,0 +1,2198 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Documentation Spiral Code Studio</title>
+    
+      <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.77.0" />
+<title>errorMessage :: Documentation Spiral Code Studio</title>
+<link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
+<link href="/css/nucleus.css" rel="stylesheet">
+<link href="/css/font-awesome.min.css" rel="stylesheet">
+<link href="/css/featherlight.min.css" rel="stylesheet">
+<link href="/css/hybrid.css" rel="stylesheet">
+<link href="/css/auto-complete.css" rel="stylesheet">
+<link href="/theme-flex/style.css" rel="stylesheet">
+
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<script src="/js/jquery-2.x.min.js"></script>
+<script type="text/javascript">
+      var baseurl = "http:\/\/docs.spiralcodestudio.com\/";
+</script>
+<meta name="description" content="">
+
+
+    
+  </head>
+  <body data-url="/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/errorMessage/">
+    
+      <header>
+  <div class="logo">
+    
+	
+  
+    <p>Spiral Code Studio Documentation</p>
+
+  
+
+  </div>
+  <div class="burger"><a href="javascript:void(0);" style="font-size:15px;">&#9776;</a></div>
+</header>
+<section class="main hbox space-between">
+  <nav>
+    <ul class="topics">
+    <li data-nav-id="/extension/" class="dd-item">
+      <a href="/extension/">
+        <span>Defold Extensions</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/extension/admob/" class="dd-item">
+      <a href="/extension/admob/">
+        <span></span>
+      </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/" class="dd-item parent">
+      <a href="/plugin/">
+        <span>Solar2D Plugins</span>
+            <i class="fa fa-angle-down fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/bluetooth/" class="dd-item parent">
+      <a href="/plugin/bluetooth/">
+        <span>bluetooth</span>
+            <i class="fa fa-angle-down fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/bluetooth/connect/" class="dd-item">
+        <a href="/plugin/bluetooth/connect/">
+          <span>connect</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/disconnect/" class="dd-item">
+        <a href="/plugin/bluetooth/disconnect/">
+          <span>disconnect</span>
+        </a>
+    </li>
+    <li data-nav-id="/plugin/bluetooth/event/" class="dd-item">
+      <a href="/plugin/bluetooth/event/">
+        <span>Events</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/bluetooth/event/advertising/" class="dd-item">
+      <a href="/plugin/bluetooth/event/advertising/">
+        <span>advertising</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/bluetooth/event/advertising/errorCode/" class="dd-item">
+        <a href="/plugin/bluetooth/event/advertising/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/advertising/errorMessage/" class="dd-item">
+        <a href="/plugin/bluetooth/event/advertising/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/advertising/isError/" class="dd-item">
+        <a href="/plugin/bluetooth/event/advertising/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/advertising/mode/" class="dd-item">
+        <a href="/plugin/bluetooth/event/advertising/mode/">
+          <span>mode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/advertising/name/" class="dd-item">
+        <a href="/plugin/bluetooth/event/advertising/name/">
+          <span>name</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/advertising/timeout/" class="dd-item">
+        <a href="/plugin/bluetooth/event/advertising/timeout/">
+          <span>timeout</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/advertising/txPowerLevel/" class="dd-item">
+        <a href="/plugin/bluetooth/event/advertising/txPowerLevel/">
+          <span>txPowerLevel</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/bluetooth/event/init/" class="dd-item">
+      <a href="/plugin/bluetooth/event/init/">
+        <span>init</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/bluetooth/event/init/errorCode/" class="dd-item">
+        <a href="/plugin/bluetooth/event/init/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/init/errorMessage/" class="dd-item">
+        <a href="/plugin/bluetooth/event/init/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/init/isError/" class="dd-item">
+        <a href="/plugin/bluetooth/event/init/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/init/name/" class="dd-item">
+        <a href="/plugin/bluetooth/event/init/name/">
+          <span>name</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/bluetooth/event/scan/" class="dd-item">
+      <a href="/plugin/bluetooth/event/scan/">
+        <span>scan</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/bluetooth/event/scan/device/" class="dd-item">
+        <a href="/plugin/bluetooth/event/scan/device/">
+          <span>device</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/scan/isError/" class="dd-item">
+        <a href="/plugin/bluetooth/event/scan/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/scan/name/" class="dd-item">
+        <a href="/plugin/bluetooth/event/scan/name/">
+          <span>name</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/scan/record/" class="dd-item">
+        <a href="/plugin/bluetooth/event/scan/record/">
+          <span>record</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/event/scan/rssi/" class="dd-item">
+        <a href="/plugin/bluetooth/event/scan/rssi/">
+          <span>rssi</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/init/" class="dd-item">
+        <a href="/plugin/bluetooth/init/">
+          <span>init</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/isActive/" class="dd-item">
+        <a href="/plugin/bluetooth/isActive/">
+          <span>isActive</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/isMultipleAdvertisementSupported/" class="dd-item">
+        <a href="/plugin/bluetooth/isMultipleAdvertisementSupported/">
+          <span>isMultipleAdvertisementSupported</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/isOffloadedFilteringSupported/" class="dd-item">
+        <a href="/plugin/bluetooth/isOffloadedFilteringSupported/">
+          <span>isOffloadedFilteringSupported</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/isOffloadedScanBatchingSupported/" class="dd-item">
+        <a href="/plugin/bluetooth/isOffloadedScanBatchingSupported/">
+          <span>isOffloadedScanBatchingSupported</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/isScanning/" class="dd-item">
+        <a href="/plugin/bluetooth/isScanning/">
+          <span>isScanning</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/newServer/" class="dd-item">
+        <a href="/plugin/bluetooth/newServer/">
+          <span>newServer</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/setName/" class="dd-item">
+        <a href="/plugin/bluetooth/setName/">
+          <span>setName</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/startAdvertising/" class="dd-item">
+        <a href="/plugin/bluetooth/startAdvertising/">
+          <span>startAdvertising</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/startScan/" class="dd-item">
+        <a href="/plugin/bluetooth/startScan/">
+          <span>startScan</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/stopAdvertising/" class="dd-item">
+        <a href="/plugin/bluetooth/stopAdvertising/">
+          <span>stopAdvertising</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/stopScan/" class="dd-item">
+        <a href="/plugin/bluetooth/stopScan/">
+          <span>stopScan</span>
+        </a>
+    </li>
+    <li data-nav-id="/plugin/bluetooth/type/" class="dd-item parent">
+      <a href="/plugin/bluetooth/type/">
+        <span>Types</span>
+            <i class="fa fa-angle-down fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/bluetooth/type/AdvertiseData/" class="dd-item">
+      <a href="/plugin/bluetooth/type/AdvertiseData/">
+        <span>AdvertiseData</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/bluetooth/type/AdvertiseData/includeDeviceName/" class="dd-item">
+        <a href="/plugin/bluetooth/type/AdvertiseData/includeDeviceName/">
+          <span>includeDeviceName</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/AdvertiseData/includeTxPowerLevel/" class="dd-item">
+        <a href="/plugin/bluetooth/type/AdvertiseData/includeTxPowerLevel/">
+          <span>includeTxPowerLevel</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/AdvertiseData/manufacturers/" class="dd-item">
+        <a href="/plugin/bluetooth/type/AdvertiseData/manufacturers/">
+          <span>manufacturers</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/AdvertiseData/services/" class="dd-item">
+        <a href="/plugin/bluetooth/type/AdvertiseData/services/">
+          <span>services</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/bluetooth/type/Characteristic/" class="dd-item">
+      <a href="/plugin/bluetooth/type/Characteristic/">
+        <span>Characteristic</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/addDescriptor/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/addDescriptor/">
+          <span>addDescriptor</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/getDescriptor/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/getDescriptor/">
+          <span>getDescriptor</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/getDescriptors/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/getDescriptors/">
+          <span>getDescriptors</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/getFloatValue/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/getFloatValue/">
+          <span>getFloatValue</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/getIntValue/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/getIntValue/">
+          <span>getIntValue</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/getService/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/getService/">
+          <span>getService</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/getStringValue/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/getStringValue/">
+          <span>getStringValue</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/getValue/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/getValue/">
+          <span>getValue</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/getWriteType/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/getWriteType/">
+          <span>getWriteType</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/id/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/id/">
+          <span>id</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/permissions/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/permissions/">
+          <span>permissions</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/properties/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/properties/">
+          <span>properties</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/setFloatValue/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/setFloatValue/">
+          <span>setFloatValue</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/setIntValue/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/setIntValue/">
+          <span>setIntValue</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/setStringValue/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/setStringValue/">
+          <span>setStringValue</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/setValue/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/setValue/">
+          <span>setValue</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/setWriteType/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/setWriteType/">
+          <span>setWriteType</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Characteristic/uuid/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Characteristic/uuid/">
+          <span>uuid</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/bluetooth/type/Descriptor/" class="dd-item">
+      <a href="/plugin/bluetooth/type/Descriptor/">
+        <span>Descriptor</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/bluetooth/type/Descriptor/getCharacteristic/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Descriptor/getCharacteristic/">
+          <span>getCharacteristic</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Descriptor/getValue/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Descriptor/getValue/">
+          <span>getValue</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Descriptor/permissions/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Descriptor/permissions/">
+          <span>permissions</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Descriptor/setValue/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Descriptor/setValue/">
+          <span>setValue</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Descriptor/uuid/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Descriptor/uuid/">
+          <span>uuid</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/bluetooth/type/Device/" class="dd-item">
+      <a href="/plugin/bluetooth/type/Device/">
+        <span>Device</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/bluetooth/type/Device/address/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Device/address/">
+          <span>address</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Device/class/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Device/class/">
+          <span>class</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Device/connect/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Device/connect/">
+          <span>connect</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Device/createBond/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Device/createBond/">
+          <span>createBond</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Device/getBondState/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Device/getBondState/">
+          <span>getBondState</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Device/majorClass/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Device/majorClass/">
+          <span>majorClass</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Device/name/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Device/name/">
+          <span>name</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Device/setPairingConfirmation/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Device/setPairingConfirmation/">
+          <span>setPairingConfirmation</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Device/setPin/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Device/setPin/">
+          <span>setPin</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Device/type/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Device/type/">
+          <span>type</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Device/uuids/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Device/uuids/">
+          <span>uuids</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/bluetooth/type/Gatt/" class="dd-item parent">
+      <a href="/plugin/bluetooth/type/Gatt/">
+        <span>Gatt</span>
+            <i class="fa fa-angle-down fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/abortReliableWrite/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/abortReliableWrite/">
+          <span>abortReliableWrite</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/beginReliableWrite/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/beginReliableWrite/">
+          <span>beginReliableWrite</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/connect/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/connect/">
+          <span>connect</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/disconnect/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/disconnect/">
+          <span>disconnect</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/discoverServices/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/discoverServices/">
+          <span>discoverServices</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/executeReliableWrite/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/executeReliableWrite/">
+          <span>executeReliableWrite</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/getService/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/getService/">
+          <span>getService</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/getServices/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/getServices/">
+          <span>getServices</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/readCharacteristic/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/readCharacteristic/">
+          <span>readCharacteristic</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/readDescriptor/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/readDescriptor/">
+          <span>readDescriptor</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/readRemoteRssi/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/readRemoteRssi/">
+          <span>readRemoteRssi</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/requestConnectionPriority/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/requestConnectionPriority/">
+          <span>requestConnectionPriority</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/requestMtu/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/requestMtu/">
+          <span>requestMtu</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/setCharacteristicNotification/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/setCharacteristicNotification/">
+          <span>setCharacteristicNotification</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/writeCharacteristic/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/writeCharacteristic/">
+          <span>writeCharacteristic</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Gatt/writeDescriptor/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Gatt/writeDescriptor/">
+          <span>writeDescriptor</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/bluetooth/type/Server/" class="dd-item">
+      <a href="/plugin/bluetooth/type/Server/">
+        <span>Server</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/bluetooth/type/Server/addService/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Server/addService/">
+          <span>addService</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Server/cancelConnection/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Server/cancelConnection/">
+          <span>cancelConnection</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Server/clearServices/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Server/clearServices/">
+          <span>clearServices</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Server/close/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Server/close/">
+          <span>close</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Server/connect/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Server/connect/">
+          <span>connect</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Server/getService/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Server/getService/">
+          <span>getService</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Server/getServices/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Server/getServices/">
+          <span>getServices</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Server/notifyCharacteristicChanged/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Server/notifyCharacteristicChanged/">
+          <span>notifyCharacteristicChanged</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Server/removeService/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Server/removeService/">
+          <span>removeService</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Server/sendResponse/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Server/sendResponse/">
+          <span>sendResponse</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/bluetooth/type/Service/" class="dd-item">
+      <a href="/plugin/bluetooth/type/Service/">
+        <span>Service</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/bluetooth/type/Service/addCharacteristic/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Service/addCharacteristic/">
+          <span>addCharacteristic</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Service/addService/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Service/addService/">
+          <span>addService</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Service/getCharacteristic/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Service/getCharacteristic/">
+          <span>getCharacteristic</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Service/getCharacteristics/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Service/getCharacteristics/">
+          <span>getCharacteristics</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Service/getIncludedServices/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Service/getIncludedServices/">
+          <span>getIncludedServices</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Service/id/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Service/id/">
+          <span>id</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Service/isPrimary/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Service/isPrimary/">
+          <span>isPrimary</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/bluetooth/type/Service/uuid/" class="dd-item">
+        <a href="/plugin/bluetooth/type/Service/uuid/">
+          <span>uuid</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/chrometabs/" class="dd-item">
+      <a href="/plugin/chrometabs/">
+        <span>chrometabs</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/chrometabs/event/" class="dd-item">
+      <a href="/plugin/chrometabs/event/">
+        <span>Events</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/chrometabs/event/chrometabs/" class="dd-item">
+      <a href="/plugin/chrometabs/event/chrometabs/">
+        <span>chrometabs</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/chrometabs/event/chrometabs/errorMessage/" class="dd-item">
+        <a href="/plugin/chrometabs/event/chrometabs/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/chrometabs/event/chrometabs/isError/" class="dd-item">
+        <a href="/plugin/chrometabs/event/chrometabs/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/chrometabs/event/chrometabs/name/" class="dd-item">
+        <a href="/plugin/chrometabs/event/chrometabs/name/">
+          <span>name</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/chrometabs/event/chrometabs/phase/" class="dd-item">
+        <a href="/plugin/chrometabs/event/chrometabs/phase/">
+          <span>phase</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+      <li data-nav-id="/plugin/chrometabs/init/" class="dd-item">
+        <a href="/plugin/chrometabs/init/">
+          <span>init</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/chrometabs/mayLaunchUrl/" class="dd-item">
+        <a href="/plugin/chrometabs/mayLaunchUrl/">
+          <span>mayLaunchUrl</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/chrometabs/newSession/" class="dd-item">
+        <a href="/plugin/chrometabs/newSession/">
+          <span>newSession</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/chrometabs/show/" class="dd-item">
+        <a href="/plugin/chrometabs/show/">
+          <span>show</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/chrometabs/warmup/" class="dd-item">
+        <a href="/plugin/chrometabs/warmup/">
+          <span>warmup</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/facebook/" class="dd-item">
+      <a href="/plugin/facebook/">
+        <span>facebook</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/facebook/event/" class="dd-item">
+      <a href="/plugin/facebook/event/">
+        <span>Events</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/facebook/event/fbapplink/" class="dd-item">
+      <a href="/plugin/facebook/event/fbapplink/">
+        <span>fbapplink</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/facebook/event/fbapplink/argument/" class="dd-item">
+        <a href="/plugin/facebook/event/fbapplink/argument/">
+          <span>argument</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/facebook/event/fbapplink/errorMessage/" class="dd-item">
+        <a href="/plugin/facebook/event/fbapplink/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/facebook/event/fbapplink/isError/" class="dd-item">
+        <a href="/plugin/facebook/event/fbapplink/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/facebook/event/fbapplink/name/" class="dd-item">
+        <a href="/plugin/facebook/event/fbapplink/name/">
+          <span>name</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/facebook/event/fbapplink/promotionCode/" class="dd-item">
+        <a href="/plugin/facebook/event/fbapplink/promotionCode/">
+          <span>promotionCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/facebook/event/fbapplink/ref/" class="dd-item">
+        <a href="/plugin/facebook/event/fbapplink/ref/">
+          <span>ref</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/facebook/event/fbapplink/referer/" class="dd-item">
+        <a href="/plugin/facebook/event/fbapplink/referer/">
+          <span>referer</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/facebook/event/fbapplink/url/" class="dd-item">
+        <a href="/plugin/facebook/event/fbapplink/url/">
+          <span>url</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+      <li data-nav-id="/plugin/facebook/getDeferredAppLinkData/" class="dd-item">
+        <a href="/plugin/facebook/getDeferredAppLinkData/">
+          <span>getDeferredAppLinkData</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/facebook/init/" class="dd-item">
+        <a href="/plugin/facebook/init/">
+          <span>init</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/facebook/logEvent/" class="dd-item">
+        <a href="/plugin/facebook/logEvent/">
+          <span>logEvent</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/facebook/logPurchase/" class="dd-item">
+        <a href="/plugin/facebook/logPurchase/">
+          <span>logPurchase</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/facebook/setLimitEventAndDataUsage/" class="dd-item">
+        <a href="/plugin/facebook/setLimitEventAndDataUsage/">
+          <span>setLimitEventAndDataUsage</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/flashlight/" class="dd-item">
+      <a href="/plugin/flashlight/">
+        <span>flashlight</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/flashlight/off/" class="dd-item">
+        <a href="/plugin/flashlight/off/">
+          <span>false</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/flashlight/on/" class="dd-item">
+        <a href="/plugin/flashlight/on/">
+          <span>true</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/mousecursor/" class="dd-item">
+      <a href="/plugin/mousecursor/">
+        <span>mousecursor</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/mousecursor/enableDebug/" class="dd-item">
+        <a href="/plugin/mousecursor/enableDebug/">
+          <span>enableDebug</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/mousecursor/hide/" class="dd-item">
+        <a href="/plugin/mousecursor/hide/">
+          <span>hide</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/mousecursor/newCursor/" class="dd-item">
+        <a href="/plugin/mousecursor/newCursor/">
+          <span>newCursor</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/mousecursor/show/" class="dd-item">
+        <a href="/plugin/mousecursor/show/">
+          <span>show</span>
+        </a>
+    </li>
+    <li data-nav-id="/plugin/mousecursor/type/" class="dd-item">
+      <a href="/plugin/mousecursor/type/">
+        <span>Types</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/mousecursor/type/Cursor/" class="dd-item">
+      <a href="/plugin/mousecursor/type/Cursor/">
+        <span>Cursor</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/mousecursor/type/Cursor/hide/" class="dd-item">
+        <a href="/plugin/mousecursor/type/Cursor/hide/">
+          <span>hide</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/mousecursor/type/Cursor/show/" class="dd-item">
+        <a href="/plugin/mousecursor/type/Cursor/show/">
+          <span>show</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/nfc/" class="dd-item">
+      <a href="/plugin/nfc/">
+        <span>nfc</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/nfc/beam/" class="dd-item">
+        <a href="/plugin/nfc/beam/">
+          <span>beam</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/cancelBeam/" class="dd-item">
+        <a href="/plugin/nfc/cancelBeam/">
+          <span>cancelBeam</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/close/" class="dd-item">
+        <a href="/plugin/nfc/close/">
+          <span>close</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/enableDebug/" class="dd-item">
+        <a href="/plugin/nfc/enableDebug/">
+          <span>enableDebug</span>
+        </a>
+    </li>
+    <li data-nav-id="/plugin/nfc/event/" class="dd-item">
+      <a href="/plugin/nfc/event/">
+        <span>Events</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/nfc/event/beam/" class="dd-item">
+      <a href="/plugin/nfc/event/beam/">
+        <span>beam</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/nfc/event/beam/isError/" class="dd-item">
+        <a href="/plugin/nfc/event/beam/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/beam/name/" class="dd-item">
+        <a href="/plugin/nfc/event/beam/name/">
+          <span>name</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/beam/peerLlcpMajorVersion/" class="dd-item">
+        <a href="/plugin/nfc/event/beam/peerLlcpMajorVersion/">
+          <span>peerLlcpMajorVersion</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/beam/peerLlcpMinorVersion/" class="dd-item">
+        <a href="/plugin/nfc/event/beam/peerLlcpMinorVersion/">
+          <span>peerLlcpMinorVersion</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/beam/phase/" class="dd-item">
+        <a href="/plugin/nfc/event/beam/phase/">
+          <span>phase</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/nfc/event/init/" class="dd-item">
+      <a href="/plugin/nfc/event/init/">
+        <span>init</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/nfc/event/init/errorCode/" class="dd-item">
+        <a href="/plugin/nfc/event/init/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/init/errorMessage/" class="dd-item">
+        <a href="/plugin/nfc/event/init/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/init/isError/" class="dd-item">
+        <a href="/plugin/nfc/event/init/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/init/name/" class="dd-item">
+        <a href="/plugin/nfc/event/init/name/">
+          <span>name</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/nfc/event/nfc/" class="dd-item">
+      <a href="/plugin/nfc/event/nfc/">
+        <span>nfc</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/nfc/event/nfc/errorCode/" class="dd-item">
+        <a href="/plugin/nfc/event/nfc/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/nfc/errorMessage/" class="dd-item">
+        <a href="/plugin/nfc/event/nfc/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/nfc/id/" class="dd-item">
+        <a href="/plugin/nfc/event/nfc/id/">
+          <span>id</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/nfc/intentType/" class="dd-item">
+        <a href="/plugin/nfc/event/nfc/intentType/">
+          <span>intentType</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/nfc/isError/" class="dd-item">
+        <a href="/plugin/nfc/event/nfc/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/nfc/messages/" class="dd-item">
+        <a href="/plugin/nfc/event/nfc/messages/">
+          <span>messages</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/nfc/name/" class="dd-item">
+        <a href="/plugin/nfc/event/nfc/name/">
+          <span>name</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/nfc/tag/" class="dd-item">
+        <a href="/plugin/nfc/event/nfc/tag/">
+          <span>tag</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/nfc/type/" class="dd-item">
+        <a href="/plugin/nfc/event/nfc/type/">
+          <span>type</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/nfc/event/writeTag/" class="dd-item">
+      <a href="/plugin/nfc/event/writeTag/">
+        <span>writeTag</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/nfc/event/writeTag/errorCode/" class="dd-item">
+        <a href="/plugin/nfc/event/writeTag/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/writeTag/errorMessage/" class="dd-item">
+        <a href="/plugin/nfc/event/writeTag/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/writeTag/isError/" class="dd-item">
+        <a href="/plugin/nfc/event/writeTag/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/event/writeTag/name/" class="dd-item">
+        <a href="/plugin/nfc/event/writeTag/name/">
+          <span>name</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+      <li data-nav-id="/plugin/nfc/init/" class="dd-item">
+        <a href="/plugin/nfc/init/">
+          <span>init</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/releaseTag/" class="dd-item">
+        <a href="/plugin/nfc/releaseTag/">
+          <span>releaseTag</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/removeListener/" class="dd-item">
+        <a href="/plugin/nfc/removeListener/">
+          <span>removeListener</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/setListener/" class="dd-item">
+        <a href="/plugin/nfc/setListener/">
+          <span>setListener</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/nfc/show/" class="dd-item">
+        <a href="/plugin/nfc/show/">
+          <span>show</span>
+        </a>
+    </li>
+    <li data-nav-id="/plugin/nfc/type/" class="dd-item">
+      <a href="/plugin/nfc/type/">
+        <span>Types</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/nfc/type/NdefMessage/" class="dd-item">
+      <a href="/plugin/nfc/type/NdefMessage/">
+        <span>NdefMessage</span>
+      </a>
+    </li>
+        </ul>
+    </li>
+      <li data-nav-id="/plugin/nfc/writeTag/" class="dd-item">
+        <a href="/plugin/nfc/writeTag/">
+          <span>writeTag</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/qrscanner/" class="dd-item">
+      <a href="/plugin/qrscanner/">
+        <span>qrscanner</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/qrscanner/enableDebug/" class="dd-item">
+        <a href="/plugin/qrscanner/enableDebug/">
+          <span>enableDebug</span>
+        </a>
+    </li>
+    <li data-nav-id="/plugin/qrscanner/event/" class="dd-item">
+      <a href="/plugin/qrscanner/event/">
+        <span>Events</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/qrscanner/event/show/" class="dd-item">
+      <a href="/plugin/qrscanner/event/show/">
+        <span>show</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/qrscanner/event/show/errorCode/" class="dd-item">
+        <a href="/plugin/qrscanner/event/show/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/qrscanner/event/show/errorMessage/" class="dd-item">
+        <a href="/plugin/qrscanner/event/show/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/qrscanner/event/show/isError/" class="dd-item">
+        <a href="/plugin/qrscanner/event/show/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/qrscanner/event/show/message/" class="dd-item">
+        <a href="/plugin/qrscanner/event/show/message/">
+          <span>message</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/qrscanner/event/show/name/" class="dd-item">
+        <a href="/plugin/qrscanner/event/show/name/">
+          <span>name</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/qrscanner/event/show/symbol/" class="dd-item">
+        <a href="/plugin/qrscanner/event/show/symbol/">
+          <span>symbol</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+      <li data-nav-id="/plugin/qrscanner/show/" class="dd-item">
+        <a href="/plugin/qrscanner/show/">
+          <span>show</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/microphone/" class="dd-item">
+      <a href="/plugin/microphone/">
+        <span>Solar2D Plugins</span>
+      </a>
+    </li>
+    <li data-nav-id="/plugin/sox/" class="dd-item">
+      <a href="/plugin/sox/">
+        <span>Solar2D Plugins</span>
+      </a>
+    </li>
+    <li data-nav-id="/plugin/texttospeech/" class="dd-item">
+      <a href="/plugin/texttospeech/">
+        <span>texttospeech</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/texttospeech/continue/" class="dd-item">
+        <a href="/plugin/texttospeech/continue/">
+          <span>continue</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/enableDebug/" class="dd-item">
+        <a href="/plugin/texttospeech/enableDebug/">
+          <span>enableDebug</span>
+        </a>
+    </li>
+    <li data-nav-id="/plugin/texttospeech/event/" class="dd-item">
+      <a href="/plugin/texttospeech/event/">
+        <span>Events</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/texttospeech/event/getLanguagesAndVoices/" class="dd-item">
+      <a href="/plugin/texttospeech/event/getLanguagesAndVoices/">
+        <span>getLanguagesAndVoices</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/texttospeech/event/getLanguagesAndVoices/errorCode/" class="dd-item">
+        <a href="/plugin/texttospeech/event/getLanguagesAndVoices/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/getLanguagesAndVoices/errorMessage/" class="dd-item">
+        <a href="/plugin/texttospeech/event/getLanguagesAndVoices/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/getLanguagesAndVoices/isError/" class="dd-item">
+        <a href="/plugin/texttospeech/event/getLanguagesAndVoices/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/getLanguagesAndVoices/languages/" class="dd-item">
+        <a href="/plugin/texttospeech/event/getLanguagesAndVoices/languages/">
+          <span>languages</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/getLanguagesAndVoices/name/" class="dd-item">
+        <a href="/plugin/texttospeech/event/getLanguagesAndVoices/name/">
+          <span>name</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/getLanguagesAndVoices/voices/" class="dd-item">
+        <a href="/plugin/texttospeech/event/getLanguagesAndVoices/voices/">
+          <span>voices</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/texttospeech/event/init/" class="dd-item">
+      <a href="/plugin/texttospeech/event/init/">
+        <span>init</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/texttospeech/event/init/defaultEngine/" class="dd-item">
+        <a href="/plugin/texttospeech/event/init/defaultEngine/">
+          <span>defaultEngine</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/init/engines/" class="dd-item">
+        <a href="/plugin/texttospeech/event/init/engines/">
+          <span>engines</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/init/errorCode/" class="dd-item">
+        <a href="/plugin/texttospeech/event/init/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/init/errorMessage/" class="dd-item">
+        <a href="/plugin/texttospeech/event/init/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/init/isError/" class="dd-item">
+        <a href="/plugin/texttospeech/event/init/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/init/maxLength/" class="dd-item">
+        <a href="/plugin/texttospeech/event/init/maxLength/">
+          <span>maxLength</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/init/name/" class="dd-item">
+        <a href="/plugin/texttospeech/event/init/name/">
+          <span>name</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/texttospeech/event/onComplete/" class="dd-item">
+      <a href="/plugin/texttospeech/event/onComplete/">
+        <span>onComplete</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/texttospeech/event/onComplete/errorCode/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onComplete/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onComplete/errorMessage/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onComplete/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onComplete/id/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onComplete/id/">
+          <span>id</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onComplete/isError/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onComplete/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onComplete/name/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onComplete/name/">
+          <span>name</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/texttospeech/event/onContinue/" class="dd-item">
+      <a href="/plugin/texttospeech/event/onContinue/">
+        <span>onContinue</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/texttospeech/event/onContinue/id/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onContinue/id/">
+          <span>id</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onContinue/isError/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onContinue/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onContinue/name/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onContinue/name/">
+          <span>name</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/texttospeech/event/onPause/" class="dd-item">
+      <a href="/plugin/texttospeech/event/onPause/">
+        <span>onPause</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/texttospeech/event/onPause/id/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onPause/id/">
+          <span>id</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onPause/isError/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onPause/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onPause/name/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onPause/name/">
+          <span>name</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/texttospeech/event/onProgress/" class="dd-item">
+      <a href="/plugin/texttospeech/event/onProgress/">
+        <span>onProgress</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/texttospeech/event/onProgress/audio/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onProgress/audio/">
+          <span>audio</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onProgress/count/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onProgress/count/">
+          <span>count</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onProgress/id/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onProgress/id/">
+          <span>id</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onProgress/isError/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onProgress/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onProgress/name/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onProgress/name/">
+          <span>name</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onProgress/start/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onProgress/start/">
+          <span>start</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/texttospeech/event/onStart/" class="dd-item">
+      <a href="/plugin/texttospeech/event/onStart/">
+        <span>onStart</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/texttospeech/event/onStart/id/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onStart/id/">
+          <span>id</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onStart/isError/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onStart/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/event/onStart/name/" class="dd-item">
+        <a href="/plugin/texttospeech/event/onStart/name/">
+          <span>name</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/getLanguagesAndVoices/" class="dd-item">
+        <a href="/plugin/texttospeech/getLanguagesAndVoices/">
+          <span>getLanguagesAndVoices</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/init/" class="dd-item">
+        <a href="/plugin/texttospeech/init/">
+          <span>init</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/isSpeaking/" class="dd-item">
+        <a href="/plugin/texttospeech/isSpeaking/">
+          <span>isSpeaking</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/pause/" class="dd-item">
+        <a href="/plugin/texttospeech/pause/">
+          <span>pause</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/speak/" class="dd-item">
+        <a href="/plugin/texttospeech/speak/">
+          <span>speak</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/texttospeech/stop/" class="dd-item">
+        <a href="/plugin/texttospeech/stop/">
+          <span>stop</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/toast/" class="dd-item">
+      <a href="/plugin/toast/">
+        <span>toast</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/toast/show/" class="dd-item">
+        <a href="/plugin/toast/show/">
+          <span>show</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/vibrator/" class="dd-item">
+      <a href="/plugin/vibrator/">
+        <span>vibrator</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/vibrator/cancel/" class="dd-item">
+        <a href="/plugin/vibrator/cancel/">
+          <span>cancel</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vibrator/hasVibrator/" class="dd-item">
+        <a href="/plugin/vibrator/hasVibrator/">
+          <span>hasVibrator</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vibrator/newHaptic/" class="dd-item">
+        <a href="/plugin/vibrator/newHaptic/">
+          <span>newHaptic</span>
+        </a>
+    </li>
+    <li data-nav-id="/plugin/vibrator/type/" class="dd-item">
+      <a href="/plugin/vibrator/type/">
+        <span>Types</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/vibrator/type/Haptic/" class="dd-item">
+      <a href="/plugin/vibrator/type/Haptic/">
+        <span>Haptic</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/vibrator/type/Haptic/invoke/" class="dd-item">
+        <a href="/plugin/vibrator/type/Haptic/invoke/">
+          <span>invoke</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vibrator/type/Haptic/prepare/" class="dd-item">
+        <a href="/plugin/vibrator/type/Haptic/prepare/">
+          <span>prepare</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+      <li data-nav-id="/plugin/vibrator/vibrate/" class="dd-item">
+        <a href="/plugin/vibrator/vibrate/">
+          <span>vibrate</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/vk/" class="dd-item">
+      <a href="/plugin/vk/">
+        <span>vk</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/vk/enableDebug/" class="dd-item">
+        <a href="/plugin/vk/enableDebug/">
+          <span>enableDebug</span>
+        </a>
+    </li>
+    <li data-nav-id="/plugin/vk/event/" class="dd-item">
+      <a href="/plugin/vk/event/">
+        <span>Events</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/vk/event/login/" class="dd-item">
+      <a href="/plugin/vk/event/login/">
+        <span>login</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/vk/event/login/errorCode/" class="dd-item">
+        <a href="/plugin/vk/event/login/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/event/login/errorMessage/" class="dd-item">
+        <a href="/plugin/vk/event/login/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/event/login/isError/" class="dd-item">
+        <a href="/plugin/vk/event/login/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/event/login/name/" class="dd-item">
+        <a href="/plugin/vk/event/login/name/">
+          <span>name</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/vk/event/request/" class="dd-item">
+      <a href="/plugin/vk/event/request/">
+        <span>request</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/vk/event/request/errorCode/" class="dd-item">
+        <a href="/plugin/vk/event/request/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/event/request/errorMessage/" class="dd-item">
+        <a href="/plugin/vk/event/request/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/event/request/isError/" class="dd-item">
+        <a href="/plugin/vk/event/request/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/event/request/name/" class="dd-item">
+        <a href="/plugin/vk/event/request/name/">
+          <span>name</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/event/request/response/" class="dd-item">
+        <a href="/plugin/vk/event/request/response/">
+          <span>response</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/vk/event/showShareDialog/" class="dd-item">
+      <a href="/plugin/vk/event/showShareDialog/">
+        <span>showShareDialog</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/vk/event/showShareDialog/errorCode/" class="dd-item">
+        <a href="/plugin/vk/event/showShareDialog/errorCode/">
+          <span>errorCode</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/event/showShareDialog/errorMessage/" class="dd-item">
+        <a href="/plugin/vk/event/showShareDialog/errorMessage/">
+          <span>errorMessage</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/event/showShareDialog/isError/" class="dd-item">
+        <a href="/plugin/vk/event/showShareDialog/isError/">
+          <span>isError</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/event/showShareDialog/name/" class="dd-item">
+        <a href="/plugin/vk/event/showShareDialog/name/">
+          <span>name</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+      <li data-nav-id="/plugin/vk/getAccessToken/" class="dd-item">
+        <a href="/plugin/vk/getAccessToken/">
+          <span>getAccessToken</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/getUserId/" class="dd-item">
+        <a href="/plugin/vk/getUserId/">
+          <span>getUserId</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/init/" class="dd-item">
+        <a href="/plugin/vk/init/">
+          <span>init</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/isLoggedIn/" class="dd-item">
+        <a href="/plugin/vk/isLoggedIn/">
+          <span>isLoggedIn</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/login/" class="dd-item">
+        <a href="/plugin/vk/login/">
+          <span>login</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/logout/" class="dd-item">
+        <a href="/plugin/vk/logout/">
+          <span>logout</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/request/" class="dd-item">
+        <a href="/plugin/vk/request/">
+          <span>request</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/showShareDialog/" class="dd-item">
+        <a href="/plugin/vk/showShareDialog/">
+          <span>showShareDialog</span>
+        </a>
+    </li>
+    <li data-nav-id="/plugin/vk/type/" class="dd-item">
+      <a href="/plugin/vk/type/">
+        <span>Types</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/plugin/vk/type/AccessToken/" class="dd-item">
+      <a href="/plugin/vk/type/AccessToken/">
+        <span>AccessToken</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/vk/type/AccessToken/accessToken/" class="dd-item">
+        <a href="/plugin/vk/type/AccessToken/accessToken/">
+          <span>accessToken</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/type/AccessToken/email/" class="dd-item">
+        <a href="/plugin/vk/type/AccessToken/email/">
+          <span>email</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/type/AccessToken/expiresIn/" class="dd-item">
+        <a href="/plugin/vk/type/AccessToken/expiresIn/">
+          <span>expiresIn</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/type/AccessToken/isHttpsRequired/" class="dd-item">
+        <a href="/plugin/vk/type/AccessToken/isHttpsRequired/">
+          <span>isHttpsRequired</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/type/AccessToken/secret/" class="dd-item">
+        <a href="/plugin/vk/type/AccessToken/secret/">
+          <span>secret</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/type/AccessToken/timestamp/" class="dd-item">
+        <a href="/plugin/vk/type/AccessToken/timestamp/">
+          <span>timestamp</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/type/AccessToken/userId/" class="dd-item">
+        <a href="/plugin/vk/type/AccessToken/userId/">
+          <span>userId</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/plugin/vk/type/Image/" class="dd-item">
+      <a href="/plugin/vk/type/Image/">
+        <span>Image</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+      <li data-nav-id="/plugin/vk/type/Image/baseDir/" class="dd-item">
+        <a href="/plugin/vk/type/Image/baseDir/">
+          <span>baseDir</span>
+        </a>
+    </li>
+      <li data-nav-id="/plugin/vk/type/Image/filename/" class="dd-item">
+        <a href="/plugin/vk/type/Image/filename/">
+          <span>filename</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    <li data-nav-id="/type/" class="dd-item">
+      <a href="/type/">
+        <span>Types</span><i class="fa fa-angle-right fa-lg category-icon"></i>
+      </a>
+        <ul>
+    <li data-nav-id="/type/Float/" class="dd-item">
+      <a href="/type/Float/">
+        <span>Float</span>
+      </a>
+    </li>
+    <li data-nav-id="/type/Integer/" class="dd-item">
+      <a href="/type/Integer/">
+        <span>Integer</span>
+      </a>
+    </li>
+        </ul>
+    </li>
+
+
+
+
+    </ul>
+
+    <section class="footer">
+    </section>
+  </nav>
+  <section class="page">
+    <section id="nav-select">
+      <center>Navigation : 
+            <select onchange="javascript:location.href = this.value;">
+              
+    <option value="/extension/" >
+   Defold Extensions</option>
+    <option value="/extension/admob/" >
+   </option>
+    <option value="/plugin/" >
+   Solar2D Plugins</option>
+    <option value="/plugin/bluetooth/" >
+   bluetooth</option>
+      <option value="/plugin/bluetooth/connect/" >connect</option>
+      <option value="/plugin/bluetooth/disconnect/" >disconnect</option>
+    <option value="/plugin/bluetooth/event/" >
+   Events</option>
+    <option value="/plugin/bluetooth/event/advertising/" >
+   advertising</option>
+      <option value="/plugin/bluetooth/event/advertising/errorCode/" >errorCode</option>
+      <option value="/plugin/bluetooth/event/advertising/errorMessage/" >errorMessage</option>
+      <option value="/plugin/bluetooth/event/advertising/isError/" >isError</option>
+      <option value="/plugin/bluetooth/event/advertising/mode/" >mode</option>
+      <option value="/plugin/bluetooth/event/advertising/name/" >name</option>
+      <option value="/plugin/bluetooth/event/advertising/timeout/" >timeout</option>
+      <option value="/plugin/bluetooth/event/advertising/txPowerLevel/" >txPowerLevel</option>
+    <option value="/plugin/bluetooth/event/init/" >
+   init</option>
+      <option value="/plugin/bluetooth/event/init/errorCode/" >errorCode</option>
+      <option value="/plugin/bluetooth/event/init/errorMessage/" >errorMessage</option>
+      <option value="/plugin/bluetooth/event/init/isError/" >isError</option>
+      <option value="/plugin/bluetooth/event/init/name/" >name</option>
+    <option value="/plugin/bluetooth/event/scan/" >
+   scan</option>
+      <option value="/plugin/bluetooth/event/scan/device/" >device</option>
+      <option value="/plugin/bluetooth/event/scan/isError/" >isError</option>
+      <option value="/plugin/bluetooth/event/scan/name/" >name</option>
+      <option value="/plugin/bluetooth/event/scan/record/" >record</option>
+      <option value="/plugin/bluetooth/event/scan/rssi/" >rssi</option>
+      <option value="/plugin/bluetooth/init/" >init</option>
+      <option value="/plugin/bluetooth/isActive/" >isActive</option>
+      <option value="/plugin/bluetooth/isMultipleAdvertisementSupported/" >isMultipleAdvertisementSupported</option>
+      <option value="/plugin/bluetooth/isOffloadedFilteringSupported/" >isOffloadedFilteringSupported</option>
+      <option value="/plugin/bluetooth/isOffloadedScanBatchingSupported/" >isOffloadedScanBatchingSupported</option>
+      <option value="/plugin/bluetooth/isScanning/" >isScanning</option>
+      <option value="/plugin/bluetooth/newServer/" >newServer</option>
+      <option value="/plugin/bluetooth/setName/" >setName</option>
+      <option value="/plugin/bluetooth/startAdvertising/" >startAdvertising</option>
+      <option value="/plugin/bluetooth/startScan/" >startScan</option>
+      <option value="/plugin/bluetooth/stopAdvertising/" >stopAdvertising</option>
+      <option value="/plugin/bluetooth/stopScan/" >stopScan</option>
+    <option value="/plugin/bluetooth/type/" >
+   Types</option>
+    <option value="/plugin/bluetooth/type/AdvertiseData/" >
+   AdvertiseData</option>
+      <option value="/plugin/bluetooth/type/AdvertiseData/includeDeviceName/" >includeDeviceName</option>
+      <option value="/plugin/bluetooth/type/AdvertiseData/includeTxPowerLevel/" >includeTxPowerLevel</option>
+      <option value="/plugin/bluetooth/type/AdvertiseData/manufacturers/" >manufacturers</option>
+      <option value="/plugin/bluetooth/type/AdvertiseData/services/" >services</option>
+    <option value="/plugin/bluetooth/type/Characteristic/" >
+   Characteristic</option>
+      <option value="/plugin/bluetooth/type/Characteristic/addDescriptor/" >addDescriptor</option>
+      <option value="/plugin/bluetooth/type/Characteristic/getDescriptor/" >getDescriptor</option>
+      <option value="/plugin/bluetooth/type/Characteristic/getDescriptors/" >getDescriptors</option>
+      <option value="/plugin/bluetooth/type/Characteristic/getFloatValue/" >getFloatValue</option>
+      <option value="/plugin/bluetooth/type/Characteristic/getIntValue/" >getIntValue</option>
+      <option value="/plugin/bluetooth/type/Characteristic/getService/" >getService</option>
+      <option value="/plugin/bluetooth/type/Characteristic/getStringValue/" >getStringValue</option>
+      <option value="/plugin/bluetooth/type/Characteristic/getValue/" >getValue</option>
+      <option value="/plugin/bluetooth/type/Characteristic/getWriteType/" >getWriteType</option>
+      <option value="/plugin/bluetooth/type/Characteristic/id/" >id</option>
+      <option value="/plugin/bluetooth/type/Characteristic/permissions/" >permissions</option>
+      <option value="/plugin/bluetooth/type/Characteristic/properties/" >properties</option>
+      <option value="/plugin/bluetooth/type/Characteristic/setFloatValue/" >setFloatValue</option>
+      <option value="/plugin/bluetooth/type/Characteristic/setIntValue/" >setIntValue</option>
+      <option value="/plugin/bluetooth/type/Characteristic/setStringValue/" >setStringValue</option>
+      <option value="/plugin/bluetooth/type/Characteristic/setValue/" >setValue</option>
+      <option value="/plugin/bluetooth/type/Characteristic/setWriteType/" >setWriteType</option>
+      <option value="/plugin/bluetooth/type/Characteristic/uuid/" >uuid</option>
+    <option value="/plugin/bluetooth/type/Descriptor/" >
+   Descriptor</option>
+      <option value="/plugin/bluetooth/type/Descriptor/getCharacteristic/" >getCharacteristic</option>
+      <option value="/plugin/bluetooth/type/Descriptor/getValue/" >getValue</option>
+      <option value="/plugin/bluetooth/type/Descriptor/permissions/" >permissions</option>
+      <option value="/plugin/bluetooth/type/Descriptor/setValue/" >setValue</option>
+      <option value="/plugin/bluetooth/type/Descriptor/uuid/" >uuid</option>
+    <option value="/plugin/bluetooth/type/Device/" >
+   Device</option>
+      <option value="/plugin/bluetooth/type/Device/address/" >address</option>
+      <option value="/plugin/bluetooth/type/Device/class/" >class</option>
+      <option value="/plugin/bluetooth/type/Device/connect/" >connect</option>
+      <option value="/plugin/bluetooth/type/Device/createBond/" >createBond</option>
+      <option value="/plugin/bluetooth/type/Device/getBondState/" >getBondState</option>
+      <option value="/plugin/bluetooth/type/Device/majorClass/" >majorClass</option>
+      <option value="/plugin/bluetooth/type/Device/name/" >name</option>
+      <option value="/plugin/bluetooth/type/Device/setPairingConfirmation/" >setPairingConfirmation</option>
+      <option value="/plugin/bluetooth/type/Device/setPin/" >setPin</option>
+      <option value="/plugin/bluetooth/type/Device/type/" >type</option>
+      <option value="/plugin/bluetooth/type/Device/uuids/" >uuids</option>
+    <option value="/plugin/bluetooth/type/Gatt/" >
+   Gatt</option>
+      <option value="/plugin/bluetooth/type/Gatt/abortReliableWrite/" >abortReliableWrite</option>
+      <option value="/plugin/bluetooth/type/Gatt/beginReliableWrite/" >beginReliableWrite</option>
+      <option value="/plugin/bluetooth/type/Gatt/connect/" >connect</option>
+      <option value="/plugin/bluetooth/type/Gatt/disconnect/" >disconnect</option>
+      <option value="/plugin/bluetooth/type/Gatt/discoverServices/" >discoverServices</option>
+      <option value="/plugin/bluetooth/type/Gatt/executeReliableWrite/" >executeReliableWrite</option>
+      <option value="/plugin/bluetooth/type/Gatt/getService/" >getService</option>
+      <option value="/plugin/bluetooth/type/Gatt/getServices/" >getServices</option>
+      <option value="/plugin/bluetooth/type/Gatt/readCharacteristic/" >readCharacteristic</option>
+      <option value="/plugin/bluetooth/type/Gatt/readDescriptor/" >readDescriptor</option>
+      <option value="/plugin/bluetooth/type/Gatt/readRemoteRssi/" >readRemoteRssi</option>
+      <option value="/plugin/bluetooth/type/Gatt/requestConnectionPriority/" >requestConnectionPriority</option>
+      <option value="/plugin/bluetooth/type/Gatt/requestMtu/" >requestMtu</option>
+      <option value="/plugin/bluetooth/type/Gatt/setCharacteristicNotification/" >setCharacteristicNotification</option>
+      <option value="/plugin/bluetooth/type/Gatt/writeCharacteristic/" >writeCharacteristic</option>
+      <option value="/plugin/bluetooth/type/Gatt/writeDescriptor/" >writeDescriptor</option>
+    <option value="/plugin/bluetooth/type/Server/" >
+   Server</option>
+      <option value="/plugin/bluetooth/type/Server/addService/" >addService</option>
+      <option value="/plugin/bluetooth/type/Server/cancelConnection/" >cancelConnection</option>
+      <option value="/plugin/bluetooth/type/Server/clearServices/" >clearServices</option>
+      <option value="/plugin/bluetooth/type/Server/close/" >close</option>
+      <option value="/plugin/bluetooth/type/Server/connect/" >connect</option>
+      <option value="/plugin/bluetooth/type/Server/getService/" >getService</option>
+      <option value="/plugin/bluetooth/type/Server/getServices/" >getServices</option>
+      <option value="/plugin/bluetooth/type/Server/notifyCharacteristicChanged/" >notifyCharacteristicChanged</option>
+      <option value="/plugin/bluetooth/type/Server/removeService/" >removeService</option>
+      <option value="/plugin/bluetooth/type/Server/sendResponse/" >sendResponse</option>
+    <option value="/plugin/bluetooth/type/Service/" >
+   Service</option>
+      <option value="/plugin/bluetooth/type/Service/addCharacteristic/" >addCharacteristic</option>
+      <option value="/plugin/bluetooth/type/Service/addService/" >addService</option>
+      <option value="/plugin/bluetooth/type/Service/getCharacteristic/" >getCharacteristic</option>
+      <option value="/plugin/bluetooth/type/Service/getCharacteristics/" >getCharacteristics</option>
+      <option value="/plugin/bluetooth/type/Service/getIncludedServices/" >getIncludedServices</option>
+      <option value="/plugin/bluetooth/type/Service/id/" >id</option>
+      <option value="/plugin/bluetooth/type/Service/isPrimary/" >isPrimary</option>
+      <option value="/plugin/bluetooth/type/Service/uuid/" >uuid</option>
+    <option value="/plugin/chrometabs/" >
+   chrometabs</option>
+    <option value="/plugin/chrometabs/event/" >
+   Events</option>
+    <option value="/plugin/chrometabs/event/chrometabs/" >
+   chrometabs</option>
+      <option value="/plugin/chrometabs/event/chrometabs/errorMessage/" >errorMessage</option>
+      <option value="/plugin/chrometabs/event/chrometabs/isError/" >isError</option>
+      <option value="/plugin/chrometabs/event/chrometabs/name/" >name</option>
+      <option value="/plugin/chrometabs/event/chrometabs/phase/" >phase</option>
+      <option value="/plugin/chrometabs/init/" >init</option>
+      <option value="/plugin/chrometabs/mayLaunchUrl/" >mayLaunchUrl</option>
+      <option value="/plugin/chrometabs/newSession/" >newSession</option>
+      <option value="/plugin/chrometabs/show/" >show</option>
+      <option value="/plugin/chrometabs/warmup/" >warmup</option>
+    <option value="/plugin/facebook/" >
+   facebook</option>
+    <option value="/plugin/facebook/event/" >
+   Events</option>
+    <option value="/plugin/facebook/event/fbapplink/" >
+   fbapplink</option>
+      <option value="/plugin/facebook/event/fbapplink/argument/" >argument</option>
+      <option value="/plugin/facebook/event/fbapplink/errorMessage/" >errorMessage</option>
+      <option value="/plugin/facebook/event/fbapplink/isError/" >isError</option>
+      <option value="/plugin/facebook/event/fbapplink/name/" >name</option>
+      <option value="/plugin/facebook/event/fbapplink/promotionCode/" >promotionCode</option>
+      <option value="/plugin/facebook/event/fbapplink/ref/" >ref</option>
+      <option value="/plugin/facebook/event/fbapplink/referer/" >referer</option>
+      <option value="/plugin/facebook/event/fbapplink/url/" >url</option>
+      <option value="/plugin/facebook/getDeferredAppLinkData/" >getDeferredAppLinkData</option>
+      <option value="/plugin/facebook/init/" >init</option>
+      <option value="/plugin/facebook/logEvent/" >logEvent</option>
+      <option value="/plugin/facebook/logPurchase/" >logPurchase</option>
+      <option value="/plugin/facebook/setLimitEventAndDataUsage/" >setLimitEventAndDataUsage</option>
+    <option value="/plugin/flashlight/" >
+   flashlight</option>
+      <option value="/plugin/flashlight/off/" >false</option>
+      <option value="/plugin/flashlight/on/" >true</option>
+    <option value="/plugin/mousecursor/" >
+   mousecursor</option>
+      <option value="/plugin/mousecursor/enableDebug/" >enableDebug</option>
+      <option value="/plugin/mousecursor/hide/" >hide</option>
+      <option value="/plugin/mousecursor/newCursor/" >newCursor</option>
+      <option value="/plugin/mousecursor/show/" >show</option>
+    <option value="/plugin/mousecursor/type/" >
+   Types</option>
+    <option value="/plugin/mousecursor/type/Cursor/" >
+   Cursor</option>
+      <option value="/plugin/mousecursor/type/Cursor/hide/" >hide</option>
+      <option value="/plugin/mousecursor/type/Cursor/show/" >show</option>
+    <option value="/plugin/nfc/" >
+   nfc</option>
+      <option value="/plugin/nfc/beam/" >beam</option>
+      <option value="/plugin/nfc/cancelBeam/" >cancelBeam</option>
+      <option value="/plugin/nfc/close/" >close</option>
+      <option value="/plugin/nfc/enableDebug/" >enableDebug</option>
+    <option value="/plugin/nfc/event/" >
+   Events</option>
+    <option value="/plugin/nfc/event/beam/" >
+   beam</option>
+      <option value="/plugin/nfc/event/beam/isError/" >isError</option>
+      <option value="/plugin/nfc/event/beam/name/" >name</option>
+      <option value="/plugin/nfc/event/beam/peerLlcpMajorVersion/" >peerLlcpMajorVersion</option>
+      <option value="/plugin/nfc/event/beam/peerLlcpMinorVersion/" >peerLlcpMinorVersion</option>
+      <option value="/plugin/nfc/event/beam/phase/" >phase</option>
+    <option value="/plugin/nfc/event/init/" >
+   init</option>
+      <option value="/plugin/nfc/event/init/errorCode/" >errorCode</option>
+      <option value="/plugin/nfc/event/init/errorMessage/" >errorMessage</option>
+      <option value="/plugin/nfc/event/init/isError/" >isError</option>
+      <option value="/plugin/nfc/event/init/name/" >name</option>
+    <option value="/plugin/nfc/event/nfc/" >
+   nfc</option>
+      <option value="/plugin/nfc/event/nfc/errorCode/" >errorCode</option>
+      <option value="/plugin/nfc/event/nfc/errorMessage/" >errorMessage</option>
+      <option value="/plugin/nfc/event/nfc/id/" >id</option>
+      <option value="/plugin/nfc/event/nfc/intentType/" >intentType</option>
+      <option value="/plugin/nfc/event/nfc/isError/" >isError</option>
+      <option value="/plugin/nfc/event/nfc/messages/" >messages</option>
+      <option value="/plugin/nfc/event/nfc/name/" >name</option>
+      <option value="/plugin/nfc/event/nfc/tag/" >tag</option>
+      <option value="/plugin/nfc/event/nfc/type/" >type</option>
+    <option value="/plugin/nfc/event/writeTag/" >
+   writeTag</option>
+      <option value="/plugin/nfc/event/writeTag/errorCode/" >errorCode</option>
+      <option value="/plugin/nfc/event/writeTag/errorMessage/" >errorMessage</option>
+      <option value="/plugin/nfc/event/writeTag/isError/" >isError</option>
+      <option value="/plugin/nfc/event/writeTag/name/" >name</option>
+      <option value="/plugin/nfc/init/" >init</option>
+      <option value="/plugin/nfc/releaseTag/" >releaseTag</option>
+      <option value="/plugin/nfc/removeListener/" >removeListener</option>
+      <option value="/plugin/nfc/setListener/" >setListener</option>
+      <option value="/plugin/nfc/show/" >show</option>
+    <option value="/plugin/nfc/type/" >
+   Types</option>
+    <option value="/plugin/nfc/type/NdefMessage/" >
+   NdefMessage</option>
+      <option value="/plugin/nfc/writeTag/" >writeTag</option>
+    <option value="/plugin/qrscanner/" >
+   qrscanner</option>
+      <option value="/plugin/qrscanner/enableDebug/" >enableDebug</option>
+    <option value="/plugin/qrscanner/event/" >
+   Events</option>
+    <option value="/plugin/qrscanner/event/show/" >
+   show</option>
+      <option value="/plugin/qrscanner/event/show/errorCode/" >errorCode</option>
+      <option value="/plugin/qrscanner/event/show/errorMessage/" >errorMessage</option>
+      <option value="/plugin/qrscanner/event/show/isError/" >isError</option>
+      <option value="/plugin/qrscanner/event/show/message/" >message</option>
+      <option value="/plugin/qrscanner/event/show/name/" >name</option>
+      <option value="/plugin/qrscanner/event/show/symbol/" >symbol</option>
+      <option value="/plugin/qrscanner/show/" >show</option>
+    <option value="/plugin/microphone/" >
+   Solar2D Plugins</option>
+    <option value="/plugin/sox/" >
+   Solar2D Plugins</option>
+    <option value="/plugin/texttospeech/" >
+   texttospeech</option>
+      <option value="/plugin/texttospeech/continue/" >continue</option>
+      <option value="/plugin/texttospeech/enableDebug/" >enableDebug</option>
+    <option value="/plugin/texttospeech/event/" >
+   Events</option>
+    <option value="/plugin/texttospeech/event/getLanguagesAndVoices/" >
+   getLanguagesAndVoices</option>
+      <option value="/plugin/texttospeech/event/getLanguagesAndVoices/errorCode/" >errorCode</option>
+      <option value="/plugin/texttospeech/event/getLanguagesAndVoices/errorMessage/" >errorMessage</option>
+      <option value="/plugin/texttospeech/event/getLanguagesAndVoices/isError/" >isError</option>
+      <option value="/plugin/texttospeech/event/getLanguagesAndVoices/languages/" >languages</option>
+      <option value="/plugin/texttospeech/event/getLanguagesAndVoices/name/" >name</option>
+      <option value="/plugin/texttospeech/event/getLanguagesAndVoices/voices/" >voices</option>
+    <option value="/plugin/texttospeech/event/init/" >
+   init</option>
+      <option value="/plugin/texttospeech/event/init/defaultEngine/" >defaultEngine</option>
+      <option value="/plugin/texttospeech/event/init/engines/" >engines</option>
+      <option value="/plugin/texttospeech/event/init/errorCode/" >errorCode</option>
+      <option value="/plugin/texttospeech/event/init/errorMessage/" >errorMessage</option>
+      <option value="/plugin/texttospeech/event/init/isError/" >isError</option>
+      <option value="/plugin/texttospeech/event/init/maxLength/" >maxLength</option>
+      <option value="/plugin/texttospeech/event/init/name/" >name</option>
+    <option value="/plugin/texttospeech/event/onComplete/" >
+   onComplete</option>
+      <option value="/plugin/texttospeech/event/onComplete/errorCode/" >errorCode</option>
+      <option value="/plugin/texttospeech/event/onComplete/errorMessage/" >errorMessage</option>
+      <option value="/plugin/texttospeech/event/onComplete/id/" >id</option>
+      <option value="/plugin/texttospeech/event/onComplete/isError/" >isError</option>
+      <option value="/plugin/texttospeech/event/onComplete/name/" >name</option>
+    <option value="/plugin/texttospeech/event/onContinue/" >
+   onContinue</option>
+      <option value="/plugin/texttospeech/event/onContinue/id/" >id</option>
+      <option value="/plugin/texttospeech/event/onContinue/isError/" >isError</option>
+      <option value="/plugin/texttospeech/event/onContinue/name/" >name</option>
+    <option value="/plugin/texttospeech/event/onPause/" >
+   onPause</option>
+      <option value="/plugin/texttospeech/event/onPause/id/" >id</option>
+      <option value="/plugin/texttospeech/event/onPause/isError/" >isError</option>
+      <option value="/plugin/texttospeech/event/onPause/name/" >name</option>
+    <option value="/plugin/texttospeech/event/onProgress/" >
+   onProgress</option>
+      <option value="/plugin/texttospeech/event/onProgress/audio/" >audio</option>
+      <option value="/plugin/texttospeech/event/onProgress/count/" >count</option>
+      <option value="/plugin/texttospeech/event/onProgress/id/" >id</option>
+      <option value="/plugin/texttospeech/event/onProgress/isError/" >isError</option>
+      <option value="/plugin/texttospeech/event/onProgress/name/" >name</option>
+      <option value="/plugin/texttospeech/event/onProgress/start/" >start</option>
+    <option value="/plugin/texttospeech/event/onStart/" >
+   onStart</option>
+      <option value="/plugin/texttospeech/event/onStart/id/" >id</option>
+      <option value="/plugin/texttospeech/event/onStart/isError/" >isError</option>
+      <option value="/plugin/texttospeech/event/onStart/name/" >name</option>
+      <option value="/plugin/texttospeech/getLanguagesAndVoices/" >getLanguagesAndVoices</option>
+      <option value="/plugin/texttospeech/init/" >init</option>
+      <option value="/plugin/texttospeech/isSpeaking/" >isSpeaking</option>
+      <option value="/plugin/texttospeech/pause/" >pause</option>
+      <option value="/plugin/texttospeech/speak/" >speak</option>
+      <option value="/plugin/texttospeech/stop/" >stop</option>
+    <option value="/plugin/toast/" >
+   toast</option>
+      <option value="/plugin/toast/show/" >show</option>
+    <option value="/plugin/vibrator/" >
+   vibrator</option>
+      <option value="/plugin/vibrator/cancel/" >cancel</option>
+      <option value="/plugin/vibrator/hasVibrator/" >hasVibrator</option>
+      <option value="/plugin/vibrator/newHaptic/" >newHaptic</option>
+    <option value="/plugin/vibrator/type/" >
+   Types</option>
+    <option value="/plugin/vibrator/type/Haptic/" >
+   Haptic</option>
+      <option value="/plugin/vibrator/type/Haptic/invoke/" >invoke</option>
+      <option value="/plugin/vibrator/type/Haptic/prepare/" >prepare</option>
+      <option value="/plugin/vibrator/vibrate/" >vibrate</option>
+    <option value="/plugin/vk/" >
+   vk</option>
+      <option value="/plugin/vk/enableDebug/" >enableDebug</option>
+    <option value="/plugin/vk/event/" >
+   Events</option>
+    <option value="/plugin/vk/event/login/" >
+   login</option>
+      <option value="/plugin/vk/event/login/errorCode/" >errorCode</option>
+      <option value="/plugin/vk/event/login/errorMessage/" >errorMessage</option>
+      <option value="/plugin/vk/event/login/isError/" >isError</option>
+      <option value="/plugin/vk/event/login/name/" >name</option>
+    <option value="/plugin/vk/event/request/" >
+   request</option>
+      <option value="/plugin/vk/event/request/errorCode/" >errorCode</option>
+      <option value="/plugin/vk/event/request/errorMessage/" >errorMessage</option>
+      <option value="/plugin/vk/event/request/isError/" >isError</option>
+      <option value="/plugin/vk/event/request/name/" >name</option>
+      <option value="/plugin/vk/event/request/response/" >response</option>
+    <option value="/plugin/vk/event/showShareDialog/" >
+   showShareDialog</option>
+      <option value="/plugin/vk/event/showShareDialog/errorCode/" >errorCode</option>
+      <option value="/plugin/vk/event/showShareDialog/errorMessage/" >errorMessage</option>
+      <option value="/plugin/vk/event/showShareDialog/isError/" >isError</option>
+      <option value="/plugin/vk/event/showShareDialog/name/" >name</option>
+      <option value="/plugin/vk/getAccessToken/" >getAccessToken</option>
+      <option value="/plugin/vk/getUserId/" >getUserId</option>
+      <option value="/plugin/vk/init/" >init</option>
+      <option value="/plugin/vk/isLoggedIn/" >isLoggedIn</option>
+      <option value="/plugin/vk/login/" >login</option>
+      <option value="/plugin/vk/logout/" >logout</option>
+      <option value="/plugin/vk/request/" >request</option>
+      <option value="/plugin/vk/showShareDialog/" >showShareDialog</option>
+    <option value="/plugin/vk/type/" >
+   Types</option>
+    <option value="/plugin/vk/type/AccessToken/" >
+   AccessToken</option>
+      <option value="/plugin/vk/type/AccessToken/accessToken/" >accessToken</option>
+      <option value="/plugin/vk/type/AccessToken/email/" >email</option>
+      <option value="/plugin/vk/type/AccessToken/expiresIn/" >expiresIn</option>
+      <option value="/plugin/vk/type/AccessToken/isHttpsRequired/" >isHttpsRequired</option>
+      <option value="/plugin/vk/type/AccessToken/secret/" >secret</option>
+      <option value="/plugin/vk/type/AccessToken/timestamp/" >timestamp</option>
+      <option value="/plugin/vk/type/AccessToken/userId/" >userId</option>
+    <option value="/plugin/vk/type/Image/" >
+   Image</option>
+      <option value="/plugin/vk/type/Image/baseDir/" >baseDir</option>
+      <option value="/plugin/vk/type/Image/filename/" >filename</option>
+    <option value="/type/" >
+   Types</option>
+    <option value="/type/Float/" >
+   Float</option>
+    <option value="/type/Integer/" >
+   Integer</option>
+
+
+
+            </select></center>
+    </section>
+    <aside>
+    </aside>
+    <article>
+    
+
+    
+    <h1 id="eventerrormessage">event.errorMessage</h1>
+<blockquote>
+<hr>
+<p><strong>Type</strong>              <a href="https://docs.coronalabs.com/api/type/String.html">String</a>
+<strong>Event</strong>             <a href="/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/">onServicesDiscovered</a></p>
+</blockquote>
+<blockquote>
+<p><strong>See also</strong>          <a href="/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/">onServicesDiscovered</a>
+<a href="/plugin/bluetooth/">bluetooth.*</a></p>
+<hr>
+</blockquote>
+<h2 id="overview">Overview</h2>
+<p><a href="https://docs.coronalabs.com/api/type/String.html">String</a> description of an error when <a href="/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/isError">event.isError</a> is <code>true</code>, <code>nil</code> otherwise.</p>
+
+
+    
+    
+        </article>
+  <aside class="footline">
+  	
+
+  	
+
+	
+
+  	<div class="github-link">
+  		<a href="https://github.com/Lerg/docs/edit/master/docs/content/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/errorMessage.md" target="blank"><i class="fa fa-code-fork"></i>
+        Edit page</a>
+    </div>
+  </aside>
+  <aside class="chevrons">
+    <div id="navigation">
+</div>
+  </aside>
+  </section>
+</section>
+<footer>
+	<div>
+
+
+  
+    
+  
+
+
+
+	</div>
+</footer>
+
+<script src="/js/clipboard.min.js"></script>
+<script src="/js/featherlight.min.js"></script>
+
+<script src="/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<script src="/theme-flex/script.js"></script>
+    
+
+    
+    
+
+    
+  </body>
+</html>

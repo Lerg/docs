@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scan on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/</link>
+    <description>Recent content in scan on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>device</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/device/</guid>
+      <description>event.device   Type Device Event scan
+  See also scan bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/isError/</guid>
+      <description>event.isError   Type Boolean Event scan
+  See also scan bluetooth.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/name/</guid>
+      <description>event.name   Type String Event scan
+  See also scan bluetooth.*
+  Overview The string &amp;quot;scan&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>record</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/record/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/record/</guid>
+      <description>event.record   Type String Event scan
+  See also scan bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>rssi</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/rssi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/rssi/</guid>
+      <description>event.rssi   Type Number Event scan
+  See also scan bluetooth.*
+  Overview Integer.</description>
+    </item>
+    
+  </channel>
+</rss>

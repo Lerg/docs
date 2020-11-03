@@ -1,0 +1,1784 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/_footer/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/_header/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/extension/admob/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/abortReliableWrite/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/accessToken/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/addCharacteristic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/addDescriptor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/address/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/addService/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/addService/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/argument/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/audio/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/Image/baseDir/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/beam/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/beginReliableWrite/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vibrator/cancel/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/cancelBeam/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/cancelConnection/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicChanged/characteristic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/characteristic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/characteristic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicReadRequest/characteristic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/characteristic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/class/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/clearServices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/close/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/close/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/connect/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/connect/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/connect/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/connect/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/continue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/count/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/createBond/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/credits/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/mousecursor/type/Cursor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/defaultEngine/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/extension/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/descriptor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorWrite/descriptor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorReadRequest/descriptor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/descriptor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/device/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicReadRequest/device/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/device/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onConnectionStateChange/device/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorReadRequest/device/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/device/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/device/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/device/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/device/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/device/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/disconnect/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/disconnect/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/discoverServices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/showcase/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/email/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/mousecursor/enableDebug/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/enableDebug/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/qrscanner/enableDebug/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/enableDebug/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/enableDebug/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/engines/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/init/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onConnectionStateChange/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorWrite/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onConnectionStateChange/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/init/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/login/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/request/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/errorCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/init/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onConnectionStateChange/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorWrite/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onConnectionStateChange/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/init/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/login/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/request/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/errorMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/event/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/event/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/qrscanner/event/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/executeReliableWrite/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/expiresIn/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/flashlight/off/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/Image/filename/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/flashlight/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/type/Float/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicChanged/gatt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/gatt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/gatt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onConnectionStateChange/gatt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/gatt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorWrite/gatt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/gatt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/gatt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/gatt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/getAccessToken/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/getBondState/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/getCharacteristic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/getCharacteristic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/getCharacteristics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/getDeferredAppLinkData/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getDescriptor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getDescriptors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getFloatValue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/getIncludedServices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getIntValue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/getLanguagesAndVoices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getService/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/getService/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/getService/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/getServices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/getServices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getStringValue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/getUserId/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getValue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/getValue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getWriteType/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vibrator/type/Haptic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vibrator/hasVibrator/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/mousecursor/hide/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/mousecursor/type/Cursor/hide/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/id/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/id/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/id/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/id/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onContinue/id/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/id/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/id/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onStart/id/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/Image/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/includeDeviceName/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/includeTxPowerLevel/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/init/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/init/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/init/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/init/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/init/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/init/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/init/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/init/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/type/Integer/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/intentType/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vibrator/type/Haptic/invoke/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/isActive/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/init/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicChanged/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onConnectionStateChange/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorWrite/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicReadRequest/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onConnectionStateChange/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorReadRequest/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/init/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onContinue/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onStart/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/login/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/request/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/isError/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/isExecution/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/isHttpsRequired/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/isLoggedIn/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/isMultipleAdvertisementSupported/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/isOffloadedFilteringSupported/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/isOffloadedScanBatchingSupported/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isPreparedWrite/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/isPreparedWrite/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/isPrimary/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/isResponseNeeded/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/isResponseNeeded/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/isScanning/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/isSpeaking/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/languages/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/logEvent/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/login/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/login/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/logout/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/logPurchase/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/majorClass/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/manufacturers/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/maxLength/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/mayLaunchUrl/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/message/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/messages/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/mode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/mousecursor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/mtu/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/init/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicChanged/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onConnectionStateChange/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorWrite/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicReadRequest/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onConnectionStateChange/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorReadRequest/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/init/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/init/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onContinue/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onStart/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/login/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/request/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/name/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/type/NdefMessage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/mousecursor/newCursor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vibrator/newHaptic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/newServer/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/newSession/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/notifyCharacteristicChanged/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicReadRequest/offset/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/offset/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorReadRequest/offset/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/offset/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicChanged/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicRead/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicReadRequest/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onCharacteristicWrite/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onComplete/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onConnectionStateChange/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onConnectionStateChange/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onContinue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorRead/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorReadRequest/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onDescriptorWrite/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onNotificationSent/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onPause/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onServiceAdded/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onServicesDiscovered/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onStart/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/pause/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/peerLlcpMajorVersion/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/peerLlcpMinorVersion/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/permissions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/permissions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/phase/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/beam/phase/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vibrator/type/Haptic/prepare/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/promotionCode/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/properties/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/qrscanner/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/readCharacteristic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/readDescriptor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/readRemoteRssi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/record/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/ref/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/referer/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/releaseTag/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/removeListener/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/removeService/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/request/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/request/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/requestConnectionPriority/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicReadRequest/requestId/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/requestId/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorReadRequest/requestId/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/requestId/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onExecuteWrite/requestId/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/requestMtu/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/request/response/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/rssi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReadRemoteRssi/rssi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/scan/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/secret/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/sendResponse/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/AdvertiseData/services/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/setCharacteristicNotification/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setFloatValue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setIntValue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/setLimitEventAndDataUsage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/setListener/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/setName/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/setPairingConfirmation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/setPin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setStringValue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setValue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/setValue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setWriteType/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/show/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/mousecursor/show/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/mousecursor/type/Cursor/show/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/show/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/qrscanner/show/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/toast/show/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/event/showShareDialog/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/showShareDialog/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/microphone/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/sox/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/speak/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/onProgress/start/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/startAdvertising/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/startScan/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onConnectionStateChange/state/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onConnectionStateChange/state/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/stop/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/stopAdvertising/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/stopScan/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/symbol/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/tag/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/timeout/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/timestamp/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/toast/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/flashlight/on/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/event/advertising/txPowerLevel/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/type/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/nfc/type/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/mousecursor/type/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/type/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vibrator/type/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/type/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/facebook/event/fbapplink/url/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/type/AccessToken/userId/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/uuid/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Descriptor/uuid/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Service/uuid/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Device/uuids/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onCharacteristicWriteRequest/value/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/value/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vibrator/vibrate/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vibrator/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/vk/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/voices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/chrometabs/warmup/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/writeCharacteristic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/writeDescriptor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/event/writeTag/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.spiralcodestudio.com/plugin/nfc/writeTag/</loc>
+  </url>
+  
+</urlset>

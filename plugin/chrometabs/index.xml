@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chrometabs on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/chrometabs/</link>
+    <description>Recent content in chrometabs on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/chrometabs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>init</title>
+      <link>http://docs.spiralcodestudio.com/plugin/chrometabs/init/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/chrometabs/init/</guid>
+      <description>chrometabs.init()   Type Function
+  Return value none
+  See also chrometabs.*
+  Overview The plugin does not require initialization, you can invoke chrometabs.show() straight away, but initialization helps preloading assets and reduces showing delay.
+Syntax chrometabs.init([params]) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+listener optional Boolean. Listener that receives chrometabs event.</description>
+    </item>
+    
+    <item>
+      <title>mayLaunchUrl</title>
+      <link>http://docs.spiralcodestudio.com/plugin/chrometabs/mayLaunchUrl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/chrometabs/mayLaunchUrl/</guid>
+      <description>chrometabs.mayLaunchUrl()   Type Function
+  Return value none
+  See also chrometabs.*
+  Overview Tell the browser which URLs are likely to be requested so that some preloading can happen.
+A session has to be started before calling this function with chrometabs.newSession().
+Syntax chrometabs.mayLaunchUrl(url, additional_urls) url required String. The most probable URL.
+additional_urls optional Table. The list of other less probable URLs. More probable URLs come first.</description>
+    </item>
+    
+    <item>
+      <title>newSession</title>
+      <link>http://docs.spiralcodestudio.com/plugin/chrometabs/newSession/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/chrometabs/newSession/</guid>
+      <description>chrometabs.newSession()   Type Function
+  Return value none
+  See also chrometabs.*
+  Overview Starts a new session. When a session has been activated you may call chrometabs.mayLaunchUrl(), a new session after that decreases priority of provided URLs. The plugin must be initialized.
+Syntax chrometabs.newSession() </description>
+    </item>
+    
+    <item>
+      <title>show</title>
+      <link>http://docs.spiralcodestudio.com/plugin/chrometabs/show/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/chrometabs/show/</guid>
+      <description>chrometabs.show()   Type Function
+  Return value none
+  See also chrometabs.*
+  Overview Asynchronously fetches app link information that might have been stored for use after installation of the app.
+Syntax chrometabs.show(params) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+url required String. URL to load.
+shareMenu optional Boolean.</description>
+    </item>
+    
+    <item>
+      <title>warmup</title>
+      <link>http://docs.spiralcodestudio.com/plugin/chrometabs/warmup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/chrometabs/warmup/</guid>
+      <description>chrometabs.warmup()   Type Function
+  Return value Boolean
+  See also chrometabs.*
+  Overview Preloads some resources for faster browser startup. The plugin must be initialized. Returns true on success.
+Syntax chrometabs.warmup() </description>
+    </item>
+    
+  </channel>
+</rss>

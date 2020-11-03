@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mousecursor on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/mousecursor/</link>
+    <description>Recent content in mousecursor on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/mousecursor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>enableDebug</title>
+      <link>http://docs.spiralcodestudio.com/plugin/mousecursor/enableDebug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/mousecursor/enableDebug/</guid>
+      <description>mousecursor.enableDebug()   Type Function
+  Return value none
+  See also mousecursor.*
+  Overview Enables additional output for debugging purposes.
+Syntax mousecursor.enableDebug() </description>
+    </item>
+    
+    <item>
+      <title>hide</title>
+      <link>http://docs.spiralcodestudio.com/plugin/mousecursor/hide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/mousecursor/hide/</guid>
+      <description>mousecursor.hide()   Type Function
+  Return value none
+  See also mousecursor.*
+  Overview Disables mouse cursor. It becomes invisible.
+Syntax mousecursor.hide() </description>
+    </item>
+    
+    <item>
+      <title>newCursor</title>
+      <link>http://docs.spiralcodestudio.com/plugin/mousecursor/newCursor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/mousecursor/newCursor/</guid>
+      <description>mousecursor.newCursor()   Type Function
+  Return value Cursor
+  See also mousecursor.*
+  Overview Creates a cursor instance.
+The cursor is not visible by defualt, call cursor:show() to make it visible.
+You can either use standard system cursors like crosshair or pointing hand, or load a custom image to be used as a cursor.
+If you are using several cursors in your app, there is no need to create a new instance each time mouse enters a specified area.</description>
+    </item>
+    
+    <item>
+      <title>show</title>
+      <link>http://docs.spiralcodestudio.com/plugin/mousecursor/show/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/mousecursor/show/</guid>
+      <description>mousecursor.show()   Type Function
+  Return value none
+  See also mousecursor.*
+  Overview Makes mouse cursors visible again.
+Syntax mousecursor.show() </description>
+    </item>
+    
+  </channel>
+</rss>

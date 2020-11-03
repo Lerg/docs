@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>show on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/</link>
+    <description>Recent content in show on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/errorCode/</guid>
+      <description>event.errorCode   Type Number
+  Event show
+  See also show qrscanner.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.
+Possible values:
+ &#39;cancelled&#39; &#39;no_camera&#39; &#39;permission_denied&#39; &#39;permission_denied_should_never_ask_again&#39; &#39;unknown&#39;  </description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/errorMessage/</guid>
+      <description>event.errorMessage   Type String
+  Event show
+  See also show qrscanner.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event show
+  See also show qrscanner.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>message</title>
+      <link>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/message/</guid>
+      <description>event.message   Type String
+  Event show
+  See also show qrscanner.*
+  Overview String decoded message from a QR code or a barcode.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/name/</guid>
+      <description>event.name   Type String
+  Event show
+  See also show qrscanner.*
+  Overview The string &amp;quot;show&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>symbol</title>
+      <link>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/symbol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/qrscanner/event/show/symbol/</guid>
+      <description>event.symbol   Type String
+  Event show
+  See also show qrscanner.*
+  Overview String indicates the type of symbol that was scanned. iOS only.</description>
+    </item>
+    
+  </channel>
+</rss>

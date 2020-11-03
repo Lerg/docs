@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haptic on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/vibrator/type/Haptic/</link>
+    <description>Recent content in Haptic on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/vibrator/type/Haptic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>invoke</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vibrator/type/Haptic/invoke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vibrator/type/Haptic/invoke/</guid>
+      <description>haptic:invoke()   Type Function
+  Return value none
+  See also vibrator.* Haptic
+  Overview Invokes the Taptic Engine.
+Syntax haptic:invoke([notificationType]) notificationType optional String. Only for the &#39;notification&#39; haptic type. Vibrates with different patterns based on the notification type, can be &#39;success&#39; (default), &#39;warning&#39; or &#39;error&#39;.</description>
+    </item>
+    
+    <item>
+      <title>prepare</title>
+      <link>http://docs.spiralcodestudio.com/plugin/vibrator/type/Haptic/prepare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/vibrator/type/Haptic/prepare/</guid>
+      <description>haptic:prepare()   Type Function
+  Return value none
+  See also vibrator.* Haptic
+  Overview Puts the Taptic Engine into the prepared state, in which a shortly delayed call to invoke() has a smaller latency.
+Syntax haptic:prepare() </description>
+    </item>
+    
+  </channel>
+</rss>

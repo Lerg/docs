@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nfc on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/nfc/</link>
+    <description>Recent content in nfc on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/nfc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>beam</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/beam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/beam/</guid>
+      <description>nfc.beam()   Type Function
+  Return value none
+  Platform Android only
+  See also nfc.*
+  Overview Beam prepares the device for beaming an NDEF message to another device. The transfer starts when two devices are put near together.
+Syntax nfc.beam(params) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.</description>
+    </item>
+    
+    <item>
+      <title>cancelBeam</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/cancelBeam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/cancelBeam/</guid>
+      <description>nfc.cancelBeam()   Type Function
+  Return value none
+  Platform Android only
+  See also nfc.*
+  Overview Cancels any previously prepared with nfc.beam() message.
+Syntax nfc.cancelBeam() </description>
+    </item>
+    
+    <item>
+      <title>close</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/close/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/close/</guid>
+      <description>nfc.close()   Type Function
+  Return value none
+  Platform iOS only
+  See also nfc.*
+  Overview Closes an opened NFC reading dialog.
+Syntax nfc.close() </description>
+    </item>
+    
+    <item>
+      <title>enableDebug</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/enableDebug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/enableDebug/</guid>
+      <description>nfc.enableDebug()   Type Function
+  Return value none
+  See also nfc.*
+  Overview Enables additional output for debugging purposes.
+Syntax nfc.enableDebug() </description>
+    </item>
+    
+    <item>
+      <title>init</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/init/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/init/</guid>
+      <description>nfc.init()   Type Function
+  Return value none
+  See also nfc.*
+  Overview Initializes the NFC subsystem.
+Syntax nfc.init(listener) listener required Listener. Listener which receives the init event.</description>
+    </item>
+    
+    <item>
+      <title>releaseTag</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/releaseTag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/releaseTag/</guid>
+      <description>nfc.releaseTag()   Type Function
+  Return value none
+  Platform Android only
+  See also nfc.*
+  Overview Release a previously discovered tag, meaning that you don&amp;rsquo;t plan to write any data to it.
+Syntax nfc.releaseTag() </description>
+    </item>
+    
+    <item>
+      <title>removeListener</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/removeListener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/removeListener/</guid>
+      <description>nfc.removeListener()   Type Function
+  Return value none
+  See also nfc.*
+  Overview Removes a previously defined with nfc.setListener() listener.
+Syntax nfc.removeListener() </description>
+    </item>
+    
+    <item>
+      <title>setListener</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/setListener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/setListener/</guid>
+      <description>nfc.setListener()   Type Function
+  Return value none
+  See also nfc.*
+  Overview Sets a listener to recieve reading TAGs nfc events. If there is a pending NFC event, the listener will be invoked right away. Pending event can occur when your app is launched due to an NFC device being discovered.
+Syntax nfc.setListener(listener) </description>
+    </item>
+    
+    <item>
+      <title>show</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/show/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/show/</guid>
+      <description>nfc.show()   Type Function
+  Return value none
+  Platform iOS only
+  See also nfc.*
+  Overview Shows iOS native NFC reading dialog.
+Syntax nfc.show(params) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.
+message optional String. A message that appears inside the dialog window with instructions for a user, e.</description>
+    </item>
+    
+    <item>
+      <title>writeTag</title>
+      <link>http://docs.spiralcodestudio.com/plugin/nfc/writeTag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/nfc/writeTag/</guid>
+      <description>nfc.writeTag()   Type Function
+  Return value none
+  Platform Android only
+  See also nfc.*
+  Overview Writes the provided NDEF message into the recently discovered NFC tag. Therefore call this only after you have discovered a TAG.
+Syntax nfc.writeTag(params) params required Table. Contains parameters for the call — see the next section for details.
+Parameter Reference The params table includes parameters for the call.</description>
+    </item>
+    
+  </channel>
+</rss>

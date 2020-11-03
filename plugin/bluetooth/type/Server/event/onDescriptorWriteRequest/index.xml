@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onDescriptorWriteRequest on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/</link>
+    <description>Recent content in onDescriptorWriteRequest on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>descriptor</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/descriptor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/descriptor/</guid>
+      <description>event.descriptor   Type Descriptor Event onDescriptorWriteRequest
+  See also onDescriptorWriteRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>device</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/device/</guid>
+      <description>event.device   Type Device Event onDescriptorWriteRequest
+  See also onDescriptorWriteRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/isError/</guid>
+      <description>event.isError   Type Boolean Event onDescriptorWriteRequest
+  See also onDescriptorWriteRequest bluetooth.*
+  Overview false.</description>
+    </item>
+    
+    <item>
+      <title>isPreparedWrite</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/isPreparedWrite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/isPreparedWrite/</guid>
+      <description>event.isPreparedWrite   Type Boolean Event onDescriptorWriteRequest
+  See also onDescriptorWriteRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isResponseNeeded</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/isResponseNeeded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/isResponseNeeded/</guid>
+      <description>event.isResponseNeeded   Type Boolean Event onDescriptorWriteRequest
+  See also onDescriptorWriteRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/name/</guid>
+      <description>event.name   Type String Event onDescriptorWriteRequest
+  See also onDescriptorWriteRequest bluetooth.*
+  Overview The string &amp;quot;onDescriptorWriteRequest&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>offset</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/offset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/offset/</guid>
+      <description>event.offset   Type Number Event onDescriptorWriteRequest
+  See also onDescriptorWriteRequest bluetooth.*
+  Overview Integer.</description>
+    </item>
+    
+    <item>
+      <title>requestId</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/requestId/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/requestId/</guid>
+      <description>event.requestId   Type String Event onDescriptorWriteRequest
+  See also onDescriptorWriteRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>value</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/value/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onDescriptorWriteRequest/value/</guid>
+      <description>event.value   Type String Event onDescriptorWriteRequest
+  See also onDescriptorWriteRequest bluetooth.*
+  Overview </description>
+    </item>
+    
+  </channel>
+</rss>

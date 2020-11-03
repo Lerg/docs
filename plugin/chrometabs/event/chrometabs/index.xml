@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chrometabs on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/</link>
+    <description>Recent content in chrometabs on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/errorMessage/</guid>
+      <description>event.errorMessage   Type String
+  Event chrometabs
+  See also chrometabs chrometabs.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event chrometabs
+  See also chrometabs chrometabs.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/name/</guid>
+      <description>event.name   Type String
+  Event chrometabs
+  See also chrometabs chrometabs.*
+  Overview The string &amp;quot;chrometabs&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>phase</title>
+      <link>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/phase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/chrometabs/event/chrometabs/phase/</guid>
+      <description>event.phase   Type String
+  Event chrometabs
+  See also chrometabs chrometabs.*
+  Overview Phase, &#39;init&#39;.</description>
+    </item>
+    
+  </channel>
+</rss>

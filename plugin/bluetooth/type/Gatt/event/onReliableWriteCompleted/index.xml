@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onReliableWriteCompleted on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/</link>
+    <description>Recent content in onReliableWriteCompleted on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/errorCode/</guid>
+      <description>event.errorCode   Type Number Event onReliableWriteCompleted
+  See also onReliableWriteCompleted bluetooth.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/errorMessage/</guid>
+      <description>event.errorMessage   Type String Event onReliableWriteCompleted
+  See also onReliableWriteCompleted bluetooth.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>gatt</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/gatt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/gatt/</guid>
+      <description>event.gatt   Type Gatt Event onReliableWriteCompleted
+  See also onReliableWriteCompleted bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/isError/</guid>
+      <description>event.isError   Type Boolean Event onReliableWriteCompleted
+  See also onReliableWriteCompleted bluetooth.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/event/onReliableWriteCompleted/name/</guid>
+      <description>event.name   Type String Event onReliableWriteCompleted
+  See also onReliableWriteCompleted bluetooth.*
+  Overview The string &amp;quot;onReliableWriteCompleted&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

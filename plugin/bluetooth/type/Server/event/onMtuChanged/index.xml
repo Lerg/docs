@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onMtuChanged on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/</link>
+    <description>Recent content in onMtuChanged on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>device</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/device/</guid>
+      <description>event.device   Type Device Event onMtuChanged
+  See also onMtuChanged bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/isError/</guid>
+      <description>event.isError   Type Boolean Event onMtuChanged
+  See also onMtuChanged bluetooth.*
+  Overview false.</description>
+    </item>
+    
+    <item>
+      <title>mtu</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/mtu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/mtu/</guid>
+      <description>event.mtu   Type String Event onMtuChanged
+  See also onMtuChanged bluetooth.*
+  Overview </description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Server/event/onMtuChanged/name/</guid>
+      <description>event.name   Type String Event onMtuChanged
+  See also onMtuChanged bluetooth.*
+  Overview The string &amp;quot;onMtuChanged&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Characteristic on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/</link>
+    <description>Recent content in Characteristic on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>addDescriptor</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/addDescriptor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/addDescriptor/</guid>
+      <description>object:addDescriptor()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:addDescriptor( descriptor )  descriptor required Descriptor.</description>
+    </item>
+    
+    <item>
+      <title>getDescriptor</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getDescriptor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getDescriptor/</guid>
+      <description>object:getDescriptor()   Type Function Return value Descriptor
+  See also bluetooth.*
+  Overview Syntax object:getDescriptor( uuid )  uuid required String.</description>
+    </item>
+    
+    <item>
+      <title>getDescriptors</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getDescriptors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getDescriptors/</guid>
+      <description>object:getDescriptors()   Type Function Return value Array
+  See also bluetooth.*
+  Overview Syntax object:getDescriptors()  </description>
+    </item>
+    
+    <item>
+      <title>getFloatValue</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getFloatValue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getFloatValue/</guid>
+      <description>object:getFloatValue()   Type Function Return value Number
+  See also bluetooth.*
+  Overview Syntax object:getFloatValue( [format], [offset] )  format optional String. &amp;quot;float&amp;quot; or &amp;quot;sfloat&amp;quot; (default).
+offset optional Number. Integer, default is 0.</description>
+    </item>
+    
+    <item>
+      <title>getIntValue</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getIntValue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getIntValue/</guid>
+      <description>object:getIntValue()   Type Function Return value Number
+  See also bluetooth.*
+  Overview Returns integer.
+Syntax object:getIntValue( [format], [offset] )  format optional String. &amp;quot;sint8&amp;quot;, &amp;quot;sint16&amp;quot;, &amp;quot;sint32&amp;quot; (default), &amp;quot;uint8&amp;quot;, &amp;quot;uint16&amp;quot; or &amp;quot;uint32&amp;quot;.
+offset optional Number. Integer, default is 0.</description>
+    </item>
+    
+    <item>
+      <title>getService</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getService/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getService/</guid>
+      <description>object:getService()   Type Function Return value Service
+  See also bluetooth.*
+  Overview Syntax object:getService()  </description>
+    </item>
+    
+    <item>
+      <title>getStringValue</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getStringValue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getStringValue/</guid>
+      <description>object:getStringValue()   Type Function Return value String
+  See also bluetooth.*
+  Overview Syntax object:getStringValue( [offset] )  offset optional Number. Integer, default is 0.</description>
+    </item>
+    
+    <item>
+      <title>getValue</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getValue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getValue/</guid>
+      <description>object:getValue()   Type Function Return value String
+  See also bluetooth.*
+  Overview Syntax object:getValue()  </description>
+    </item>
+    
+    <item>
+      <title>getWriteType</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getWriteType/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/getWriteType/</guid>
+      <description>object:getWriteType()   Type Function Return value String
+  See also bluetooth.*
+  Overview &amp;quot;default&amp;quot;, &amp;quot;no response&amp;quot; or &amp;quot;signed&amp;quot;.
+Syntax object:getWriteType() </description>
+    </item>
+    
+    <item>
+      <title>id</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/id/</guid>
+      <description>object.id   Type Number
+  See also bluetooth.*
+  Overview Integer.</description>
+    </item>
+    
+    <item>
+      <title>permissions</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/permissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/permissions/</guid>
+      <description>object.permissions   Type Array
+  See also bluetooth.*
+  Overview Can contain &amp;quot;read&amp;quot;, &amp;quot;read encrypted&amp;quot;, &amp;quot;read encrypted mitm&amp;quot;, &amp;quot;write&amp;quot;, &amp;quot;write encrypted&amp;quot;, &amp;quot;write encrypted mitm&amp;quot;, &amp;quot;write signed&amp;quot; and &amp;quot;write signed mitm&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>properties</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/properties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/properties/</guid>
+      <description>object.properties   Type Array
+  See also bluetooth.*
+  Overview Can contain &amp;quot;broadcast&amp;quot;, &amp;quot;extended props&amp;quot;, &amp;quot;indicate&amp;quot;, &amp;quot;notify&amp;quot;, &amp;quot;read&amp;quot;, &amp;quot;signed write&amp;quot;, &amp;quot;write&amp;quot; and &amp;quot;write no response&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>setFloatValue</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setFloatValue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setFloatValue/</guid>
+      <description>object:setFloatValue()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:setFloatValue( mantissa, exponent, [format], [offset] )  mantissa required Number. Integer.
+exponent required Number. Integer.
+format optional String. &amp;quot;float&amp;quot; or &amp;quot;sfloat&amp;quot; (default).
+offset optional Number. Integer, default is 0.</description>
+    </item>
+    
+    <item>
+      <title>setIntValue</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setIntValue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setIntValue/</guid>
+      <description>object:setIntValue()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:setIntValue( value, [format], [offset] )  value required Number. Integer.
+format optional String. &amp;quot;sint8&amp;quot;, &amp;quot;sint16&amp;quot;, &amp;quot;sint32&amp;quot; (default), &amp;quot;uint8&amp;quot;, &amp;quot;uint16&amp;quot; or &amp;quot;uint32&amp;quot;.
+offset optional Number. Integer, default is 0.</description>
+    </item>
+    
+    <item>
+      <title>setStringValue</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setStringValue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setStringValue/</guid>
+      <description>object:setStringValue()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:setStringValue( value )  value required String.</description>
+    </item>
+    
+    <item>
+      <title>setValue</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setValue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setValue/</guid>
+      <description>object:setValue()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:setValue( value )  value required String.</description>
+    </item>
+    
+    <item>
+      <title>setWriteType</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setWriteType/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/setWriteType/</guid>
+      <description>object:setWriteType()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax object:setWriteType( writeType )  format required String. &amp;quot;default&amp;quot;, &amp;quot;no response&amp;quot; or &amp;quot;signed&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>uuid</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/uuid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Characteristic/uuid/</guid>
+      <description>object.uuid   Type String
+  See also bluetooth.*
+  Overview </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gatt on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/</link>
+    <description>Recent content in Gatt on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>abortReliableWrite</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/abortReliableWrite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/abortReliableWrite/</guid>
+      <description>object:abortReliableWrite()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax object:abortReliableWrite()  </description>
+    </item>
+    
+    <item>
+      <title>beginReliableWrite</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/beginReliableWrite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/beginReliableWrite/</guid>
+      <description>object:beginReliableWrite()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax object:beginReliableWrite()  </description>
+    </item>
+    
+    <item>
+      <title>connect</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/connect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/connect/</guid>
+      <description>object:connect()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:connect()  </description>
+    </item>
+    
+    <item>
+      <title>disconnect</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/disconnect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/disconnect/</guid>
+      <description>object:disconnect()   Type Function Return value none
+  See also bluetooth.*
+  Overview Syntax object:disconnect()  </description>
+    </item>
+    
+    <item>
+      <title>discoverServices</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/discoverServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/discoverServices/</guid>
+      <description>object:discoverServices()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:discoverServices()  </description>
+    </item>
+    
+    <item>
+      <title>executeReliableWrite</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/executeReliableWrite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/executeReliableWrite/</guid>
+      <description>object:executeReliableWrite()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:executeReliableWrite()  </description>
+    </item>
+    
+    <item>
+      <title>getService</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/getService/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/getService/</guid>
+      <description>object:getService()   Type Function Return value Service
+  See also bluetooth.*
+  Overview Syntax object:getService( uuid )  uuid required String.</description>
+    </item>
+    
+    <item>
+      <title>getServices</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/getServices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/getServices/</guid>
+      <description>object:getServices()   Type Function Return value Array
+  See also bluetooth.*
+  Overview Syntax object:getServices() </description>
+    </item>
+    
+    <item>
+      <title>readCharacteristic</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/readCharacteristic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/readCharacteristic/</guid>
+      <description>object:readCharacteristic()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:readCharacteristic( characteristic )  characteristic required Characteristic.</description>
+    </item>
+    
+    <item>
+      <title>readDescriptor</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/readDescriptor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/readDescriptor/</guid>
+      <description>object:readDescriptor()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:readDescriptor( descriptor )  descriptor required Descriptor.</description>
+    </item>
+    
+    <item>
+      <title>readRemoteRssi</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/readRemoteRssi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/readRemoteRssi/</guid>
+      <description>object:readRemoteRssi()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:readRemoteRssi()  </description>
+    </item>
+    
+    <item>
+      <title>requestConnectionPriority</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/requestConnectionPriority/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/requestConnectionPriority/</guid>
+      <description>object:requestConnectionPriority()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:requestConnectionPriority( priority )  priority required String. &amp;quot;high&amp;quot;, &amp;quot;low power&amp;quot; or &amp;quot;balanced&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>requestMtu</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/requestMtu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/requestMtu/</guid>
+      <description>object:requestMtu()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:requestMtu( mtu )  mtu required Number.</description>
+    </item>
+    
+    <item>
+      <title>setCharacteristicNotification</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/setCharacteristicNotification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/setCharacteristicNotification/</guid>
+      <description>object:setCharacteristicNotification()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:setCharacteristicNotification( characteristic, isEnabled )  characteristic required Characteristic.
+isEnabled required Boolean.</description>
+    </item>
+    
+    <item>
+      <title>writeCharacteristic</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/writeCharacteristic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/writeCharacteristic/</guid>
+      <description>object:writeCharacteristic()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:writeCharacteristic( characteristic )  characteristic required Characteristic.</description>
+    </item>
+    
+    <item>
+      <title>writeDescriptor</title>
+      <link>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/writeDescriptor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/bluetooth/type/Gatt/writeDescriptor/</guid>
+      <description>object:writeDescriptor()   Type Function Return value Boolean
+  See also bluetooth.*
+  Overview Syntax object:writeDescriptor( descriptor )  descriptor required Descriptor.</description>
+    </item>
+    
+  </channel>
+</rss>

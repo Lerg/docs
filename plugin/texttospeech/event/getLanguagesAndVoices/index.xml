@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>getLanguagesAndVoices on Documentation Spiral Code Studio</title>
+    <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/</link>
+    <description>Recent content in getLanguagesAndVoices on Documentation Spiral Code Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>errorCode</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/errorCode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/errorCode/</guid>
+      <description>event.errorCode   Type Number
+  Event getLanguagesAndVoices
+  See also getLanguagesAndVoices texttospeech.*
+  Overview Unique error code, present when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>errorMessage</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/errorMessage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/errorMessage/</guid>
+      <description>event.errorMessage   Type String
+  Event getLanguagesAndVoices
+  See also getLanguagesAndVoices texttospeech.*
+  Overview String description of an error when event.isError is true, nil otherwise.</description>
+    </item>
+    
+    <item>
+      <title>isError</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/isError/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/isError/</guid>
+      <description>event.isError   Type Boolean
+  Event getLanguagesAndVoices
+  See also getLanguagesAndVoices texttospeech.*
+  Overview Boolean of true in case of an error.</description>
+    </item>
+    
+    <item>
+      <title>languages</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/languages/</guid>
+      <description>event.languages   Type Array
+  Event getLanguagesAndVoices
+  See also getLanguagesAndVoices texttospeech.*
+  Overview The list of available languages.
+Sample output { &amp;#39;vi-VN&amp;#39;, &amp;#39;en-AU&amp;#39;, &amp;#39;ku-&amp;#39;, &amp;#39;pl-PL&amp;#39;, &amp;#39;pt-BR&amp;#39;, &amp;#39;da-DK&amp;#39;, &amp;#39;ta-&amp;#39;, &amp;#39;sq-&amp;#39;, &amp;#39;ja-JP&amp;#39;, &amp;#39;cy-&amp;#39;, &amp;#39;en-US&amp;#39;, &amp;#39;tr-TR&amp;#39;, &amp;#39;ru-RU&amp;#39;, &amp;#39;in-ID&amp;#39;, &amp;#39;ko-KR&amp;#39;, &amp;#39;yue-HK&amp;#39;, &amp;#39;hi-IN&amp;#39;, &amp;#39;bn-BD&amp;#39;, &amp;#39;sr-&amp;#39;, &amp;#39;fi-FI&amp;#39;, &amp;#39;en-IN&amp;#39;, &amp;#39;it-IT&amp;#39;, &amp;#39;cs-&amp;#39;, &amp;#39;ca-&amp;#39;, &amp;#39;hr-&amp;#39;, &amp;#39;de-DE&amp;#39;, &amp;#39;es-US&amp;#39;, &amp;#39;zh-CN&amp;#39;, &amp;#39;sk-&amp;#39;, &amp;#39;es-ES&amp;#39;, &amp;#39;zh-TW&amp;#39;, &amp;#39;th-TH&amp;#39;, &amp;#39;sw-&amp;#39;, &amp;#39;sv-SE&amp;#39;, &amp;#39;nb-NO&amp;#39;, &amp;#39;fr-BE&amp;#39;, &amp;#39;en-GB&amp;#39;, &amp;#39;la-&amp;#39;, &amp;#39;nl-NL&amp;#39;, &amp;#39;bs-&amp;#39;, &amp;#39;hu-HU&amp;#39;, &amp;#39;pt-PT&amp;#39;, &amp;#39;fr-FR&amp;#39; } </description>
+    </item>
+    
+    <item>
+      <title>name</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/name/</guid>
+      <description>event.name   Type String
+  Event getLanguagesAndVoices
+  See also getLanguagesAndVoices texttospeech.*
+  Overview The string &amp;quot;getLanguagesAndVoices&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>voices</title>
+      <link>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/voices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.spiralcodestudio.com/plugin/texttospeech/event/getLanguagesAndVoices/voices/</guid>
+      <description>event.voices   Type Table
+  Event getLanguagesAndVoices
+  See also getLanguagesAndVoices texttospeech.*
+  Overview The list of available voices.
+Sample output { [&amp;#39;de-de-x-nfh#male_2-local&amp;#39;] = &amp;#39;de-DE&amp;#39;, [&amp;#39;fr-fr-x-vlf#female_1-local&amp;#39;] = &amp;#39;fr-FR&amp;#39;, [&amp;#39;es-US-language&amp;#39;] = &amp;#39;es-US&amp;#39;, [&amp;#39;it-it-x-kda-local&amp;#39;] = &amp;#39;it-IT&amp;#39;, [&amp;#39;ko-kr-x-ism#female_2-local&amp;#39;] = &amp;#39;ko-KR&amp;#39;, [&amp;#39;hi-in-x-cfn#male_3-local&amp;#39;] = &amp;#39;hi-IN&amp;#39;, [&amp;#39;fr-fr-x-vlf#female_3-local&amp;#39;] = &amp;#39;fr-FR&amp;#39;, [&amp;#39;en-au-x-afh-network&amp;#39;] = &amp;#39;en-AU&amp;#39;, [&amp;#39;hi-in-x-cfn#male_1-local&amp;#39;] = &amp;#39;hi-IN&amp;#39;, [&amp;#39;hi-in-x-cfn-network&amp;#39;] = &amp;#39;hi-IN&amp;#39;, [&amp;#39;sk&amp;#39;] = &amp;#39;sk-&amp;#39;, [&amp;#39;ja-jp-x-htm#male_2-local&amp;#39;] = &amp;#39;ja-JP&amp;#39;, [&amp;#39;fr-BE&amp;#39;] = &amp;#39;fr-BE&amp;#39;, [&amp;#39;ja-jp-x-htm#female_3-local&amp;#39;] = &amp;#39;ja-JP&amp;#39;, [&amp;#39;en-gb-x-fis#male_2-local&amp;#39;] = &amp;#39;en-GB&amp;#39;, [&amp;#39;pt-PT&amp;#39;] = &amp;#39;pt-PT&amp;#39;, [&amp;#39;ru-RU-language&amp;#39;] = &amp;#39;ru-RU&amp;#39;, [&amp;#39;cs&amp;#39;] = &amp;#39;cs-&amp;#39;, [&amp;#39;bs&amp;#39;] = &amp;#39;bs-&amp;#39;, [&amp;#39;ko-kr-x-ism#male_1-local&amp;#39;] = &amp;#39;ko-KR&amp;#39;, [&amp;#39;bn-BD-language&amp;#39;] = &amp;#39;bn-BD&amp;#39;, [&amp;#39;th-th-x-mol#male_3-local&amp;#39;] = &amp;#39;th-TH&amp;#39;, [&amp;#39;sv-se-x-lfs-local&amp;#39;] = &amp;#39;sv-SE&amp;#39;, [&amp;#39;ru-ru-x-dfc#female_1-local&amp;#39;] = &amp;#39;ru-RU&amp;#39;, [&amp;#39;en-us-x-sfg#male_1-local&amp;#39;] = &amp;#39;en-US&amp;#39;, [&amp;#39;pl-pl-x-oda#male_1-local&amp;#39;] = &amp;#39;pl-PL&amp;#39;, [&amp;#39;sr&amp;#39;] = &amp;#39;sr-&amp;#39;, [&amp;#39;en-gb-x-fis#female_2-local&amp;#39;] = &amp;#39;en-GB&amp;#39;, [&amp;#39;hu-hu-x-kfl-local&amp;#39;] = &amp;#39;hu-HU&amp;#39;, [&amp;#39;en-gb-x-rjs#male_3-local&amp;#39;] = &amp;#39;en-GB&amp;#39;, [&amp;#39;ja-jp-x-htm#female_1-local&amp;#39;] = &amp;#39;ja-JP&amp;#39;, [&amp;#39;it-it-x-kda#female_1-local&amp;#39;] = &amp;#39;it-IT&amp;#39;, [&amp;#39;en-in-x-ahp-network&amp;#39;] = &amp;#39;en-IN&amp;#39;, [&amp;#39;en-gb-x-rjs#female_2-local&amp;#39;] = &amp;#39;en-GB&amp;#39;, [&amp;#39;pl-pl-x-oda-local&amp;#39;] = &amp;#39;pl-PL&amp;#39;, [&amp;#39;hi-in-x-cfn#male_2-local&amp;#39;] = &amp;#39;hi-IN&amp;#39;, [&amp;#39;es-us-x-sfb-local&amp;#39;] = &amp;#39;es-US&amp;#39;, [&amp;#39;pt-br-x-afs#female_2-local&amp;#39;] = &amp;#39;pt-BR&amp;#39;, [&amp;#39;ru-ru-x-dfc#female_3-local&amp;#39;] = &amp;#39;ru-RU&amp;#39;, [&amp;#39;de-de-x-nfh#male_3-local&amp;#39;] = &amp;#39;de-DE&amp;#39;, [&amp;#39;it-it-x-kda-network&amp;#39;] = &amp;#39;it-IT&amp;#39;, [&amp;#39;id-id-x-dfz#female_1-local&amp;#39;] = &amp;#39;in-ID&amp;#39;, [&amp;#39;th-th-x-mol#male_2-local&amp;#39;] = &amp;#39;th-TH&amp;#39;, [&amp;#39;bn-bd-x-ban-local&amp;#39;] = &amp;#39;bn-BD&amp;#39;, [&amp;#39;ca&amp;#39;] = &amp;#39;ca-&amp;#39;, [&amp;#39;pl-pl-x-oda#male_2-local&amp;#39;] = &amp;#39;pl-PL&amp;#39;, [&amp;#39;ja-JP-language&amp;#39;] = &amp;#39;ja-JP&amp;#39;, [&amp;#39;sq&amp;#39;] = &amp;#39;sq-&amp;#39;, [&amp;#39;zh-CN-language&amp;#39;] = &amp;#39;zh-CN&amp;#39;, [&amp;#39;hi-in-x-cfn#female_2-local&amp;#39;] = &amp;#39;hi-IN&amp;#39;, [&amp;#39;sv-se-x-lfs-network&amp;#39;] = &amp;#39;sv-SE&amp;#39;, [&amp;#39;th-TH-language&amp;#39;] = &amp;#39;th-TH&amp;#39;, [&amp;#39;ko-kr-x-ism#male_2-local&amp;#39;] = &amp;#39;ko-KR&amp;#39;, [&amp;#39;en-gb-x-rjs-local&amp;#39;] = &amp;#39;en-GB&amp;#39;, [&amp;#39;en-gb-x-rjs-network&amp;#39;] = &amp;#39;en-GB&amp;#39;, [&amp;#39;pt-br-x-afs#female_3-local&amp;#39;] = &amp;#39;pt-BR&amp;#39;, [&amp;#39;cmn-cn-x-ssa-network&amp;#39;] = &amp;#39;zh-CN&amp;#39;, [&amp;#39;es-us-x-sfb#male_1-local&amp;#39;] = &amp;#39;es-US&amp;#39;, [&amp;#39;it-it-x-kda#female_3-local&amp;#39;] = &amp;#39;it-IT&amp;#39;, [&amp;#39;pt-br-x-afs#female_1-local&amp;#39;] = &amp;#39;pt-BR&amp;#39;, [&amp;#39;en-in-x-cxx-network&amp;#39;] = &amp;#39;en-IN&amp;#39;, [&amp;#39;id-id-x-dfz#female_3-local&amp;#39;] = &amp;#39;in-ID&amp;#39;, [&amp;#39;en-in-x-ahp-local&amp;#39;] = &amp;#39;en-IN&amp;#39;, [&amp;#39;pl-pl-x-oda-network&amp;#39;] = &amp;#39;pl-PL&amp;#39;, [&amp;#39;pt-BR-language&amp;#39;] = &amp;#39;pt-BR&amp;#39;, [&amp;#39;nl-nl-x-tfb-network&amp;#39;] = &amp;#39;nl-NL&amp;#39;, [&amp;#39;yue-HK-language&amp;#39;] = &amp;#39;yue-HK&amp;#39;, [&amp;#39;en-gb-x-fis#male_1-local&amp;#39;] = &amp;#39;en-GB&amp;#39;, [&amp;#39;nb-no-x-rfj-network&amp;#39;] = &amp;#39;nb-NO&amp;#39;, [&amp;#39;hi-in-x-cfn#female_1-local&amp;#39;] = &amp;#39;hi-IN&amp;#39;, [&amp;#39;it-it-x-kda#female_2-local&amp;#39;] = &amp;#39;it-IT&amp;#39;, [&amp;#39;sv-SE-language&amp;#39;] = &amp;#39;sv-SE&amp;#39;, [&amp;#39;vi-vn-x-gft-network&amp;#39;] = &amp;#39;vi-VN&amp;#39;, [&amp;#39;de-de-x-nfh-network&amp;#39;] = &amp;#39;de-DE&amp;#39;, [&amp;#39;en-gb-x-fis#female_1-local&amp;#39;] = &amp;#39;en-GB&amp;#39;, [&amp;#39;hr&amp;#39;] = &amp;#39;hr-&amp;#39;, [&amp;#39;nb-no-x-rfj-local&amp;#39;] = &amp;#39;nb-NO&amp;#39;, [&amp;#39;ru-ru-x-dfc#male_1-local&amp;#39;] = &amp;#39;ru-RU&amp;#39;, [&amp;#39;fr-fr-x-vlf#male_3-local&amp;#39;] = &amp;#39;fr-FR&amp;#39;, [&amp;#39;de-de-x-nfh#female_2-local&amp;#39;] = &amp;#39;de-DE&amp;#39;, [&amp;#39;es-us-x-sfb#female_1-local&amp;#39;] = &amp;#39;es-US&amp;#39;, [&amp;#39;vi-VN-language&amp;#39;] = &amp;#39;vi-VN&amp;#39;, [&amp;#39;bn-bd-x-ban-network&amp;#39;] = &amp;#39;bn-BD&amp;#39;, [&amp;#39;pt-br-x-afs#male_3-local&amp;#39;] = &amp;#39;pt-BR&amp;#39;, [&amp;#39;fr-FR-language&amp;#39;] = &amp;#39;fr-FR&amp;#39;, [&amp;#39;es-us-x-sfb#female_2-local&amp;#39;] = &amp;#39;es-US&amp;#39;, [&amp;#39;de-DE-language&amp;#39;] = &amp;#39;de-DE&amp;#39;, [&amp;#39;es-us-x-sfb#male_3-local&amp;#39;] = &amp;#39;es-US&amp;#39;, [&amp;#39;hu-HU-language&amp;#39;] = &amp;#39;hu-HU&amp;#39;, [&amp;#39;en-us-x-sfg-network&amp;#39;] = &amp;#39;en-US&amp;#39;, [&amp;#39;fi-fi-x-afi-local&amp;#39;] = &amp;#39;fi-FI&amp;#39;, [&amp;#39;es-es-x-ana-network&amp;#39;] = &amp;#39;es-ES&amp;#39;, [&amp;#39;en-gb-x-fis-local&amp;#39;] = &amp;#39;en-GB&amp;#39;, [&amp;#39;hi-in-x-cfn#female_3-local&amp;#39;] = &amp;#39;hi-IN&amp;#39;, [&amp;#39;ru-ru-x-dfc-network&amp;#39;] = &amp;#39;ru-RU&amp;#39;, [&amp;#39;en-AU-language&amp;#39;] = &amp;#39;en-AU&amp;#39;, [&amp;#39;da-DK-language&amp;#39;] = &amp;#39;da-DK&amp;#39;, [&amp;#39;zh-TW-language&amp;#39;] = &amp;#39;zh-TW&amp;#39;, [&amp;#39;en-gb-x-fis#male_3-local&amp;#39;] = &amp;#39;en-GB&amp;#39;, [&amp;#39;de-de-x-nfh#female_3-local&amp;#39;] = &amp;#39;de-DE&amp;#39;, [&amp;#39;id-id-x-dfz-local&amp;#39;] = &amp;#39;in-ID&amp;#39;, [&amp;#39;ko-kr-x-ism#female_1-local&amp;#39;] = &amp;#39;ko-KR&amp;#39;, [&amp;#39;en-us-x-sfg#male_2-local&amp;#39;] = &amp;#39;en-US&amp;#39;, } </description>
+    </item>
+    
+  </channel>
+</rss>
