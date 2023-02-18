@@ -13,7 +13,7 @@ title: nfc
 The NFC plugin enables your application to read NFC tags. NFC stands for Near Field Communication. At the moment the plugin only supports NDEF tags, but in the future based on your feedback, the plugin can be enhaced.
 To get access to the plugin, you need to support me on Patreon https://www.patreon.com/lerg
 
-Supported platforms: Android 4.0+. Some features require Android 4.1+ or 6.0+. iOS 11+.
+Supported platforms: Android 6.0+. iOS 11+.
 
 On iOS only iPhone 7 and later have capability to read NFC tags. And only NDEF tags are supported.
 
@@ -118,7 +118,8 @@ settings = {
                 actions = {'android.nfc.action.TAG_DISCOVERED'},
                 categories = {'android.intent.category.DEFAULT'}
             }
-        }
+        },
+        minSdkVersion = '23'
     }
 }
 ```
@@ -132,7 +133,8 @@ settings = {
                 categories = {'android.intent.category.DEFAULT'},
                 data = {mimeType = 'text/plain'}
             }
-        }
+        },
+        minSdkVersion = '23'
     }
 }
 ```
